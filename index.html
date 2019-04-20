@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Beat Saber Leaderboard Viewer</title>
+  <script src="script.js"></script>
+  <style>
+    .column {
+      float: left;
+      width: 300px;
+    }
+  </style>
+</head>
+
+<body>
+  <div>
+    <div class="column">
+      <input type="file" id="file-picker" />
+      <button id="sort-by-recent">Sort by recent</button>
+      <button id="sort-by-high-score">Sort by high score</button>
+      <ul id="player-filter"></ul>
+    </div>
+    <ul id="songs" class="column"></ul>
+    <div class="column">
+      <div id="song-name"></div>
+      <ul id="scores" class="list"></ul>
+    </div>
+  </div>
+</body>
+
+</html>
