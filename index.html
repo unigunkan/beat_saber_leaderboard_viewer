@@ -25,6 +25,12 @@
       margin: 0;
     }
 
+    .button {
+      display: inline-block;
+      margin: 25px;
+      padding: 5px 15px;
+    }
+
     .column {
       float: left;
       margin: 0;
@@ -33,10 +39,39 @@
       width: 400px;
     }
 
+    #file-picker {
+      display: none;
+    }
+
+    .highlightable:hover {
+      background-color: white;
+      color: #1c344f;
+    }
+
     #main {
       height: 100%;
       margin: 0 auto;
       width: 1200px;
+    }
+
+    .radio-button {
+      padding: 5px 15px;
+    }
+
+    .radio-buttons {
+      margin: 0 auto;
+      overflow: hidden;
+      width: 250px;
+    }
+
+    .round-outline {
+      border-radius: 15px;
+      box-shadow: 0 0 2pt 1pt white;
+    }
+
+    .selected {
+      background-color: white;
+      color: #1c344f;
     }
 
     .song {
@@ -59,18 +94,12 @@
       margin: 20px 70px;
     }
 
-    .song-selected {
-      background-color: white;
-      color: #1c344f;
-    }
-
     .song-top-row {
       text-overflow: ellipsis;
     }
 
-    #songs .song:hover {
-      background-color: white;
-      color: #1c344f;
+    #sort {
+      display: none;
     }
 
     table {
@@ -90,10 +119,28 @@
 <body>
   <div id="main">
     <div class="column">
-      <input type="file" id="file-picker" />
-      <button id="sort-by-recent">Sort by recent</button>
-      <button id="sort-by-high-score">Sort by high score</button>
-      <ul id="player-filter"></ul>
+      <div style="text-align: center">
+        <label class="button highlightable round-outline">
+          <input type="file" id="file-picker" />
+          Locate LocalLeaderboards.dat
+        </label>
+      </div>
+      <div id="sort">
+        <div style="text-align: center">Sort by:</div>
+        <div class="round-outline radio-buttons" id="sort-options">
+          <div class="radio-button highlightable" id="sort-by-recent">
+            Most recent
+          </div>
+          <div class="radio-button highlightable" id="sort-by-high-score">
+            High score
+          </div>
+        </div>
+      </div>
+      <div id="player-filter">
+        <div style="text-align: center">Top score held by:</div>
+        <div class="round-outline radio-buttons" id="player-filter-options">
+        </div>
+      </div>
     </div>
     <div id="songs" class="column"></div>
     <div class="column">

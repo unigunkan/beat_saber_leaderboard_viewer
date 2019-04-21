@@ -3,7 +3,6 @@
 // TODOs:
 // - Change the player filter into radio buttons
 // - Change the sort into radio buttons
-// - Convert button style
 // - Sort by number of plays
 // - Sort alphabetically
 // - Combine different difficulties of a song into one song object
@@ -178,6 +177,7 @@ function createScoreElement(score) {
 function createSelectableSongElement(song) {
   const element = createSongElement(song);
   element.addEventListener('mouseup', () => selectSongElement(element, song));
+  element.classList.add('highlightable');
   return element;
 }
 
@@ -279,9 +279,9 @@ function createPlayerFilterCheckbox(player) {
   const labelElement = document.createElement('label');
   labelElement.appendChild(inputElement);
   labelElement.append(player);
-  const liElement = document.createElement('li');
-  liElement.appendChild(labelElement);
-  return liElement;
+  const divElement = document.createElement('div');
+  divElement.appendChild(labelElement);
+  return divElement;
 }
 
 function updatePlayerFilter() {
@@ -292,22 +292,31 @@ function updatePlayerFilter() {
   }
 }
 
+function switchHighLight(oldElement, newElement) {
+  if (oldElement) {
+    oldElement.classList.remove('selected');
+  }
+  newElement.classList.add('selected');
+}
+
 function sortByRecent() {
   leaderboard.sortByRecent();
   updateSongList();
+  switchHighLight(
+      document.querySelector('#sort-options > .selected'),
+      document.querySelector('#sort-by-recent'));
 }
 
 function sortByHighScore() {
   leaderboard.sortByHighScore();
   updateSongList();
+  switchHighLight(
+      document.querySelector('#sort-options > .selected'),
+      document.querySelector('#sort-by-high-score'));
 }
 
 function selectSongElement(element, song) {
-  const currentSelection = document.querySelector('.song-selected');
-  if (currentSelection) {
-    currentSelection.classList.remove('song-selected');
-  }
-  element.className += ' song-selected';
+  switchHighLight(document.querySelector('.song.selected'), element);
   showScores(song);
 }
 
@@ -319,9 +328,9 @@ async function onFileSelected(event) {
   }
   const leaderboardJson = await parseJsonFile(files.item(0));
   leaderboard = new Leaderboard(leaderboardJson);
-  leaderboard.sortByRecent();
   updatePlayerFilter();
-  updateSongList();
+  sortByRecent();
+  document.querySelector('#sort').style.display = 'block';
 }
 
 function onDOMContentLoaded() {
