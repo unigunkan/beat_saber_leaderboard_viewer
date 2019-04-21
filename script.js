@@ -120,12 +120,11 @@ class Leaderboard {
   }
 
   /**
-   * @param {string[]} players
-   * @returns {Song[]} Songs whose high score is held by a player in |players|.
+   * @param {string} player
+   * @returns {Song[]} Songs whose highest score is held by |player|.
    */
-  getSongsForPlayers(players) {
-    return this.songs.filter(
-        song => players.indexOf(song.scores[0].player) != -1);
+  getSongsForPlayer(player) {
+    return this.songs.filter(song => song.scores[0].player == player);
   }
 
   /**
@@ -142,6 +141,8 @@ class Leaderboard {
 
 /** @type {Leaderboard} */
 let leaderboard;
+/** @type {string} */
+let selectedPlayer;
 
 /**
  * @param {File} file
@@ -246,7 +247,8 @@ function getPlayerFilter() {
 }
 
 function updateSongList() {
-  const songs = leaderboard.getSongsForPlayers(getPlayerFilter());
+  const songs = selectedPlayer ? leaderboard.getSongsForPlayer(selectedPlayer) :
+                                 leaderboard.songs;
   const songListFragment = document.createDocumentFragment();
   for (const song of songs) {
     songListFragment.appendChild(createSelectableSongElement(song));
@@ -260,7 +262,11 @@ function updateSongList() {
   }
 }
 
-function onPlayerFilterChanged() {
+function selectPlayer(player) {
+  selectedPlayer = (player == 'Anyone' ? null : player);
+  switchHighLight(
+      document.querySelector('#player-filter-options > .selected'),
+      document.querySelector(`#player-filter-option-${player}`));
   updateSongList();
 }
 
@@ -269,27 +275,23 @@ function onPlayerFilterChanged() {
  * @returns {HTMLElement}
  */
 function createPlayerFilterCheckbox(player) {
-  const inputElement = document.createElement('input');
-  inputElement.type = 'checkbox';
-  inputElement.className = 'player-filter-checkbox';
-  inputElement.name = player;
-  inputElement.checked = true;
-  inputElement.addEventListener('change', onPlayerFilterChanged);
-
-  const labelElement = document.createElement('label');
-  labelElement.appendChild(inputElement);
-  labelElement.append(player);
-  const divElement = document.createElement('div');
-  divElement.appendChild(labelElement);
-  return divElement;
+  const element = document.createElement('div');
+  element.className = 'radio-button highlightable';
+  element.id = `player-filter-option-${player}`;
+  element.innerText = player;
+  element.addEventListener('mouseup', () => selectPlayer(player));
+  return element;
 }
 
 function updatePlayerFilter() {
-  const playerFilter = document.querySelector('#player-filter');
+  const playerFilter = document.querySelector('#player-filter-options');
   playerFilter.innerHTML = '';
+  playerFilter.appendChild(createPlayerFilterCheckbox('Anyone'));
   for (const player of leaderboard.players) {
     playerFilter.appendChild(createPlayerFilterCheckbox(player));
   }
+  selectPlayer('Anyone');
+  document.querySelector('#player-filter').style.display = 'block';
 }
 
 function switchHighLight(oldElement, newElement) {
