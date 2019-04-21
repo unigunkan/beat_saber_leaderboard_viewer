@@ -1,10 +1,6 @@
 //@ts-check
 
 // TODOs:
-// - Change the player filter into radio buttons
-// - Change the sort into radio buttons
-// - Sort by number of plays
-// - Sort alphabetically
 // - Combine different difficulties of a song into one song object
 
 class Score {
@@ -117,6 +113,15 @@ class Leaderboard {
     this.songs.sort((song1, song2) => {
       return song2.scores[0].value - song1.scores[0].value;
     });
+  }
+
+  sortAlphabetically() {
+    this.songs.sort((song1, song2) => song1.name.localeCompare(song2.name));
+  }
+
+  sortByPlayCount() {
+    this.songs.sort(
+        (song1, song2) => song2.scores.length - song1.scores.length);
   }
 
   /**
@@ -317,6 +322,22 @@ function sortByHighScore() {
       document.querySelector('#sort-by-high-score'));
 }
 
+function sortAlphabetically() {
+  leaderboard.sortAlphabetically();
+  updateSongList();
+  switchHighLight(
+      document.querySelector('#sort-options > .selected'),
+      document.querySelector('#sort-alphabetically'));
+}
+
+function sortByPlayCount() {
+  leaderboard.sortByPlayCount();
+  updateSongList();
+  switchHighLight(
+      document.querySelector('#sort-options > .selected'),
+      document.querySelector('#sort-by-play-count'));
+}
+
 function selectSongElement(element, song) {
   switchHighLight(document.querySelector('.song.selected'), element);
   showScores(song);
@@ -342,6 +363,10 @@ function onDOMContentLoaded() {
       .addEventListener('mouseup', sortByRecent);
   document.querySelector('#sort-by-high-score')
       .addEventListener('mouseup', sortByHighScore);
+  document.querySelector('#sort-alphabetically')
+      .addEventListener('mouseup', sortAlphabetically);
+  document.querySelector('#sort-by-play-count')
+      .addEventListener('mouseup', sortByPlayCount);
 }
 
 document.addEventListener('DOMContentLoaded', onDOMContentLoaded);
