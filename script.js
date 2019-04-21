@@ -109,6 +109,12 @@ class Leaderboard {
     });
   }
 
+  sortByRecentHighScore() {
+    this.songs.sort((song1, song2) => {
+      return Number(song2.scores[0].date) - Number(song1.scores[0].date);
+    });
+  }
+
   sortByHighScore() {
     this.songs.sort((song1, song2) => {
       return song2.scores[0].value - song1.scores[0].value;
@@ -296,7 +302,8 @@ function updatePlayerFilter() {
     playerFilter.appendChild(createPlayerFilterCheckbox(player));
   }
   selectPlayer('Anyone');
-  document.querySelector('#player-filter').style.display = 'block';
+  /** @type {HTMLElement} */
+  (document.querySelector('#player-filter')).style.display = 'block';
 }
 
 function switchHighLight(oldElement, newElement) {
@@ -312,6 +319,14 @@ function sortByRecent() {
   switchHighLight(
       document.querySelector('#sort-options > .selected'),
       document.querySelector('#sort-by-recent'));
+}
+
+function sortByRecentHighScore() {
+  leaderboard.sortByRecentHighScore();
+  updateSongList();
+  switchHighLight(
+      document.querySelector('#sort-options > .selected'),
+      document.querySelector('#sort-by-recent-high-score'));
 }
 
 function sortByHighScore() {
@@ -353,7 +368,8 @@ async function onFileSelected(event) {
   leaderboard = new Leaderboard(leaderboardJson);
   updatePlayerFilter();
   sortByRecent();
-  document.querySelector('#sort').style.display = 'block';
+  /** @type {HTMLElement} */
+  (document.querySelector('#sort')).style.display = 'block';
 }
 
 function onDOMContentLoaded() {
@@ -361,6 +377,8 @@ function onDOMContentLoaded() {
       .addEventListener('change', onFileSelected);
   document.querySelector('#sort-by-recent')
       .addEventListener('mouseup', sortByRecent);
+  document.querySelector('#sort-by-recent-high-score')
+      .addEventListener('mouseup', sortByRecentHighScore);
   document.querySelector('#sort-by-high-score')
       .addEventListener('mouseup', sortByHighScore);
   document.querySelector('#sort-alphabetically')
