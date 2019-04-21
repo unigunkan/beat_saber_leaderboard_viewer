@@ -1,12 +1,12 @@
 //@ts-check
 
 // TODOs:
-// - Filter by the person on the top spot
+// - Change the player filter into radio buttons
+// - Change the sort into radio buttons
+// - Convert button style
 // - Sort by number of plays
 // - Sort alphabetically
-// - Use LitElement (or whatever their reactive framework was called)
 // - Combine different difficulties of a song into one song object
-// - Link to bsaber (needs to be a search link)
 
 class Score {
   constructor(json) {
@@ -164,8 +164,20 @@ function parseJsonFile(file) {
  * @returns {HTMLElement}
  */
 function createScoreElement(score) {
-  const element = document.createElement('li');
-  element.innerHTML = `${score.value} - ${score.player}`;
+  const element = document.createElement('tr');
+  element.innerHTML = `<td>${score.player}</td>
+       <td class="align-right">${score.value}</td>
+       <td class="align-right">${
+      score.date.toDateString().substring(4, 10)}</td>`;
+  return element;
+}
+
+/**
+ * @param {Song} song
+ */
+function createSelectableSongElement(song) {
+  const element = createSongElement(song);
+  element.addEventListener('mouseup', () => selectSongElement(element, song));
   return element;
 }
 
@@ -174,17 +186,42 @@ function createScoreElement(score) {
  * @returns {HTMLElement}
  */
 function createSongElement(song) {
-  const element = document.createElement('li');
-  element.innerHTML = `${song.name}`;
-  element.addEventListener('mouseup', () => showScores(song));
+  const element = document.createElement('div');
+  element.className = 'song';
+  element.innerHTML = `
+      <div class="song-top-row">${song.name}
+        <span class="song-artist">${song.artist}</span>
+      </div>
+      <div class="song-map-author">${song.mapAuthor}</div>`;
   return element;
 }
 
 /**
  * @param {Song} song
  */
+function updateSongName(song) {
+  const element = document.querySelector('#song-name');
+  element.innerHTML = '';
+  const songElement = createSongElement(song);
+  songElement.addEventListener('mouseup', () => openBeastSaber(song));
+  element.appendChild(songElement);
+}
+
+/**
+ * @param {Song} song
+ */
+function openBeastSaber(song) {
+  const query = `${song.name} ${song.artist}`;
+  const url = `https://bsaber.com/?s=${encodeURIComponent(query)}` +
+      `&orderby=relevance&order=DESC&post_type=page%2Cpost`;
+  window.open(url);
+}
+
+/**
+ * @param {Song} song
+ */
 function showScores(song) {
-  document.querySelector('#song-name').innerHTML = song.name;
+  updateSongName(song);
   const scoreListFragment = document.createDocumentFragment();
   for (const score of song.scores) {
     scoreListFragment.appendChild(createScoreElement(score));
@@ -212,14 +249,14 @@ function updateSongList() {
   const songs = leaderboard.getSongsForPlayers(getPlayerFilter());
   const songListFragment = document.createDocumentFragment();
   for (const song of songs) {
-    songListFragment.appendChild(createSongElement(song));
+    songListFragment.appendChild(createSelectableSongElement(song));
   }
   const songList = document.querySelector('#songs');
   songList.innerHTML = '';
   songList.appendChild(songListFragment);
 
   if (songs.length > 0) {
-    showScores(songs[0]);
+    selectSongElement(songList.children[0], songs[0]);
   }
 }
 
@@ -263,6 +300,15 @@ function sortByRecent() {
 function sortByHighScore() {
   leaderboard.sortByHighScore();
   updateSongList();
+}
+
+function selectSongElement(element, song) {
+  const currentSelection = document.querySelector('.song-selected');
+  if (currentSelection) {
+    currentSelection.classList.remove('song-selected');
+  }
+  element.className += ' song-selected';
+  showScores(song);
 }
 
 async function onFileSelected(event) {

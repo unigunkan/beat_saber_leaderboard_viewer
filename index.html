@@ -7,26 +7,98 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Beat Saber Leaderboard Viewer</title>
   <script src="script.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
   <style>
+    .align-right {
+      text-align: right;
+    }
+
+    body {
+      /* background-color: #172a3f; */
+      background: linear-gradient(0deg, rgba(2,0,36,1) 0%, #1c344f 100%);
+      background-size: cover;
+      color: white;
+      cursor: default;
+      font-family: 'Teko';
+      font-size: 25px;
+      height: 100vh;
+      margin: 0;
+    }
+
     .column {
       float: left;
-      width: 300px;
+      margin: 0;
+      max-height: 100%;
+      overflow: auto;
+      width: 400px;
+    }
+
+    #main {
+      height: 100%;
+      margin: 0 auto;
+      width: 1200px;
+    }
+
+    .song {
+      padding: 3px 5px;
+    }
+
+    .song-artist {
+      font-size: 0.8em;
+      padding-left: 10px;
+    }
+
+    .song-map-author {
+      font-size: 0.8em;
+      margin-top: -10px;
+      opacity: 0.5;
+    }
+
+    #song-name {
+      cursor: pointer;
+      margin: 20px 70px;
+    }
+
+    .song-selected {
+      background-color: white;
+      color: #1c344f;
+    }
+
+    .song-top-row {
+      text-overflow: ellipsis;
+    }
+
+    #songs .song:hover {
+      background-color: white;
+      color: #1c344f;
+    }
+
+    table {
+      margin-left: 50px;
+    }
+
+    table tr + tr {
+      border-top: 1px solid white;
+    }
+
+    td {
+      padding: 0 20px;
     }
   </style>
 </head>
 
 <body>
-  <div>
+  <div id="main">
     <div class="column">
       <input type="file" id="file-picker" />
       <button id="sort-by-recent">Sort by recent</button>
       <button id="sort-by-high-score">Sort by high score</button>
       <ul id="player-filter"></ul>
     </div>
-    <ul id="songs" class="column"></ul>
+    <div id="songs" class="column"></div>
     <div class="column">
       <div id="song-name"></div>
-      <ul id="scores" class="list"></ul>
+      <table id="scores" class="list"></table>
     </div>
   </div>
 </body>
