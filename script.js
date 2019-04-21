@@ -188,7 +188,7 @@ function createScoreElement(score) {
  */
 function createSelectableSongElement(song) {
   const element = createSongElement(song);
-  element.addEventListener('mouseup', () => selectSongElement(element, song));
+  element.addEventListener('mousedown', () => selectSongElement(element, song));
   element.classList.add('highlightable');
   return element;
 }
@@ -290,7 +290,7 @@ function createPlayerFilterCheckbox(player) {
   element.className = 'radio-button highlightable';
   element.id = `player-filter-option-${player}`;
   element.innerText = player;
-  element.addEventListener('mouseup', () => selectPlayer(player));
+  element.addEventListener('mousedown', () => selectPlayer(player));
   return element;
 }
 
@@ -376,15 +376,15 @@ function onDOMContentLoaded() {
   document.querySelector('#file-picker')
       .addEventListener('change', onFileSelected);
   document.querySelector('#sort-by-recent')
-      .addEventListener('mouseup', sortByRecent);
+      .addEventListener('mousedown', sortByRecent);
   document.querySelector('#sort-by-recent-high-score')
-      .addEventListener('mouseup', sortByRecentHighScore);
+      .addEventListener('mousedown', sortByRecentHighScore);
   document.querySelector('#sort-by-high-score')
-      .addEventListener('mouseup', sortByHighScore);
+      .addEventListener('mousedown', sortByHighScore);
   document.querySelector('#sort-alphabetically')
-      .addEventListener('mouseup', sortAlphabetically);
+      .addEventListener('mousedown', sortAlphabetically);
   document.querySelector('#sort-by-play-count')
-      .addEventListener('mouseup', sortByPlayCount);
+      .addEventListener('mousedown', sortByPlayCount);
 }
 
 document.addEventListener('DOMContentLoaded', onDOMContentLoaded);
