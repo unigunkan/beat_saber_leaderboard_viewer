@@ -8,13 +8,14 @@
   <title>Beat Saber Leaderboard Viewer</title>
   <script src="script.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
+  <link rel="icon" href="icon.png" />
   <style>
     .align-right {
       text-align: right;
     }
 
     body {
-      background: linear-gradient(0deg, rgba(2,0,36,1) 0%, #1c344f 100%);
+      background: linear-gradient(0deg, #060c11 0%, #1c344f 100%);
       background-size: cover;
       color: white;
       cursor: default;
@@ -70,7 +71,7 @@
     .round-outline {
       box-shadow: 0 0 0 2px #1c344f,
                   0 0 0 4px white;
-      border-radius: 15px;
+      border-radius: 25px;
     }
 
     .selected {
@@ -104,6 +105,7 @@
 
     #sort {
       display: none;
+      margin-top: 25px;
     }
 
     table {
@@ -123,7 +125,7 @@
 <body>
   <div id="main">
     <div class="column">
-      <div style="text-align: center">
+      <div id="file-picker-container" style="text-align: center">
         <label class="button highlightable round-outline">
           <input type="file" id="file-picker" />
           Locate LocalLeaderboards.dat
@@ -150,7 +152,7 @@
         </div>
       </div>
       <div id="player-filter">
-        <div style="text-align: center">Top score held by:</div>
+        <div style="text-align: center">High score held by:</div>
         <div class="round-outline radio-buttons" id="player-filter-options">
         </div>
       </div>

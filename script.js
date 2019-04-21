@@ -370,6 +370,8 @@ async function onFileSelected(event) {
   sortByRecent();
   /** @type {HTMLElement} */
   (document.querySelector('#sort')).style.display = 'block';
+  /** @type {HTMLElement} */
+  (document.querySelector('#file-picker-container')).style.display = 'none';
 }
 
 function onDOMContentLoaded() {
