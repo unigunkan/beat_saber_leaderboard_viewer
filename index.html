@@ -80,26 +80,30 @@
     }
 
     .song {
-      padding: 3px 5px;
+      padding: 8px;
     }
 
     .song-artist {
       font-size: 0.8em;
-      padding-left: 10px;
     }
 
     .song-map-author {
       font-size: 0.8em;
-      margin-top: -10px;
+      margin-top: -3px;
       opacity: 0.5;
     }
 
-    #song-name {
+    .song-name {
+      margin-right: 10px;
+    }
+
+    #song-name-for-scores {
       cursor: pointer;
       margin: 20px 70px;
     }
 
     .song-top-row {
+      line-height: 28px;
       text-overflow: ellipsis;
     }
 
@@ -159,7 +163,7 @@
     </div>
     <div id="songs" class="column"></div>
     <div class="column">
-      <div id="song-name"></div>
+      <div id="song-name-for-scores"></div>
       <table id="scores" class="list"></table>
     </div>
   </div>

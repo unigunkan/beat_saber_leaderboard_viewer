@@ -201,7 +201,8 @@ function createSongElement(song) {
   const element = document.createElement('div');
   element.className = 'song';
   element.innerHTML = `
-      <div class="song-top-row">${song.name}
+      <div class="song-top-row">
+        <span class="song-name">${song.name}</span>
         <span class="song-artist">${song.artist}</span>
       </div>
       <div class="song-map-author">${song.mapAuthor}</div>`;
@@ -212,7 +213,7 @@ function createSongElement(song) {
  * @param {Song} song
  */
 function updateSongName(song) {
-  const element = document.querySelector('#song-name');
+  const element = document.querySelector('#song-name-for-scores');
   element.innerHTML = '';
   const songElement = createSongElement(song);
   songElement.addEventListener('mouseup', () => openBeastSaber(song));
