@@ -300,13 +300,13 @@ class SongEntryElement extends LitElement {
         opacity: 0.5;
       }
 
-      .song-name {
-        margin-right: 10px;
-      }
-
       .song-top-row {
         line-height: 28px;
         text-overflow: ellipsis;
+      }
+
+      span {
+        margin-right: 15px;
       }
     `;
   }
@@ -318,9 +318,11 @@ class SongEntryElement extends LitElement {
         <span class="song-artist">${this.song.artist}</span>
       </div>
       <div class="song-bottom-row">
-        ${this.song.mapAuthor}
-        ${this.song.stars ? ' - ' + this.song.stars : ''}
-        ${this.showTopPlayer ? ' - ' + this.song.scores[0].player : ''}
+        <span>${this.song.mapAuthor}</span>
+        ${this.song.stars ? html`<span>${this.song.stars}</span>` : ''}
+        ${
+        this.showTopPlayer ? html`<span>${this.song.scores[0].player}</span>` :
+                             ''}
       </div>
     `;
   }
