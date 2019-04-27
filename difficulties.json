@@ -1,0 +1,4470 @@
+[
+  {
+    "Key": "10019-10494",
+    "Hash": "E897161391DF22B4A5CE679A187A4753",
+    "SongName": "I'm Gonna Make Her Mine",
+    "SongSubName": "Yakuza 0",
+    "AuthorName": "BuggyBumperz",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 152,
+        "Stars": 2.14
+      }
+    ],
+    "Bpm": 114.08000183105469,
+    "PlayedCount": 152
+  },
+  {
+    "Key": "1004-677",
+    "Hash": "F57695CDDF8A6B8CC245AE3429D3FF97",
+    "SongName": "Irony",
+    "SongSubName": "",
+    "AuthorName": "ClariS - Porter Robinson Edit",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 2026,
+        "Stars": 1.84
+      }
+    ],
+    "Bpm": 134,
+    "PlayedCount": 2026
+  },
+  {
+    "Key": "10201-10704",
+    "Hash": "5EC73C4DBD293FA7B7F794E38C8A9E6F",
+    "SongName": "Happppy song",
+    "SongSubName": "SOOOO",
+    "AuthorName": "Hexagonial",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1258,
+        "Stars": 9.72
+      }
+    ],
+    "Bpm": 226,
+    "PlayedCount": 1258
+  },
+  {
+    "Key": "10207-10711",
+    "Hash": "7A9F9DF2896E754BF678297914637B4C",
+    "SongName": "Hacking to the Gate",
+    "SongSubName": "Roselia",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1058,
+        "Stars": 3.39
+      }
+    ],
+    "Bpm": 161,
+    "PlayedCount": 1058
+  },
+  {
+    "Key": "1026-692",
+    "Hash": "3FEA3FB708B83E8B94A5F43EDCBD632D",
+    "SongName": "Happy Synthesizer ",
+    "SongSubName": "Chart by Mystikmol",
+    "AuthorName": "EasyPop",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 597,
+        "Stars": 1.05
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 358,
+        "Stars": 0.74
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 3044,
+        "Stars": 3.29
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1853,
+        "Stars": 1.64
+      }
+    ],
+    "Bpm": 127,
+    "PlayedCount": 5852
+  },
+  {
+    "Key": "10297-10813",
+    "Hash": "E14A5408E0D37E211095A9F253CB3F59",
+    "SongName": "Only My Railgun",
+    "SongSubName": "Poppin Party",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 729,
+        "Stars": 1.07
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1087,
+        "Stars": 3.33
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1253,
+        "Stars": 2.13
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 293,
+        "Stars": 0.79
+      }
+    ],
+    "Bpm": 143,
+    "PlayedCount": 3362
+  },
+  {
+    "Key": "10426-10961",
+    "Hash": "B88D1340E06C5EAE82EC8B6F4041D915",
+    "SongName": "New Type Tokyo",
+    "SongSubName": "REOL",
+    "AuthorName": "Nuketime",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 636,
+        "Stars": 4.74
+      }
+    ],
+    "Bpm": 210.02000427246094,
+    "PlayedCount": 636
+  },
+  {
+    "Key": "10458-10997",
+    "Hash": "B1A4BCD0280B15B3FF0A525C48AB4210",
+    "SongName": "HIBANA (feat. Hatsune Miku)",
+    "SongSubName": "DECO*27",
+    "AuthorName": "Archimedes",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 859,
+        "Stars": 4.03
+      }
+    ],
+    "Bpm": 200,
+    "PlayedCount": 859
+  },
+  {
+    "Key": "10482-11027",
+    "Hash": "B7E55ACC2A9623E7C24C61B8AAC074C8",
+    "SongName": "Viva La Vida",
+    "SongSubName": "Coldplay",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 2717,
+        "Stars": 2.77
+      }
+    ],
+    "Bpm": 138,
+    "PlayedCount": 2717
+  },
+  {
+    "Key": "10563-11117",
+    "Hash": "2BFCCF7E5D3204D0A06AAA7B0F5DBF7A",
+    "SongName": "Guren no Yumiya",
+    "SongSubName": "Roselia",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 809,
+        "Stars": 2.62
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 170,
+        "Stars": 1.33
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 526,
+        "Stars": 1.82
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1100,
+        "Stars": 3.38
+      }
+    ],
+    "Bpm": 181,
+    "PlayedCount": 2605
+  },
+  {
+    "Key": "106-58",
+    "Hash": "90C2DF1B1339D6FA0DCE3FFCC0277F51",
+    "SongName": "TTFAF",
+    "SongSubName": "DragonForce",
+    "AuthorName": "Freeek",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 21823,
+        "Stars": 2.04
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 21589,
+        "Stars": 3.38
+      }
+    ],
+    "Bpm": 200,
+    "PlayedCount": 43412
+  },
+  {
+    "Key": "10630-11190",
+    "Hash": "1A756776055A41F2D4E64D56BF694562",
+    "SongName": "Stay Alive (Jun Kuroda Bootleg Remix)",
+    "SongSubName": "EMILIA (CV: Rie Takahashi)",
+    "AuthorName": "splake",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1376,
+        "Stars": 5.38
+      }
+    ],
+    "Bpm": 174,
+    "PlayedCount": 1376
+  },
+  {
+    "Key": "10680-11249",
+    "Hash": "E30039ECBBD978C0AD1D6017651C9AA4",
+    "SongName": "Sakura Saku",
+    "SongSubName": "Yunomi [Lanota]",
+    "AuthorName": "ArcaeaCytusDeemo",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 179,
+        "Stars": 4.25
+      }
+    ],
+    "Bpm": 175,
+    "PlayedCount": 179
+  },
+  {
+    "Key": "10702-11274",
+    "Hash": "1D950EBEB81FC375DE43AA5309CAF1FF",
+    "SongName": "God knows...",
+    "SongSubName": "Poppin Party",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1108,
+        "Stars": 3.5
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 1108
+  },
+  {
+    "Key": "1082-736",
+    "Hash": "25AD7168CBF03555F2BF4638CE17E749",
+    "SongName": "Rivers in the Desert [Mito Remix]",
+    "SongSubName": "Persona 5: Dancing Star Night",
+    "AuthorName": "Producer Kairu",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1648,
+        "Stars": 1.53
+      }
+    ],
+    "Bpm": 130,
+    "PlayedCount": 1648
+  },
+  {
+    "Key": "10855-11467",
+    "Hash": "7D5EC89F0BE392019D5D0B94A7613AF1",
+    "SongName": "Sorairo Days",
+    "SongSubName": "Poppin Party",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 408,
+        "Stars": 2.1
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 205,
+        "Stars": 1.5
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 954,
+        "Stars": 2.46
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1295,
+        "Stars": 3.8
+      }
+    ],
+    "Bpm": 174,
+    "PlayedCount": 2862
+  },
+  {
+    "Key": "10894-11513",
+    "Hash": "170A87E6EADD90845D11ACE8DD583D50",
+    "SongName": "Senbonzakura",
+    "SongSubName": "Poppin Party",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 690,
+        "Stars": 2.86
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 417,
+        "Stars": 2.01
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1046,
+        "Stars": 3.8
+      }
+    ],
+    "Bpm": 154,
+    "PlayedCount": 2153
+  },
+  {
+    "Key": "10914-11537",
+    "Hash": "B7590A1C233F590C99EB39F8A83CAA17",
+    "SongName": "Mirai (Short edit)",
+    "SongSubName": "Kizuna AI (Prod. Taku Takahashi)",
+    "AuthorName": "Kolezan",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 156,
+        "Stars": 1.68
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 70,
+        "Stars": 1.16
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 496,
+        "Stars": 2.22
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 26,
+        "Stars": 0.9
+      }
+    ],
+    "Bpm": 174,
+    "PlayedCount": 748
+  },
+  {
+    "Key": "1101-751",
+    "Hash": "467F9610C5214B70B0F9A3D8114398EE",
+    "SongName": "Evangelion Opening",
+    "SongSubName": " A Cruel Angel's Thesis",
+    "AuthorName": "Purphoros",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 31120,
+        "Stars": 1.57
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 31120
+  },
+  {
+    "Key": "11031-11674",
+    "Hash": "C28DD54258445EE94386A3146CA5E270",
+    "SongName": "[A]ddiction",
+    "SongSubName": "EVO+",
+    "AuthorName": "ejiejidayo",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 533,
+        "Stars": 2.2
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 663,
+        "Stars": 3.59
+      }
+    ],
+    "Bpm": 164,
+    "PlayedCount": 1196
+  },
+  {
+    "Key": "11120-11787",
+    "Hash": "02E8060F68812807989A324ED535EAC4",
+    "SongName": "Don't say \"lazy\"",
+    "SongSubName": "Afterglow",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1019,
+        "Stars": 2.93
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 708,
+        "Stars": 1.77
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1761,
+        "Stars": 3.89
+      }
+    ],
+    "Bpm": 181,
+    "PlayedCount": 3488
+  },
+  {
+    "Key": "11156-11841",
+    "Hash": "79A9640FC34798AAC72A1037205FEB2E",
+    "SongName": "Akari Has Arrived",
+    "SongSubName": "GYARI",
+    "AuthorName": "Comfy Miku",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 487,
+        "Stars": 5.45
+      }
+    ],
+    "Bpm": 136,
+    "PlayedCount": 487
+  },
+  {
+    "Key": "11251-11934",
+    "Hash": "8A4BB90879386D9C92EB8B83C12F477F",
+    "SongName": "YoiYoi Kokon",
+    "SongSubName": "REOL",
+    "AuthorName": "Kolezan",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 82,
+        "Stars": 0.94
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 208,
+        "Stars": 1.25
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 596,
+        "Stars": 1.78
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1077,
+        "Stars": 2.61
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1525,
+        "Stars": 2.94
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 3488
+  },
+  {
+    "Key": "11291-12379",
+    "Hash": "C38A4D7BEBAB3BE1CEBFF673BF3424CE",
+    "SongName": "Mirai to Mirai",
+    "SongSubName": "nayutalien ft. Mirai Akari",
+    "AuthorName": "OrangeW",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1227,
+        "Stars": 4.42
+      }
+    ],
+    "Bpm": 96,
+    "PlayedCount": 1227
+  },
+  {
+    "Key": "11322-12017",
+    "Hash": "93AD458EB283007B795976F3A018A575",
+    "SongName": "The Everlasting Guilty Crown",
+    "SongSubName": "Roselia",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 606,
+        "Stars": 2.14
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 936,
+        "Stars": 2.63
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1377,
+        "Stars": 3.67
+      }
+    ],
+    "Bpm": 172,
+    "PlayedCount": 2919
+  },
+  {
+    "Key": "11405-12113",
+    "Hash": "0878DE910F156EC17A40207419818FA0",
+    "SongName": "Tiny Dancers",
+    "SongSubName": "Aimer",
+    "AuthorName": "Exia00",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 47,
+        "Stars": 3.13
+      }
+    ],
+    "Bpm": 130,
+    "PlayedCount": 47
+  },
+  {
+    "Key": "11579-12313",
+    "Hash": "64580568C5185B827CFC3436CBC4C4C7",
+    "SongName": "Life Will Change",
+    "SongSubName": "Poppin Party",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 135,
+        "Stars": 1.32
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 304,
+        "Stars": 2.49
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 600,
+        "Stars": 3.07
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 965,
+        "Stars": 4.54
+      }
+    ],
+    "Bpm": 132,
+    "PlayedCount": 2004
+  },
+  {
+    "Key": "11604-12342",
+    "Hash": "803770CEB523334501654163C3844805",
+    "SongName": "Milk Crown on Sonnetica",
+    "SongSubName": "nameless",
+    "AuthorName": "Hexagonial",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 491,
+        "Stars": 10.08
+      }
+    ],
+    "Bpm": 254.9199981689453,
+    "PlayedCount": 491
+  },
+  {
+    "Key": "11606-12344",
+    "Hash": "E9FCA7ADD29AE603A89E907FF655B673",
+    "SongName": "Moves Like Jagger",
+    "SongSubName": "Maroon 5 ft. Christina Aguilera",
+    "AuthorName": "Fafurion",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 620,
+        "Stars": 1.24
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1401,
+        "Stars": 1.39
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 3652,
+        "Stars": 2.84
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 2153,
+        "Stars": 2.21
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 7826
+  },
+  {
+    "Key": "11627-12367",
+    "Hash": "83EDFCF0F1202C4DE3DE92766F441BFF",
+    "SongName": "Kimi no Shiranai Monogatari",
+    "SongSubName": "supercell",
+    "AuthorName": "Uninstaller & Splake",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 407,
+        "Stars": 2.22
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 342,
+        "Stars": 4.13
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 467,
+        "Stars": 4.59
+      }
+    ],
+    "Bpm": 165,
+    "PlayedCount": 1216
+  },
+  {
+    "Key": "11692-12683",
+    "Hash": "4E3C8D1895A4E79FD0B6CC248FA63D40",
+    "SongName": "Closer (feat. Jennie A.)",
+    "SongSubName": "Lemaitre",
+    "AuthorName": "JellyArms",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 184,
+        "Stars": 2.25
+      }
+    ],
+    "Bpm": 92,
+    "PlayedCount": 184
+  },
+  {
+    "Key": "11713-12703",
+    "Hash": "098341D94389C09CE354B9B72E8DDE40",
+    "SongName": "My songs know what you did in the dark",
+    "SongSubName": "Fall Out Boy",
+    "AuthorName": "Stumi",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 239,
+        "Stars": 1.06
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 743,
+        "Stars": 1.39
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1303,
+        "Stars": 2.03
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 2141,
+        "Stars": 2.66
+      }
+    ],
+    "Bpm": 152,
+    "PlayedCount": 4426
+  },
+  {
+    "Key": "1174-807",
+    "Hash": "1EB3B897359BDEDD91F140D30FF9306B",
+    "SongName": "More One Night",
+    "SongSubName": "",
+    "AuthorName": "Shoujo Shuumatsu Ryokou [ED Song]",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 635,
+        "Stars": 2.63
+      }
+    ],
+    "Bpm": 123,
+    "PlayedCount": 635
+  },
+  {
+    "Key": "11759-12522",
+    "Hash": "19B35F01F3E9CD57761B7BC2BCC63914",
+    "SongName": "Sugar Song and Bitter Step v2",
+    "SongSubName": "UNISON SQUARE GARDEN",
+    "AuthorName": "Kizuflux",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 263,
+        "Stars": 5.08
+      }
+    ],
+    "Bpm": 132,
+    "PlayedCount": 263
+  },
+  {
+    "Key": "11774-12541",
+    "Hash": "B537BD3D9296896DAF062494E7518F31",
+    "SongName": "Love The Way You Lie (ft. Rihanna)",
+    "SongSubName": "Eminem, Rihanna",
+    "AuthorName": "StyngMe",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 457,
+        "Stars": 1.09
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1457,
+        "Stars": 3.74
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1921,
+        "Stars": 1.71
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1096,
+        "Stars": 1.46
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1694,
+        "Stars": 2.98
+      }
+    ],
+    "Bpm": 87,
+    "PlayedCount": 6625
+  },
+  {
+    "Key": "11818-12600",
+    "Hash": "9A1F24E33F3328E6FBF358E65DCD88AB",
+    "SongName": "suisei honeymoon",
+    "SongSubName": "",
+    "AuthorName": "nayutan seizin",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 276,
+        "Stars": 4.64
+      }
+    ],
+    "Bpm": 145,
+    "PlayedCount": 276
+  },
+  {
+    "Key": "12019-12829",
+    "Hash": "EA8C313CC5FEDF21D8FBDEE21681EEAB",
+    "SongName": "Black Bullet",
+    "SongSubName": "FripSide",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1289,
+        "Stars": 3.62
+      }
+    ],
+    "Bpm": 155,
+    "PlayedCount": 1289
+  },
+  {
+    "Key": "12038-12848",
+    "Hash": "D55F7A092426DAA365FF889DAAE47C08",
+    "SongName": "Viva La Vida",
+    "SongSubName": "Coldplay",
+    "AuthorName": "Archdragon",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1763,
+        "Stars": 2.05
+      }
+    ],
+    "Bpm": 138,
+    "PlayedCount": 1763
+  },
+  {
+    "Key": "12112-12938",
+    "Hash": "4B0B310434D8DC4BE4AA94C7E4EF4965",
+    "SongName": "Asu no Yozora Shoukaihan",
+    "SongSubName": "Afterglow",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 854,
+        "Stars": 2.29
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 422,
+        "Stars": 1.84
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 777,
+        "Stars": 3.46
+      }
+    ],
+    "Bpm": 185,
+    "PlayedCount": 2053
+  },
+  {
+    "Key": "12165-12998",
+    "Hash": "402134ABBAE8F6BBB311D0346421F79A",
+    "SongName": "Moves Like Jagger",
+    "SongSubName": "Maroon 5 ft. Christina Aguilera",
+    "AuthorName": "baxter395, Joetastic, Uninstaller",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 798,
+        "Stars": 1.7
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1110,
+        "Stars": 2.71
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1249,
+        "Stars": 3.63
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 544,
+        "Stars": 1.49
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 3701
+  },
+  {
+    "Key": "12175-13009",
+    "Hash": "A920F4064CF1D2757EFB48888F51CBE8",
+    "SongName": "Chika tto Chika Chika",
+    "SongSubName": "Kaguya-sama wa Kokurasetai ED 2",
+    "AuthorName": "HaiXuZ",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 469,
+        "Stars": 4.91
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1208,
+        "Stars": 2.05
+      }
+    ],
+    "Bpm": 178,
+    "PlayedCount": 1677
+  },
+  {
+    "Key": "12273-13118",
+    "Hash": "9C03EF24A6B7FF9E683F1E42411317D4",
+    "SongName": "Mentai Cosmic (feat. nicamoq)",
+    "SongSubName": "Yunomi",
+    "AuthorName": "ToastedKitten",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 518,
+        "Stars": 3.58
+      }
+    ],
+    "Bpm": 224,
+    "PlayedCount": 518
+  },
+  {
+    "Key": "1232-855",
+    "Hash": "6D5F4AB509BEC0D67B63943453BA6754",
+    "SongName": "Fubuki(TV size)",
+    "SongSubName": "",
+    "AuthorName": "Shiena Nishizawa",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1287,
+        "Stars": 1.51
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 1287
+  },
+  {
+    "Key": "12445-13310",
+    "Hash": "119196247DD57478A9AE812A2D46DDF4",
+    "SongName": "Hoshi ga Matataku Konna Yoru ni",
+    "SongSubName": "supercell",
+    "AuthorName": "Uninstaller",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 732,
+        "Stars": 4.1
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 298,
+        "Stars": 2.85
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 124,
+        "Stars": 2.21
+      }
+    ],
+    "Bpm": 182,
+    "PlayedCount": 1154
+  },
+  {
+    "Key": "12484-13355",
+    "Hash": "57995459421BF730F19D2CB77C671EDD",
+    "SongName": "Walk This Way!",
+    "SongSubName": "Kano",
+    "AuthorName": "cheesydream",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 697,
+        "Stars": 8.58
+      }
+    ],
+    "Bpm": 260,
+    "PlayedCount": 697
+  },
+  {
+    "Key": "12545-13423",
+    "Hash": "F017935A9288F2267DD8A2FD13E8E9A0",
+    "SongName": "MONSTER",
+    "SongSubName": "Reol",
+    "AuthorName": "ToastedKitten",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 351,
+        "Stars": 3.39
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 649,
+        "Stars": 4.16
+      }
+    ],
+    "Bpm": 164,
+    "PlayedCount": 1000
+  },
+  {
+    "Key": "12599-13482",
+    "Hash": "B45C4E591A84802D26A0AB4AEAD2D43A",
+    "SongName": "otomekaibou",
+    "SongSubName": "DECO * 27",
+    "AuthorName": "Soba`s",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 395,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 134,
+    "PlayedCount": 395
+  },
+  {
+    "Key": "12603-13486",
+    "Hash": "117B3850A28BA34C91683AD99CBACC29",
+    "SongName": "Michisirube",
+    "SongSubName": "Violet Evergarden Ending",
+    "AuthorName": "zwzleng",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 319,
+        "Stars": 1.84
+      }
+    ],
+    "Bpm": 87,
+    "PlayedCount": 319
+  },
+  {
+    "Key": "127-73",
+    "Hash": "19CBA4F6C295FB73DA0C0208BDA95005",
+    "SongName": "The Force Theme",
+    "SongSubName": "",
+    "AuthorName": "Far Out Remix",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 3,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 143,
+    "PlayedCount": 3
+  },
+  {
+    "Key": "12750-13662",
+    "Hash": "ACDC513586F764419750E257D9D8F28F",
+    "SongName": "Fantastic Dreamer",
+    "SongSubName": "Hello, Happy World!",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 298,
+        "Stars": 1.76
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 981,
+        "Stars": 3.25
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 529,
+        "Stars": 2.43
+      }
+    ],
+    "Bpm": 185,
+    "PlayedCount": 1808
+  },
+  {
+    "Key": "12783-13913",
+    "Hash": "6EC3B2BD0C3CF904141463FAB16854BD",
+    "SongName": "NayutalieN - Alien (V2)",
+    "SongSubName": "Nhato remix",
+    "AuthorName": "TheRealZeroz",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 132,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 121,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 205,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 175,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 152,
+    "PlayedCount": 633
+  },
+  {
+    "Key": "12842-13911",
+    "Hash": "3880B10971335CBD3FE926BDCCD7FCD4",
+    "SongName": "Asu no Yozora Shoukaihan ",
+    "SongSubName": "Yuaru",
+    "AuthorName": "Major Monochrome",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 186,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 185,
+    "PlayedCount": 186
+  },
+  {
+    "Key": "12898-13837",
+    "Hash": "350A96D97DA0FD3DAF041B1DA9DA854F",
+    "SongName": "Say it",
+    "SongSubName": "Yorushika",
+    "AuthorName": "Assistant & squeaksies",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 83,
+        "Stars": 2.14
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 37,
+        "Stars": 1.66
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 298,
+        "Stars": 3.15
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 125,
+        "Stars": 2.53
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 432,
+        "Stars": 3.62
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 975
+  },
+  {
+    "Key": "12900-13839",
+    "Hash": "F10758843BE5CCB708E49E97059CF466",
+    "SongName": "Again",
+    "SongSubName": "YUI",
+    "AuthorName": "squeaksies",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 987,
+        "Stars": 4.18
+      }
+    ],
+    "Bpm": 140,
+    "PlayedCount": 987
+  },
+  {
+    "Key": "13124-14099",
+    "Hash": "CCC2C1EEDE2295DCEFBFB624C1C53C04",
+    "SongName": "WAVE",
+    "SongSubName": "reol",
+    "AuthorName": "karuru392 & Soba's",
+    "Diffs": [],
+    "Bpm": 260,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "13275-14271",
+    "Hash": "C2DFF0FD38657760A9DFA50ADF808B56",
+    "SongName": "Stranger In The North",
+    "SongSubName": "Namewee/Leehom Wang",
+    "AuthorName": "Namewee",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 10,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 87,
+    "PlayedCount": 10
+  },
+  {
+    "Key": "13343-14362",
+    "Hash": "4E7FB072419C55A241C934D2A0F42CAE",
+    "SongName": "Deep in Abyss",
+    "SongSubName": "Riko (CV: Miyu Tomita), Reg (CV: Ise Mariya)",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1033,
+        "Stars": 3.23
+      }
+    ],
+    "Bpm": 135,
+    "PlayedCount": 1033
+  },
+  {
+    "Key": "1339-932",
+    "Hash": "E6FD84016A6F49A94904713C9B15DB78",
+    "SongName": "Boulevard of Broken Dreams",
+    "SongSubName": "Green Day",
+    "AuthorName": "DownyCat",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 26324,
+        "Stars": 2.05
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 42435,
+        "Stars": 3.2
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 20528,
+        "Stars": 1.23
+      }
+    ],
+    "Bpm": 167,
+    "PlayedCount": 89287
+  },
+  {
+    "Key": "136-80",
+    "Hash": "15C541502E808C28439E0455ADD333E3",
+    "SongName": "Youkoso Japari Park e",
+    "SongSubName": "Kemono Friends OP",
+    "AuthorName": "Masayoshi Oishi",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1696,
+        "Stars": 2.73
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1452,
+        "Stars": 3.61
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1490,
+        "Stars": 1.55
+      }
+    ],
+    "Bpm": 170,
+    "PlayedCount": 4638
+  },
+  {
+    "Key": "13638-14705",
+    "Hash": "738514305D9999708203A11FD5BF9A1D",
+    "SongName": "Koi No Disco Queen",
+    "SongSubName": "Yakuza 0 OST",
+    "AuthorName": "Rutskarn",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 118,
+        "Stars": 2.96
+      }
+    ],
+    "Bpm": 133,
+    "PlayedCount": 118
+  },
+  {
+    "Key": "13708-14780",
+    "Hash": "30C4D714F9E7F7A65E88FC6BAB3A8EC3",
+    "SongName": "World's End, Girl's Rondo (Asterisk DnB Remix)",
+    "SongSubName": "Wakeshima Kanon",
+    "AuthorName": "ManDynasty",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 70,
+        "Stars": 1.27
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 160,
+        "Stars": 1.88
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 342,
+        "Stars": 2.73
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 504,
+        "Stars": 4.78
+      }
+    ],
+    "Bpm": 175,
+    "PlayedCount": 1076
+  },
+  {
+    "Key": "13721-14795",
+    "Hash": "CA4D23DAE0B52082563B5210640AA747",
+    "SongName": "Koi no Hime Hime Pettanko",
+    "SongSubName": "Yukari Tamura",
+    "AuthorName": "ejiejidayo",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 174,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 330,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 255,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 178,
+    "PlayedCount": 759
+  },
+  {
+    "Key": "13864-14952",
+    "Hash": "4E99BFA3BF6A64867B27E4B65A15EE9E",
+    "SongName": "Saisaki",
+    "SongSubName": "",
+    "AuthorName": "Reol",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 64,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 105,
+    "PlayedCount": 64
+  },
+  {
+    "Key": "13988-15095",
+    "Hash": "E9995D15EA378974347132CE208BED47",
+    "SongName": "Solar System Disco",
+    "SongSubName": "Hatsune Miku",
+    "AuthorName": "nayutalien",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 188,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 188
+  },
+  {
+    "Key": "13989-15096",
+    "Hash": "04824166A897CC54327AAD6BAFE4D572",
+    "SongName": "Asymmetry ",
+    "SongSubName": "Reol",
+    "AuthorName": "Hyunchen",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 21,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 70,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 63,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 122,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 146,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 184,
+    "PlayedCount": 422
+  },
+  {
+    "Key": "1409-14799",
+    "Hash": "DB987366E883985E5FD7B8E31675E488",
+    "SongName": "Ninelie (REDSHiFT & Vesuvia Remix) (Short ver.)",
+    "SongSubName": "Aimer with chelly (EGOIST)",
+    "AuthorName": "Sir Wali ManDynasty",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 53,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 119,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 161,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 129,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 178,
+    "PlayedCount": 462
+  },
+  {
+    "Key": "14110-15237",
+    "Hash": "3496DCC41D401FEA4337B4AE9EDB7752",
+    "SongName": "Utena",
+    "SongSubName": "Reol",
+    "AuthorName": "aggrogahu",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 87,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 183,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 185,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 160,
+    "PlayedCount": 455
+  },
+  {
+    "Key": "14160-15293",
+    "Hash": "BF07BF27DF9572375BE760889343AAE9",
+    "SongName": "hitogata",
+    "SongSubName": "",
+    "AuthorName": "Cocoyan",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 176,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 176
+  },
+  {
+    "Key": "14162-15295",
+    "Hash": "04FCA025EDF0B0E98AE25BC16A402F6B",
+    "SongName": "Clumsy thoughts",
+    "SongSubName": "Nekomata Master",
+    "AuthorName": "ejiejidayo",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 133,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 457,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 153,
+    "PlayedCount": 590
+  },
+  {
+    "Key": "14167-15303",
+    "Hash": "18656F640738E408BDF9E33563C2A975",
+    "SongName": "Tabi no Tochuu",
+    "SongSubName": "Kiyoura Natsumi",
+    "AuthorName": "Skeelie",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 587,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 114.72000122070312,
+    "PlayedCount": 587
+  },
+  {
+    "Key": "14229-15376",
+    "Hash": "BA44D5F98DDB87FA763F3E05A96A53EA",
+    "SongName": "Sword Art Online Opening Compilation",
+    "SongSubName": "Various Artists",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 690,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 120,
+    "PlayedCount": 690
+  },
+  {
+    "Key": "14284-15436",
+    "Hash": "9DEB52105ACD350C0F222DB1C8EE69E3",
+    "SongName": "Lemon",
+    "SongSubName": "Hachi",
+    "AuthorName": "HaiXuZ",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 240,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 174,
+    "PlayedCount": 240
+  },
+  {
+    "Key": "14335-15497",
+    "Hash": "38790835A68A28EF6DEEC4EA7039EFE7",
+    "SongName": "99.9",
+    "SongSubName": "MOB CHOIR feat. sajou no hana",
+    "AuthorName": "Todokete",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 97,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 185,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 268,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 375,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 168,
+    "PlayedCount": 925
+  },
+  {
+    "Key": "14360-15524",
+    "Hash": "C7A964BFF9EE5F33F940DECB0CE581B5",
+    "SongName": "Just a Sunny Day for You",
+    "SongSubName": "Yorushika",
+    "AuthorName": "squeaksies",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 156,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 140,
+    "PlayedCount": 156
+  },
+  {
+    "Key": "14392-15563",
+    "Hash": "F8DF1C09FA5FF59FD1DFE44BFD84992F",
+    "SongName": "Extra Magic Hour",
+    "SongSubName": "Hello, Happy World!",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 25,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 70,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 206,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 679,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 371,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 1351
+  },
+  {
+    "Key": "14429-15605",
+    "Hash": "BB8FF137C2463478458970F0604F9DE3",
+    "SongName": "Caramelldansen (Speedcake Remix)",
+    "SongSubName": "Caramell",
+    "AuthorName": "Dack",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 3413,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 165,
+    "PlayedCount": 3413
+  },
+  {
+    "Key": "14606-15803",
+    "Hash": "A905BED8B616A106A259129895F76231",
+    "SongName": "Love Dramatic",
+    "SongSubName": "Masayuki Suzuki ft. Rikka Ihara",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1057,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 129,
+    "PlayedCount": 1057
+  },
+  {
+    "Key": "1461-1022",
+    "Hash": "066514BCF64E013709D6A94EC59D4FF9",
+    "SongName": "Groovin' Magic",
+    "SongSubName": "Diebuster OP (TV Size)",
+    "AuthorName": "Eddy1108",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 419,
+        "Stars": 2.58
+      }
+    ],
+    "Bpm": 136,
+    "PlayedCount": 419
+  },
+  {
+    "Key": "14612-15811",
+    "Hash": "AFC17640E2E3E8EC696C19B0594A0CB8",
+    "SongName": "Sentimental Crisis (TV Size)",
+    "SongSubName": "Halca",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 680,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 154,
+    "PlayedCount": 680
+  },
+  {
+    "Key": "14780-15994",
+    "Hash": "E0BA1FFEFFE53071A587D42D6FAEA1BF",
+    "SongName": "Neo-Aspect",
+    "SongSubName": "Roselia",
+    "AuthorName": "CJX3711 & Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 32,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 94,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 92,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 547,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 530,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 1295
+  },
+  {
+    "Key": "14842-16058",
+    "Hash": "42283CA02B45B440B861E22B601815E6",
+    "SongName": "Sugar Song to Bitter Step",
+    "SongSubName": "Hello, Happy World!",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 32,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 243,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 102,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 449,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 647,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 132,
+    "PlayedCount": 1473
+  },
+  {
+    "Key": "14869-16087",
+    "Hash": "1DFADDA7BF72BE1B4B91493081260FDA",
+    "SongName": "Electronica in Velvet Room [P4D]",
+    "SongSubName": "Ryota Kozuka",
+    "AuthorName": "RoxyRose420",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 158,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 158
+  },
+  {
+    "Key": "15003-16238",
+    "Hash": "D266A90F0BC978A561671F0238DAD999",
+    "SongName": "ROKI",
+    "SongSubName": "Touyu x 96neko",
+    "AuthorName": "ejiejidayo",
+    "Diffs": [],
+    "Bpm": 150,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "15146-16402",
+    "Hash": "C7FF7680EAB8B230AF3B7F586FFA7ACF",
+    "SongName": "Ambiguous (Full)",
+    "SongSubName": "GARNiDELiA",
+    "AuthorName": "SilentCaay",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 216,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 92,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 178,
+    "PlayedCount": 308
+  },
+  {
+    "Key": "15319-16599",
+    "Hash": "E0B0FEB7496522EB09CDB8D338F67DE5",
+    "SongName": "ninelie (REDSHiFT x Vesuvia remix)",
+    "SongSubName": "Aimer with chelly (EGOIST)",
+    "AuthorName": "Saut & Minty",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 109,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 178,
+    "PlayedCount": 109
+  },
+  {
+    "Key": "15542-16856",
+    "Hash": "A4824FFBEABD98A91E73F15968137F67",
+    "SongName": "Kamisama ni Natta Hi v2.0 ",
+    "SongSubName": "by REOL",
+    "AuthorName": "Chenny",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 92,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 194,
+    "PlayedCount": 92
+  },
+  {
+    "Key": "15562-16882",
+    "Hash": "0EF76D23D82738A495CB88F04A531C1E",
+    "SongName": "Semi-Transparent Boy",
+    "SongSubName": "Yorushika",
+    "AuthorName": "squeaksies",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 2,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 30,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 31,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 13,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 75,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 195,
+    "PlayedCount": 151
+  },
+  {
+    "Key": "1558-1094",
+    "Hash": "801614FF47ED559E19EA319F798BD761",
+    "SongName": "Simple and Clean",
+    "SongSubName": "-PLANITb Remix-",
+    "AuthorName": "xroninbladex",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 1887,
+        "Stars": 1.37
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 3122,
+        "Stars": 1.72
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 5247,
+        "Stars": 2.19
+      }
+    ],
+    "Bpm": 130,
+    "PlayedCount": 10256
+  },
+  {
+    "Key": "1582-1113",
+    "Hash": "A1969297174160C7F9DC23FD49D5B55E",
+    "SongName": "Royals (Yinyues Remix)",
+    "SongSubName": "Lorde",
+    "AuthorName": "Awfulnaut",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 4429,
+        "Stars": 1.74
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 10405,
+        "Stars": 2.16
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 4210,
+        "Stars": 2.09
+      }
+    ],
+    "Bpm": 85,
+    "PlayedCount": 19044
+  },
+  {
+    "Key": "15903-17272",
+    "Hash": "BD08F19797B5E531FFA742537121CE7A",
+    "SongName": "Scared of the Dark",
+    "SongSubName": "Lil Wayne, XXXTENTACION, Ty Dolla $ign",
+    "AuthorName": "BLUU",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 303,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 80,
+    "PlayedCount": 303
+  },
+  {
+    "Key": "1595-1125",
+    "Hash": "571275A3E5D893681082A9B23E1BF38D",
+    "SongName": "POP TEAM EPIC",
+    "SongSubName": "by Sumire Uesaka",
+    "AuthorName": "Todokete",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1347,
+        "Stars": 2.81
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1926,
+        "Stars": 4.02
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 880,
+        "Stars": 1.86
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 966,
+        "Stars": 1.09
+      }
+    ],
+    "Bpm": 284,
+    "PlayedCount": 5119
+  },
+  {
+    "Key": "15992-17368",
+    "Hash": "E8BF7A09C8173A956F00790417E01051",
+    "SongName": "SYNCHRONITY",
+    "SongSubName": "",
+    "AuthorName": "Cocoyan",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 77,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 154,
+    "PlayedCount": 77
+  },
+  {
+    "Key": "15997-17375",
+    "Hash": "CD160DCC660B80D2266C0D4A12B3210D",
+    "SongName": "Nyan Cat Elevator ",
+    "SongSubName": "NST Audioworks",
+    "AuthorName": "Ryger",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 358,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 130,
+    "PlayedCount": 358
+  },
+  {
+    "Key": "16245-17637",
+    "Hash": "B06CD5F827290B7644235F08D5EA645D",
+    "SongName": "So I quit music",
+    "SongSubName": "Yorushika",
+    "AuthorName": "KikaeAeon",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 97,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 125,
+    "PlayedCount": 97
+  },
+  {
+    "Key": "16261-17654",
+    "Hash": "C367969FACC5FF2E27411D69C45BE6BF",
+    "SongName": "Blumenkranz",
+    "SongSubName": "Cyua & Hiroyuki Sawano",
+    "AuthorName": "ManDynasty",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 32,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 13,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 154,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 69,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 160,
+    "PlayedCount": 268
+  },
+  {
+    "Key": "1628-1152",
+    "Hash": "D344FE48437CDFA79CA488FF2CEF67FD",
+    "SongName": "September",
+    "SongSubName": "",
+    "AuthorName": "Earth, Wind & Fire",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 23817,
+        "Stars": 1.43
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 32003,
+        "Stars": 1.66
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 53828,
+        "Stars": 1.89
+      }
+    ],
+    "Bpm": 126,
+    "PlayedCount": 109648
+  },
+  {
+    "Key": "16533-17959",
+    "Hash": "E7FD68C305A8F386EA0B429532DC1EC4",
+    "SongName": "Only My Railgun",
+    "SongSubName": "fripSide",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 329,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 143,
+    "PlayedCount": 329
+  },
+  {
+    "Key": "16671-18110",
+    "Hash": "314F9BC01FAB3054D6AE94591A6F1ECE",
+    "SongName": "Kill This Love",
+    "SongSubName": "BLACKPINK",
+    "AuthorName": "aggrogahu",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 75,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 171,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 296,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 308,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 132,
+    "PlayedCount": 850
+  },
+  {
+    "Key": "16691-18132",
+    "Hash": "4750E7066CCA126C289081CCE5FC2E80",
+    "SongName": "Rap God",
+    "SongSubName": "Eminem",
+    "AuthorName": "Ryger",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 47,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 128,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 148,
+    "PlayedCount": 175
+  },
+  {
+    "Key": "16735-18184",
+    "Hash": "A61EBBF66109B0CADE00A3359B507F03",
+    "SongName": "Charles",
+    "SongSubName": "Cocoa ver.",
+    "AuthorName": "mugcup",
+    "Diffs": [],
+    "Bpm": 145,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "16740-18189",
+    "Hash": "174063B20B13DFABC70001755E8041B6",
+    "SongName": "Libera Me From Hell",
+    "SongSubName": "Tarantula / Kasahara Yuri",
+    "AuthorName": "Redmagi",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 4,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 16,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 32,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 177,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 200,
+    "PlayedCount": 229
+  },
+  {
+    "Key": "1678-1177",
+    "Hash": "F2FF991EBD5B2A6BE275B1091E33CB8B",
+    "SongName": "Mr Brightside",
+    "SongSubName": "The Killers",
+    "AuthorName": "Raxtus",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 9441,
+        "Stars": 1.63
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 12158,
+        "Stars": 2.13
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 13094,
+        "Stars": 2.64
+      }
+    ],
+    "Bpm": 148,
+    "PlayedCount": 34694
+  },
+  {
+    "Key": "1695-1191",
+    "Hash": "CA2BC7415019361F401581B66FC22800",
+    "SongName": "Indoor Kei Nara Trackmaker",
+    "SongSubName": "",
+    "AuthorName": "Yunomi & nicamoq",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1433,
+        "Stars": 2.13
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 1433
+  },
+  {
+    "Key": "1771-1236",
+    "Hash": "53DF16B08F89B37A708A0B06E0C47539",
+    "SongName": "Uso no Hibana",
+    "SongSubName": "V2 - fixed",
+    "AuthorName": "96Neko - Map by WinEpic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 6227,
+        "Stars": 2.27
+      }
+    ],
+    "Bpm": 188,
+    "PlayedCount": 6227
+  },
+  {
+    "Key": "1790-1248",
+    "Hash": "8B87674A61104103675CA32B14DBB1E1",
+    "SongName": "More One Night (Assertive Bootleg Remix)",
+    "SongSubName": "Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika)",
+    "AuthorName": "Hexagonial",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 202,
+        "Stars": 1.07
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 151,
+        "Stars": 0.72
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 887,
+        "Stars": 1.5
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1154,
+        "Stars": 2.81
+      }
+    ],
+    "Bpm": 170,
+    "PlayedCount": 2394
+  },
+  {
+    "Key": "18-2",
+    "Hash": "01C0B9BF0E2CD1B5C1EA87DB4D911A1C",
+    "SongName": "Fatima",
+    "SongSubName": "(TV Size)",
+    "AuthorName": "Kanako Ito",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 179,
+    "PlayedCount": 1
+  },
+  {
+    "Key": "1825-1263",
+    "Hash": "060A36958A3BE2413D9D907CB9CC24AA",
+    "SongName": "BTH 2 - Daybreak Frontline",
+    "SongSubName": "(Charted by M.Rappold",
+    "AuthorName": "Orangestar feat. IA",
+    "Diffs": [],
+    "Bpm": 136.04800415039062,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "1897-1319",
+    "Hash": "5229FC6F154A97A83451BBD6467478F9",
+    "SongName": "Wakusei Rabbit",
+    "SongSubName": "Yunomi feat. TORIENA",
+    "AuthorName": "Alyzarin",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 263,
+        "Stars": 2.53
+      }
+    ],
+    "Bpm": 174,
+    "PlayedCount": 263
+  },
+  {
+    "Key": "1934-1345",
+    "Hash": "31546503481CF0719730358EEE621E22",
+    "SongName": "American Idiot",
+    "SongSubName": "Green Day",
+    "AuthorName": "DownyCat",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 36920,
+        "Stars": 3.06
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 23546,
+        "Stars": 1.67
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 22517,
+        "Stars": 0.91
+      }
+    ],
+    "Bpm": 186,
+    "PlayedCount": 82983
+  },
+  {
+    "Key": "197-118",
+    "Hash": "00D66638787EE0B77AAFD2E627D28548",
+    "SongName": "Shelter",
+    "SongSubName": "Porter Robinson & Madeon",
+    "AuthorName": "Producer Kairu & Dekamolisher",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 20425,
+        "Stars": 1.63
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 25576,
+        "Stars": 0.09
+      }
+    ],
+    "Bpm": 100,
+    "PlayedCount": 46001
+  },
+  {
+    "Key": "209-125",
+    "Hash": "FA1795FFB7BC7A5586FEC01474F1CF13",
+    "SongName": "Renai Circulation",
+    "SongSubName": "",
+    "AuthorName": "Hanazawa Kana (charted by FrostByte)",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 28401,
+        "Stars": 2.52
+      }
+    ],
+    "Bpm": 120,
+    "PlayedCount": 28401
+  },
+  {
+    "Key": "2099-1456",
+    "Hash": "F7C3876BF6898E019133EB9EF0FE8279",
+    "SongName": "aLIEz",
+    "SongSubName": "Sawano Hiroyuki",
+    "AuthorName": "Bakuenjin",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 2564,
+        "Stars": 2.23
+      }
+    ],
+    "Bpm": 99,
+    "PlayedCount": 2564
+  },
+  {
+    "Key": "2223-1539",
+    "Hash": "72E3B830FF547109B7D3151972DEF90E",
+    "SongName": "Devil Trigger - Ali Edwards",
+    "SongSubName": "",
+    "AuthorName": "Beerman",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 3487,
+        "Stars": 2.67
+      }
+    ],
+    "Bpm": 159.9499969482422,
+    "PlayedCount": 3487
+  },
+  {
+    "Key": "2467-1708",
+    "Hash": "684C78CB60AB3939C71269C33A5E3A49",
+    "SongName": "Pompeii",
+    "SongSubName": "",
+    "AuthorName": "Bastille",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 22568,
+        "Stars": 2.34
+      }
+    ],
+    "Bpm": 127,
+    "PlayedCount": 22568
+  },
+  {
+    "Key": "2594-1806",
+    "Hash": "EC4F81800CD46B745156B276C37364E1",
+    "SongName": "Tik Tok",
+    "SongSubName": "",
+    "AuthorName": "Kesha",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 10285,
+        "Stars": 1.7
+      }
+    ],
+    "Bpm": 120,
+    "PlayedCount": 10285
+  },
+  {
+    "Key": "2604-1814",
+    "Hash": "1CC57C7BD4A66E76FCDC00F4D17B3B57",
+    "SongName": "99 MOB CHOIR",
+    "SongSubName": "Mob Psycho 100 OP",
+    "AuthorName": "MOB CHOIR",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 2267,
+        "Stars": 2.25
+      }
+    ],
+    "Bpm": 95,
+    "PlayedCount": 2267
+  },
+  {
+    "Key": "2637-1845",
+    "Hash": "356E60AAE5CC55D7B98893E8D70141FA",
+    "SongName": "Hacking to the Gate",
+    "SongSubName": "Kanako Ito",
+    "AuthorName": "DropOfFire",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 3587,
+        "Stars": 2.06
+      }
+    ],
+    "Bpm": 161,
+    "PlayedCount": 3587
+  },
+  {
+    "Key": "2744-1922",
+    "Hash": "5AE39408B22F983CC40D244A1B1F179C",
+    "SongName": "Akairo no Timemachine",
+    "SongSubName": "Yunomi Remix",
+    "AuthorName": "Antenagaru,Yunomi (mapped by haixuz)",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 289,
+        "Stars": 1.65
+      }
+    ],
+    "Bpm": 280,
+    "PlayedCount": 289
+  },
+  {
+    "Key": "2757-1934",
+    "Hash": "6097819E1E5F7EE7D5D5065A8F2E2788",
+    "SongName": "Numb",
+    "SongSubName": "Linkin Park",
+    "AuthorName": "DownyCat",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 19135,
+        "Stars": 2.59
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 19675,
+        "Stars": 0.93
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 17082,
+        "Stars": 1.86
+      }
+    ],
+    "Bpm": 110.03500366210938,
+    "PlayedCount": 55892
+  },
+  {
+    "Key": "2863-2028",
+    "Hash": "D1D677D634311F874E311CB3964D2B8A",
+    "SongName": "Good Time",
+    "SongSubName": "Owl City",
+    "AuthorName": "Ivivik",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 2847,
+        "Stars": 2.88
+      }
+    ],
+    "Bpm": 126,
+    "PlayedCount": 2847
+  },
+  {
+    "Key": "2878-2041",
+    "Hash": "6F4495664BEF8171C7FC4A577A64E751",
+    "SongName": "Hare Hare Yukai",
+    "SongSubName": "The Melancholy of Haruhi Suzumiya cast",
+    "AuthorName": "splake",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 2417,
+        "Stars": 1.65
+      }
+    ],
+    "Bpm": 172,
+    "PlayedCount": 2417
+  },
+  {
+    "Key": "3020-2144",
+    "Hash": "53068D224C68A148129F1F27773F4003",
+    "SongName": "Wake Me Up When September Ends",
+    "SongSubName": "Green Day",
+    "AuthorName": "DownyCat",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 3905,
+        "Stars": 2.74
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1952,
+        "Stars": 1.82
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1780,
+        "Stars": 0.93
+      }
+    ],
+    "Bpm": 105,
+    "PlayedCount": 7637
+  },
+  {
+    "Key": "3037-2154",
+    "Hash": "5027E510F131C54FF93C733D565B9FC1",
+    "SongName": "Freedom Dive",
+    "SongSubName": "v2",
+    "AuthorName": "Roffle",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 4690,
+        "Stars": 7.72
+      }
+    ],
+    "Bpm": 222.22,
+    "PlayedCount": 4690
+  },
+  {
+    "Key": "31-11",
+    "Hash": "CB952E6B2A1EBFDF2437D37B21321C8C",
+    "SongName": "Believer",
+    "SongSubName": "Imagine Dragons",
+    "AuthorName": "Rustic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 138556,
+        "Stars": 1.44
+      }
+    ],
+    "Bpm": 125,
+    "PlayedCount": 138556
+  },
+  {
+    "Key": "3167-2252",
+    "Hash": "210A74559AAB4AA5293B37A4155E6EE8",
+    "SongName": "Only My Railgun",
+    "SongSubName": "fripSide",
+    "AuthorName": "Splake",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 1230,
+        "Stars": 2.14
+      }
+    ],
+    "Bpm": 143,
+    "PlayedCount": 1230
+  },
+  {
+    "Key": "3493-2575",
+    "Hash": "EA65E5D03F99697C26366D9A28AA298C",
+    "SongName": "Mousou Express",
+    "SongSubName": "Nadeko Sengoku (C.V. Kana Hanazawa)",
+    "AuthorName": "Splake",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 375,
+        "Stars": 1.79
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1122,
+        "Stars": 1.9
+      }
+    ],
+    "Bpm": 101,
+    "PlayedCount": 1497
+  },
+  {
+    "Key": "3494-2576",
+    "Hash": "1C5BFC12D8A87FE7DB16AB8FF3A18781",
+    "SongName": "Gee",
+    "SongSubName": "Girls' Generation",
+    "AuthorName": "Kikis",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 640,
+        "Stars": 4.01
+      }
+    ],
+    "Bpm": 200,
+    "PlayedCount": 640
+  },
+  {
+    "Key": "3591-2691",
+    "Hash": "67EC29BA07B9435984B33B9DABD292D2",
+    "SongName": "Shout",
+    "SongSubName": "SawanoHiroyuki[nZk], Gemie, Tielle",
+    "AuthorName": "Splake",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 542,
+        "Stars": 2.67
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 696,
+        "Stars": 2.69
+      }
+    ],
+    "Bpm": 106,
+    "PlayedCount": 1238
+  },
+  {
+    "Key": "3674-2795",
+    "Hash": "98A61C117D99D555E3E627FC55E93ADD",
+    "SongName": "gravityWall ",
+    "SongSubName": "SawanoHiroyuki[nZk] ",
+    "AuthorName": "Mapped by YusinoSama",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 625,
+        "Stars": 2.87
+      }
+    ],
+    "Bpm": 117,
+    "PlayedCount": 625
+  },
+  {
+    "Key": "3817-2962",
+    "Hash": "BF26855A6A5B619517E1756ABD1164F6",
+    "SongName": "Don't Lose Your Way",
+    "SongSubName": "Kill La Kill",
+    "AuthorName": "StoicBlue",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 7373,
+        "Stars": 3.02
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 2271,
+        "Stars": 1.88
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 2998,
+        "Stars": 2.89
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 764,
+        "Stars": 1.35
+      }
+    ],
+    "Bpm": 240,
+    "PlayedCount": 13406
+  },
+  {
+    "Key": "3877-3037",
+    "Hash": "61FF7BF9B58BE925D92FB89205DAFB65",
+    "SongName": "Ghost Rule",
+    "SongSubName": "DECO*27 ft. Hatsune Miku",
+    "AuthorName": "Edzo",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1789,
+        "Stars": 2.67
+      }
+    ],
+    "Bpm": 210,
+    "PlayedCount": 1789
+  },
+  {
+    "Key": "3901-3068",
+    "Hash": "4F2796320394B210FB1182683CFB5058",
+    "SongName": "Dance Robot Dance",
+    "SongSubName": "",
+    "AuthorName": "Nayutan Seijin",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 483,
+        "Stars": 2.58
+      }
+    ],
+    "Bpm": 190,
+    "PlayedCount": 483
+  },
+  {
+    "Key": "3951-3124",
+    "Hash": "C9C612A3BF43BF339C931FA5F3B0D07C",
+    "SongName": "Bad Apple!! feat.nomico (Nhato Remix)",
+    "SongSubName": "Bad Apple!!",
+    "AuthorName": "Masayoshi Minoshima",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 138,
+    "PlayedCount": 1
+  },
+  {
+    "Key": "398-236",
+    "Hash": "42B543A221DAF7970838B652906DFA3B",
+    "SongName": "Clarity",
+    "SongSubName": "mapped by Mr__Tomnus",
+    "AuthorName": "Zedd",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 18551,
+        "Stars": 1.41
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 18551
+  },
+  {
+    "Key": "4048-3240",
+    "Hash": "2B389FC83EC2F73384130BE37DB8B0F5",
+    "SongName": "Will Power",
+    "SongSubName": "Persona 5 OST",
+    "AuthorName": "Charted by Tiki with a Gun",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 473,
+        "Stars": 1.66
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 942,
+        "Stars": 2.66
+      }
+    ],
+    "Bpm": 143.6999969482422,
+    "PlayedCount": 1415
+  },
+  {
+    "Key": "4100-3308",
+    "Hash": "7D91DED39A13FE9608AC1E78B0557B8A",
+    "SongName": "Demons",
+    "SongSubName": "Imagine Dragons",
+    "AuthorName": "King Normie!",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 11882,
+        "Stars": 2.04
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 11882
+  },
+  {
+    "Key": "4131-3344",
+    "Hash": "891769D29237B1BF5BEB612D2C1D87EF",
+    "SongName": "Kataware Doki",
+    "SongSubName": "RADWIMPS",
+    "AuthorName": "squeaksies",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 1121,
+        "Stars": 1.61
+      }
+    ],
+    "Bpm": 130,
+    "PlayedCount": 1121
+  },
+  {
+    "Key": "419-250",
+    "Hash": "81AD355F91D7A85F85D99799C3DB0502",
+    "SongName": "Last Surprise",
+    "SongSubName": "Persona 5",
+    "AuthorName": "Lyn Inaizumi (Mapped by Guatapuri)",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 13636,
+        "Stars": 2.32
+      }
+    ],
+    "Bpm": 123,
+    "PlayedCount": 13636
+  },
+  {
+    "Key": "4272-3513",
+    "Hash": "ADAC8E9141E4E33C2DC93AF9BD08F130",
+    "SongName": "Endless Line",
+    "SongSubName": "Reol",
+    "AuthorName": "Splake",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1541,
+        "Stars": 2.67
+      }
+    ],
+    "Bpm": 95,
+    "PlayedCount": 1541
+  },
+  {
+    "Key": "4402-3661",
+    "Hash": "694A0B26249A580791DC190681D9D8A0",
+    "SongName": "Ange du Blanc Pur",
+    "SongSubName": "ke-ji feat. Nanahira",
+    "AuthorName": "Hexagonial",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 3816,
+        "Stars": 7.36
+      }
+    ],
+    "Bpm": 182,
+    "PlayedCount": 3816
+  },
+  {
+    "Key": "4409-3665",
+    "Hash": "C5C5CF4F45BE73B52C9CB92BD536E3ED",
+    "SongName": "Bad Romance",
+    "SongSubName": "Lady Gaga",
+    "AuthorName": "Tim Buckrue",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 5552,
+        "Stars": 1.16
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 6299,
+        "Stars": 2.05
+      }
+    ],
+    "Bpm": 118,
+    "PlayedCount": 11851
+  },
+  {
+    "Key": "4532-3807",
+    "Hash": "1CDD2FEC4B15C668F06F47AA4B2B737E",
+    "SongName": "VORACITY",
+    "SongSubName": "OVERLOAD III OP",
+    "AuthorName": "ejiejidayo",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 5249,
+        "Stars": 2.86
+      }
+    ],
+    "Bpm": 200,
+    "PlayedCount": 5249
+  },
+  {
+    "Key": "4560-3838",
+    "Hash": "95AE6A83006A1914633447BCC48FA5C5",
+    "SongName": "Some Nights",
+    "SongSubName": "Fun.",
+    "AuthorName": "BennyDaBeast",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 3653,
+        "Stars": 1.04
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 9446,
+        "Stars": 2.92
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 9275,
+        "Stars": 2.28
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 6111,
+        "Stars": 1.31
+      }
+    ],
+    "Bpm": 108.5,
+    "PlayedCount": 28485
+  },
+  {
+    "Key": "4600-3884",
+    "Hash": "792E7704535FD3BDD6C1E4A8B65292D1",
+    "SongName": "No Title",
+    "SongSubName": "Chart by Kizuflux",
+    "AuthorName": "Reol",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 747,
+        "Stars": 2.21
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1070,
+        "Stars": 2.86
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 2048,
+        "Stars": 3.31
+      }
+    ],
+    "Bpm": 200,
+    "PlayedCount": 3865
+  },
+  {
+    "Key": "4744-4060",
+    "Hash": "8EBBDFF7CF5ABA9DD80BB4829B40641D",
+    "SongName": "Brave Shine",
+    "SongSubName": "Aimer",
+    "AuthorName": "splake",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1681,
+        "Stars": 2.72
+      }
+    ],
+    "Bpm": 175,
+    "PlayedCount": 1681
+  },
+  {
+    "Key": "4809-4134",
+    "Hash": "FBA1A05F45B91B27CA17F878C8EC2A57",
+    "SongName": "Karakuri Pierrot",
+    "SongSubName": "By 40mP",
+    "AuthorName": "Teuthidan",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 191,
+        "Stars": 1.56
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 281,
+        "Stars": 2.05
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 623,
+        "Stars": 2.37
+      }
+    ],
+    "Bpm": 204,
+    "PlayedCount": 1095
+  },
+  {
+    "Key": "4920-4265",
+    "Hash": "A43E97D61B2CBA49EAD96D9E0A283B0B",
+    "SongName": "One Room Sugar Life (Full)",
+    "SongSubName": "Akari Nanawo",
+    "AuthorName": "SilentCaay",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 783,
+        "Stars": 2.95
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 783
+  },
+  {
+    "Key": "5184-4574",
+    "Hash": "31BEBC7E42D434463751EA01BBEA99FF",
+    "SongName": "Yume Tourou",
+    "SongSubName": "Radwimps",
+    "AuthorName": "Splake",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 999,
+        "Stars": 2.76
+      }
+    ],
+    "Bpm": 178,
+    "PlayedCount": 999
+  },
+  {
+    "Key": "5250-4649",
+    "Hash": "9CED4938F5759BA3925322196EC26744",
+    "SongName": "Give Me A Break Stop Now",
+    "SongSubName": "Reol",
+    "AuthorName": "aggrogahu",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1640,
+        "Stars": 2.7
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 999,
+        "Stars": 1.88
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 2639
+  },
+  {
+    "Key": "5363-4783",
+    "Hash": "A8C74689B0954C2F563743DEAA80E7D5",
+    "SongName": "Connect ",
+    "SongSubName": "(PandaBoY DnB remix)",
+    "AuthorName": "Mapped by Yun0 [v2.0]",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 158,
+        "Stars": 1.12
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 343,
+        "Stars": 1.63
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 671,
+        "Stars": 3.18
+      }
+    ],
+    "Bpm": 175,
+    "PlayedCount": 1172
+  },
+  {
+    "Key": "5523-4968",
+    "Hash": "A2A99F6D3844DC0258E2897FAA7B6720",
+    "SongName": "ParagonX9 - Infiltration",
+    "SongSubName": "",
+    "AuthorName": "jackscape",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 3255,
+        "Stars": 5.46
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 3255
+  },
+  {
+    "Key": "5534-4979",
+    "Hash": "62F15C9131F8F19617542019B593BB7F",
+    "SongName": "Nico Nico Douga Medley",
+    "SongSubName": "",
+    "AuthorName": "jackscape",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 360,
+    "PlayedCount": 1
+  },
+  {
+    "Key": "5621-5069",
+    "Hash": "9ABAA33C85C1C424DAF1972BAAD04C40",
+    "SongName": "Future Candy",
+    "SongSubName": "YUC'e",
+    "AuthorName": "Saut",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1734,
+        "Stars": 5.85
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 1734
+  },
+  {
+    "Key": "5643-5097",
+    "Hash": "2C187E1718D0FAFF16E69A4CF3B7172B",
+    "SongName": "BUBBLE TEA",
+    "SongSubName": "dark cat",
+    "AuthorName": "Mapped by roeek",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 11267,
+        "Stars": 3.65
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 4122,
+        "Stars": 2.9
+      }
+    ],
+    "Bpm": 160,
+    "PlayedCount": 15389
+  },
+  {
+    "Key": "5791-5255",
+    "Hash": "41BD6F7BFF9E7615B9FD63271296C9AF",
+    "SongName": "Yakuza 0-24 Hour Cinderella (Full)",
+    "SongSubName": "Yakuza 0",
+    "AuthorName": "Mapped by Catman9000",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 242,
+        "Stars": 3.32
+      }
+    ],
+    "Bpm": 150.08999633789062,
+    "PlayedCount": 242
+  },
+  {
+    "Key": "5857-5324",
+    "Hash": "3C376D068F442179F81A949CC510537B",
+    "SongName": "LAST GAME (TV-Size)",
+    "SongSubName": "STEINS;GATE",
+    "AuthorName": "tinlun",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 521,
+        "Stars": 1.24
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1304,
+        "Stars": 1.81
+      }
+    ],
+    "Bpm": 152,
+    "PlayedCount": 1825
+  },
+  {
+    "Key": "586-373",
+    "Hash": "7D054D2FA5F0E572B59797DB97A46416",
+    "SongName": "Hatsukoi no Ehon",
+    "SongSubName": "Hatsukoi no Ehon ft.Aida Miou",
+    "AuthorName": "HoneyWorks",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 192,
+        "Stars": 1.72
+      }
+    ],
+    "Bpm": 60,
+    "PlayedCount": 192
+  },
+  {
+    "Key": "5891-5366",
+    "Hash": "B301280C65CD4DB4871D64E703C563F7",
+    "SongName": "Buriki no Dance",
+    "SongSubName": "HYUGA-DENCO",
+    "AuthorName": "ejiejidayo",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 484,
+        "Stars": 3.97
+      }
+    ],
+    "Bpm": 172,
+    "PlayedCount": 484
+  },
+  {
+    "Key": "593-380",
+    "Hash": "865DB0C27661A37C15078B5A0C087F70",
+    "SongName": "Don't Say \"Lazy\"",
+    "SongSubName": "K-On",
+    "AuthorName": "Sakuragaoka High School Light Music Club",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 8102,
+        "Stars": 2.73
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 5157,
+        "Stars": 2.51
+      }
+    ],
+    "Bpm": 181,
+    "PlayedCount": 13259
+  },
+  {
+    "Key": "594-381",
+    "Hash": "32FDD7299A5386EE78980E9686FB5D12",
+    "SongName": "Life Will Change",
+    "SongSubName": "Persona 5 OST",
+    "AuthorName": "Shoji Meguro",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 8637,
+        "Stars": 2.69
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 5971,
+        "Stars": 1.93
+      }
+    ],
+    "Bpm": 132,
+    "PlayedCount": 14608
+  },
+  {
+    "Key": "5998-5489",
+    "Hash": "4FECF763C6B8CC4DB39497B0DED1F952",
+    "SongName": "Thriller",
+    "SongSubName": "Michael Jackson",
+    "AuthorName": "MajorPickle ",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 1811,
+        "Stars": 1.45
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 3856,
+        "Stars": 2.41
+      }
+    ],
+    "Bpm": 118,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "6000-5491",
+    "Hash": "50DBE87079722BC859C86A5CAF908733",
+    "SongName": "Bad Apple",
+    "SongSubName": "",
+    "AuthorName": "Alstroemeria Records ft. Nomico",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 4474,
+        "Stars": 2.86
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 2117,
+        "Stars": 1.55
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 868,
+        "Stars": 1.13
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 2975,
+        "Stars": 2.08
+      }
+    ],
+    "Bpm": 138,
+    "PlayedCount": 10434
+  },
+  {
+    "Key": "6205-5733",
+    "Hash": "957814CF683FADA5A843B3746FA63419",
+    "SongName": "Two-Faced Lovers feat. Miku",
+    "SongSubName": "by Wowaka",
+    "AuthorName": "Todokete",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1714,
+        "Stars": 2.91
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 507,
+        "Stars": 0.79
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1176,
+        "Stars": 1.39
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 2480,
+        "Stars": 6.38
+      }
+    ],
+    "Bpm": 318,
+    "PlayedCount": 5877
+  },
+  {
+    "Key": "6207-5787",
+    "Hash": "214FCA2B495FAAA0232815A32B272D3A",
+    "SongName": "Rolling Girl feat. Miku",
+    "SongSubName": "by Wowaka",
+    "AuthorName": "Todokete",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 452,
+        "Stars": 1.21
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 678,
+        "Stars": 2.93
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 938,
+        "Stars": 1.73
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 752,
+        "Stars": 3.1
+      }
+    ],
+    "Bpm": 195,
+    "PlayedCount": 2820
+  },
+  {
+    "Key": "6211-5739",
+    "Hash": "85D8B914997503F5BB89FB934260E8B3",
+    "SongName": "Karakuri Pierrot feat. Miku",
+    "SongSubName": "by 40mP",
+    "AuthorName": "Todokete",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1265,
+        "Stars": 1.91
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 319,
+        "Stars": 0.92
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 657,
+        "Stars": 1.45
+      }
+    ],
+    "Bpm": 102,
+    "PlayedCount": 2241
+  },
+  {
+    "Key": "6370-5939",
+    "Hash": "EA5BDB61C9135F836EED284A8867CAD9",
+    "SongName": "I Want You Back",
+    "SongSubName": "Jackson 5",
+    "AuthorName": "GreatYazer",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 2009,
+        "Stars": 0.99
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 2793,
+        "Stars": 1.96
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 4493,
+        "Stars": 2.71
+      }
+    ],
+    "Bpm": 98,
+    "PlayedCount": 9295
+  },
+  {
+    "Key": "6455-6060",
+    "Hash": "C8C5D7DC890845DE52D32BF5735C2E00",
+    "SongName": "Holiday",
+    "SongSubName": "Green Day",
+    "AuthorName": "DownyCat",
+    "Diffs": [
+      {
+        "Diff": "Normal",
+        "Scores": 1711,
+        "Stars": 1.11
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 2372,
+        "Stars": 2.2
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 3357,
+        "Stars": 3.25
+      }
+    ],
+    "Bpm": 146.47999572753906,
+    "PlayedCount": 7440
+  },
+  {
+    "Key": "65-33",
+    "Hash": "7EC098435EF00DE390B1FF713F7D0C6E",
+    "SongName": "LUVORATORRRRRY!",
+    "SongSubName": "feat.nqrse",
+    "AuthorName": "Reol",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 3,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 2,
+        "Stars": 0.0
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 7,
+        "Stars": 0.0
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 12
+  },
+  {
+    "Key": "6629-6264",
+    "Hash": "858609FEA811815BB9CB2F79C12DA7F1",
+    "SongName": "Yakuza 0 Intro Theme",
+    "SongSubName": "",
+    "AuthorName": "woops",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 248,
+        "Stars": 4.69
+      }
+    ],
+    "Bpm": 274,
+    "PlayedCount": 248
+  },
+  {
+    "Key": "6824-6485",
+    "Hash": "BDE38BBB3420DE69DE726ED2F4C7D9C6",
+    "SongName": "Hitorigoto -TV MIX-",
+    "SongSubName": "ClariS",
+    "AuthorName": "Psyc0pathic",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 1543,
+        "Stars": 2.39
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 3957,
+        "Stars": 3.33
+      }
+    ],
+    "Bpm": 165,
+    "PlayedCount": 5500
+  },
+  {
+    "Key": "6890-6563",
+    "Hash": "F7FF51980521C91894146F3EF5691C6A",
+    "SongName": "Streaming Heart",
+    "SongSubName": "REOL",
+    "AuthorName": "Amanatsu",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 545,
+        "Stars": 3.51
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 118,
+        "Stars": 4.69
+      }
+    ],
+    "Bpm": 210,
+    "PlayedCount": 663
+  },
+  {
+    "Key": "7012-6707",
+    "Hash": "1B7C6B5112D5D0731C322A3B5A886C34",
+    "SongName": "RELOADED",
+    "SongSubName": "EGOIST",
+    "AuthorName": "Saut",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 3092,
+        "Stars": 6.72
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 2014,
+        "Stars": 4.11
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1580,
+        "Stars": 2.35
+      }
+    ],
+    "Bpm": 173,
+    "PlayedCount": 6686
+  },
+  {
+    "Key": "7175-6893",
+    "Hash": "A86C59762F609BC2058D7D0793DDA353",
+    "SongName": "Pray(TV Size)",
+    "SongSubName": "Chisuga Haruka",
+    "AuthorName": "Fayhe(EX+ by Mystimol)",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 514,
+        "Stars": 1.83
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 395,
+        "Stars": 2.55
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 3263,
+        "Stars": 4.54
+      }
+    ],
+    "Bpm": 160,
+    "PlayedCount": 4172
+  },
+  {
+    "Key": "726-477",
+    "Hash": "7545D9666F63AC9C802A2967BD5ADC91",
+    "SongName": "Portal - Still Alive (Uppermost Remix)",
+    "SongSubName": "Uppermost",
+    "AuthorName": "Kryptikos",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 26452,
+        "Stars": 1.68
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 41954,
+        "Stars": 2.07
+      }
+    ],
+    "Bpm": 120,
+    "PlayedCount": 68406
+  },
+  {
+    "Key": "7269-7012",
+    "Hash": "D63443C392EAC9FC3856150BADCF5CA9",
+    "SongName": "Inokori-Sensei",
+    "SongSubName": "",
+    "AuthorName": "Squinty",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 63,
+        "Stars": 5.02
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 102,
+        "Stars": 5.15
+      }
+    ],
+    "Bpm": 162,
+    "PlayedCount": 165
+  },
+  {
+    "Key": "7368-7133",
+    "Hash": "01FE311706315676E2FD2AA3B8737EC7",
+    "SongName": "osu!memories",
+    "SongSubName": "SakiZ",
+    "AuthorName": "Various Mappers",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 3521,
+        "Stars": 8.49
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 3521
+  },
+  {
+    "Key": "7427-7212",
+    "Hash": "A3F4FD0604C22A36C89D9698E811FBB2",
+    "SongName": "Plus Danshi ",
+    "SongSubName": "REOL",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 950,
+        "Stars": 4.44
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 950
+  },
+  {
+    "Key": "7621-7490",
+    "Hash": "F1D38A80DD1977E61A9792D647F97CCF",
+    "SongName": "Ai Kotoba III",
+    "SongSubName": "DECO*27 ft. Hatsune Miku ",
+    "AuthorName": "Edzo",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1898,
+        "Stars": 3.15
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 988,
+        "Stars": 1.93
+      }
+    ],
+    "Bpm": 274,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "7677-7572",
+    "Hash": "C63AAAFE0FD24EC6857E1E04F80D00DE",
+    "SongName": "Lose Yourself",
+    "SongSubName": "Eminem",
+    "AuthorName": "StyngMe",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 4198,
+        "Stars": 2.77
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 566,
+        "Stars": 2.3
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1043,
+        "Stars": 2.43
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1861,
+        "Stars": 2.66
+      }
+    ],
+    "Bpm": 86,
+    "PlayedCount": 7668
+  },
+  {
+    "Key": "7702-7606",
+    "Hash": "D65C1F7B1B9A4248713691CB7FF36086",
+    "SongName": "Setsuna Imitation (feat. Yurica, Hanatan) ",
+    "SongSubName": "Yairi",
+    "AuthorName": "Saut",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 2260,
+        "Stars": 7.36
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1380,
+        "Stars": 3.15
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 2205,
+        "Stars": 4.5
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 737,
+        "Stars": 1.39
+      }
+    ],
+    "Bpm": 198,
+    "PlayedCount": 6582
+  },
+  {
+    "Key": "7872-7858",
+    "Hash": "EBFE953DC372F07E4427DD7240656F9A",
+    "SongName": "Pumped Up Kicks",
+    "SongSubName": "Foster The People",
+    "AuthorName": "Skyler Wallace",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 1999,
+        "Stars": 1.75
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1374,
+        "Stars": 1.34
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 3102,
+        "Stars": 2.42
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 6475
+  },
+  {
+    "Key": "7934-11424",
+    "Hash": "20F46B60BF5F209E779AF85D8FBFF019",
+    "SongName": "POP/STARS",
+    "SongSubName": "K/DA (ft Madison Beer, (G)I-DLE, Jaira Burns)",
+    "AuthorName": "BennyDaBeast",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 2788,
+        "Stars": 3.79
+      }
+    ],
+    "Bpm": 170,
+    "PlayedCount": 2788
+  },
+  {
+    "Key": "811-535",
+    "Hash": "281C6C8588C5B1F72F7584BAAE98ADFC",
+    "SongName": "Beat it",
+    "SongSubName": "Michael Jackson",
+    "AuthorName": "Freeek",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 67327,
+        "Stars": 2.73
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 80228,
+        "Stars": 1.7
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 62090,
+        "Stars": 0.64
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 37893,
+        "Stars": 0.39
+      }
+    ],
+    "Bpm": 139,
+    "PlayedCount": 247538
+  },
+  {
+    "Key": "8135-8191",
+    "Hash": "4C24575FCDEFB28FE061A5362D2DEEF1",
+    "SongName": "Chiru Chiru",
+    "SongSubName": "REOL",
+    "AuthorName": "Kolezan",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 9185,
+        "Stars": 2.28
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 3400,
+        "Stars": 1.82
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1540,
+        "Stars": 1.37
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 924,
+        "Stars": 1.1
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 15049
+  },
+  {
+    "Key": "8199-8268",
+    "Hash": "C7C1BAFD33BF89F2D185D216E4426D30",
+    "SongName": "Indoor Kei Nara Trackmaker",
+    "SongSubName": "Yunomi & nicamoq",
+    "AuthorName": "Hexagonial",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 2254,
+        "Stars": 3.59
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 2254
+  },
+  {
+    "Key": "8214-8287",
+    "Hash": "6672E93A0FD24AB04E97BFEE985F5056",
+    "SongName": "Colors (Code Geass Opening 1)",
+    "SongSubName": "FLOW",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1507,
+        "Stars": 2.96
+      }
+    ],
+    "Bpm": 136,
+    "PlayedCount": 1507
+  },
+  {
+    "Key": "8301-8388",
+    "Hash": "0D766FB46F3257A05FEB75E1C405D603",
+    "SongName": "Nostalgic Rainfall",
+    "SongSubName": "CHiCO with HoneyWorks",
+    "AuthorName": "Amanatsu",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 134,
+        "Stars": 3.31
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 158,
+        "Stars": 3.79
+      }
+    ],
+    "Bpm": 165,
+    "PlayedCount": 292
+  },
+  {
+    "Key": "8409-11303",
+    "Hash": "BEC266BB9A7E371248CF775E96F65A8B",
+    "SongName": "Bluenation",
+    "SongSubName": "yaseta",
+    "AuthorName": "Various Mappers",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 866,
+        "Stars": 7.49
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 866
+  },
+  {
+    "Key": "8492-8642",
+    "Hash": "708E3A11F3EDA39BD7F614458FC5B71B",
+    "SongName": "Hibikase",
+    "SongSubName": "REOL + Giga-P",
+    "AuthorName": "Kolezan (E+ by squeaksies)",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1102,
+        "Stars": 3.84
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 107,
+        "Stars": 1.0
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 752,
+        "Stars": 1.8
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 284,
+        "Stars": 1.29
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1318,
+        "Stars": 2.72
+      }
+    ],
+    "Bpm": 140,
+    "PlayedCount": 3563
+  },
+  {
+    "Key": "8541-8704",
+    "Hash": "4B4D1DD9B98CF2749A8CDF0267E3CADB",
+    "SongName": "Daisuki, Evolution",
+    "SongSubName": "Minazuki Airi with Atsushi",
+    "AuthorName": "Hexagonial",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 899,
+        "Stars": 8.9
+      }
+    ],
+    "Bpm": 250,
+    "PlayedCount": 899
+  },
+  {
+    "Key": "8637-8815",
+    "Hash": "0011B4C158DB3CDF56E1687096034B9B",
+    "SongName": "Amadeus (TV Edit)",
+    "SongSubName": "Kanako Ito",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 907,
+        "Stars": 2.45
+      }
+    ],
+    "Bpm": 88.55000305175781,
+    "PlayedCount": 907
+  },
+  {
+    "Key": "878-587",
+    "Hash": "0D712E5D093C480CDA24778B3C324C3B",
+    "SongName": "Welcome to the Black Parade (Beta rev.2)",
+    "SongSubName": "My Chemical Romance",
+    "AuthorName": "sonjh02",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 12340,
+        "Stars": 2.06
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 12340
+  },
+  {
+    "Key": "8836-9060",
+    "Hash": "41FEB38D5B2925D231298F459E8AE85C",
+    "SongName": "Padoru Padoru",
+    "SongSubName": "RJKuker ft. Hatsune Miku",
+    "AuthorName": "Joetastic, Lighting By: AaltopahWi",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1179,
+        "Stars": 2.12
+      }
+    ],
+    "Bpm": 110,
+    "PlayedCount": 1179
+  },
+  {
+    "Key": "9055-9333",
+    "Hash": "628DE2059303772C394605DBDB9BD1F7",
+    "SongName": "Bring It On",
+    "SongSubName": "Giga-P",
+    "AuthorName": "Kolezan",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 138,
+        "Stars": 1.02
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 300,
+        "Stars": 1.36
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 570,
+        "Stars": 1.95
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 2169,
+        "Stars": 2.64
+      }
+    ],
+    "Bpm": 160,
+    "PlayedCount": 3177
+  },
+  {
+    "Key": "9076-9358",
+    "Hash": "8C935702749D74967A3407FAB59D6081",
+    "SongName": "Dance, Dance",
+    "SongSubName": "Fall Out Boy",
+    "AuthorName": "Skyler Wallace",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 567,
+        "Stars": 0.86
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 1264,
+        "Stars": 1.25
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 1920,
+        "Stars": 1.62
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 2022,
+        "Stars": 2.56
+      }
+    ],
+    "Bpm": 114.5,
+    "PlayedCount": 5773
+  },
+  {
+    "Key": "9077-9360",
+    "Hash": "AF4C7E05B26EC76054C6FB4A1CE907F0",
+    "SongName": "WAVE",
+    "SongSubName": "VOCALOID",
+    "AuthorName": "Chairo",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 745,
+        "Stars": 2.7
+      }
+    ],
+    "Bpm": 130,
+    "PlayedCount": 745
+  },
+  {
+    "Key": "9093-9381",
+    "Hash": "E5DB2F8871BD14B6924B2F00C7CD0A06",
+    "SongName": "Wareta Ringo",
+    "SongSubName": "Taneda Risa",
+    "AuthorName": "ejiejidayo",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 385,
+        "Stars": 2.57
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 516,
+        "Stars": 3.98
+      }
+    ],
+    "Bpm": 120,
+    "PlayedCount": 901
+  },
+  {
+    "Key": "9309-9625",
+    "Hash": "C408C567E16F22F03EDFC9FF1F2A6D86",
+    "SongName": "Six Trillion Years and Overnight Story",
+    "SongSubName": "Roselia",
+    "AuthorName": "RinkuSenpai",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1928,
+        "Stars": 4.41
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 716,
+        "Stars": 3.07
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1156,
+        "Stars": 3.41
+      }
+    ],
+    "Bpm": 186,
+    "PlayedCount": 3800
+  },
+  {
+    "Key": "9313-9633",
+    "Hash": "BB02368025BFA9ED7F22169C51F9CFD5",
+    "SongName": "This Game",
+    "SongSubName": "Konomi Suzuki",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 641,
+        "Stars": 7.06
+      }
+    ],
+    "Bpm": 147,
+    "PlayedCount": 641
+  },
+  {
+    "Key": "9321-9692",
+    "Hash": "38939B82EDB8B9C74E2180DAAE6E349B",
+    "SongName": "Hello, Morning (Short edit)",
+    "SongSubName": "Nor ft. Kizuna AI",
+    "AuthorName": "Kolezan",
+    "Diffs": [
+      {
+        "Diff": "Easy",
+        "Scores": 85,
+        "Stars": 0.93
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 423,
+        "Stars": 1.97
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 180,
+        "Stars": 1.27
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1173,
+        "Stars": 2.55
+      }
+    ],
+    "Bpm": 160,
+    "PlayedCount": 1861
+  },
+  {
+    "Key": "9512-9859",
+    "Hash": "184ACD775C1CB0DE5207B4159CF5A697",
+    "SongName": "Routine",
+    "SongSubName": "Silent Siren",
+    "AuthorName": "Hexagonial & Splake & Puds",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 2354,
+        "Stars": 4.36
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 2931,
+        "Stars": 7.67
+      }
+    ],
+    "Bpm": 176,
+    "PlayedCount": 5285
+  },
+  {
+    "Key": "9538-9899",
+    "Hash": "4FFD2746EFD7F3F9B5E0B45E084C74FC",
+    "SongName": "Robotic Girl(Coralmines Remix)",
+    "SongSubName": "Yunomi",
+    "AuthorName": "HaiXuZ",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 61,
+        "Stars": 6.34
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 61
+  },
+  {
+    "Key": "9596-9975",
+    "Hash": "8291525EA2472A3ADC56B023FD186984",
+    "SongName": "Gigantic O.T.N (Short Ver.)",
+    "SongSubName": "Giga+REOL (Wotamin Cover)",
+    "AuthorName": "TigerAW",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 274,
+        "Stars": 4.8
+      }
+    ],
+    "Bpm": 190,
+    "PlayedCount": 274
+  },
+  {
+    "Key": "9618-10001",
+    "Hash": "0BC10FF82EBA3FF99073E0DCF88C80CC",
+    "SongName": "Courage",
+    "SongSubName": "Yuuki Asuna (CV: Tomatsu Haruka) ",
+    "AuthorName": "Joetastic",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 3130,
+        "Stars": 3.98
+      }
+    ],
+    "Bpm": 196,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "976-657",
+    "Hash": "6BE6E1D7AF99A34EE82B99018264A352",
+    "SongName": "Pumped up Kicks",
+    "SongSubName": "Foster The People",
+    "AuthorName": "KelleraSW",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 14182,
+        "Stars": 2.99
+      }
+    ],
+    "Bpm": 128,
+    "PlayedCount": 14182
+  },
+  {
+    "Key": "9785-10200",
+    "Hash": "C456D143BD0B3F9F06180077E442134E",
+    "SongName": "Monochrome Butterfly",
+    "SongSubName": "Aitsuki Nakuru",
+    "AuthorName": "fraies",
+    "Diffs": [
+      {
+        "Diff": "Hard",
+        "Scores": 199,
+        "Stars": 3.6
+      },
+      {
+        "Diff": "Expert",
+        "Scores": 1180,
+        "Stars": 4.1
+      },
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 2521,
+        "Stars": 5.49
+      }
+    ],
+    "Bpm": 175,
+    "PlayedCount": 3900
+  },
+  {
+    "Key": "9817-10240",
+    "Hash": "853E15EB14376609E491A6F827E6FE01",
+    "SongName": "Teo (ft. Hatsune Miku)",
+    "SongSubName": "Omoi",
+    "AuthorName": "Hexagonial",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 1215,
+        "Stars": 7.05
+      }
+    ],
+    "Bpm": 185,
+    "PlayedCount": 1215
+  },
+  {
+    "Key": "9818-10241",
+    "Hash": "5F688BD9196A1F95B548889FF631F557",
+    "SongName": "Hello Morning - Kizuna AI ",
+    "SongSubName": "Pa's Lam System Remix",
+    "AuthorName": "roeek",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 150,
+        "Stars": 9.87
+      }
+    ],
+    "Bpm": 160,
+    "PlayedCount": 150
+  },
+  {
+    "Key": "9870-10929",
+    "Hash": "854002A6B5EEB71E00EC1E7EBDA96E37",
+    "SongName": "Star Night Snow (Short edit)",
+    "SongSubName": "n-buna x Orangestar feat. Hatsune Miku",
+    "AuthorName": "Pug & Puds",
+    "Diffs": [
+      {
+        "Diff": "ExpertPlus",
+        "Scores": 2682,
+        "Stars": 5.06
+      }
+    ],
+    "Bpm": 180,
+    "PlayedCount": 2682
+  },
+  {
+    "Key": "9908-10353",
+    "Hash": "805B67801202481BDB4096703298C96A",
+    "SongName": "Redo (TV Size)",
+    "SongSubName": "Konomi Suzuki",
+    "AuthorName": "Rogdude",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 1179,
+        "Stars": 3.75
+      }
+    ],
+    "Bpm": 190,
+    "PlayedCount": 1179
+  },
+  {
+    "Key": "Hanatan - Senbonzakura",
+    "Hash": "A339B708761E7F5DDAED58C630F7F53E",
+    "SongName": "Senbonzakura (Hanatan)",
+    "SongSubName": "Kurousa-P",
+    "AuthorName": "YLance",
+    "Diffs": [],
+    "Bpm": 154,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "HimeHina - Rettou Joutou",
+    "Hash": "628DE2059303772C394605DBDB9BD1F7",
+    "SongName": "Rettou Joutou",
+    "SongSubName": "HimeHina",
+    "AuthorName": "Kolezan",
+    "Diffs": [],
+    "Bpm": 160,
+    "PlayedCount": 0
+  },
+  {
+    "Key": "One More Time",
+    "Hash": "79A3BAA3B00B56FA5406F52D99F44CD1",
+    "SongName": "One More Time",
+    "SongSubName": "Berlin Child",
+    "AuthorName": "Freeek",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 11654,
+        "Stars": 3.07
+      },
+      {
+        "Diff": "Hard",
+        "Scores": 6605,
+        "Stars": 2.26
+      },
+      {
+        "Diff": "Normal",
+        "Scores": 19562,
+        "Stars": 1.25
+      },
+      {
+        "Diff": "Easy",
+        "Scores": 14960,
+        "Stars": 0.49
+      }
+    ],
+    "Bpm": 120,
+    "PlayedCount": 52781
+  },
+  {
+    "Key": "Shall Never Surrender",
+    "Hash": "66C39EB5E46F37F1A8AA12D3CABC62D5",
+    "SongName": "Shall Never Surrender",
+    "SongSubName": "",
+    "AuthorName": "Tetsuya Shibata",
+    "Diffs": [
+      {
+        "Diff": "Expert",
+        "Scores": 417,
+        "Stars": 2.64
+      }
+    ],
+    "Bpm": 150,
+    "PlayedCount": 417
+  }
+]

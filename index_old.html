@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Beat Saber Leaderboard Viewer</title>
+  <script src="script.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
+  <link rel="icon" href="icon.png" />
+  <style>
+    .align-right {
+      text-align: right;
+    }
+
+    body {
+      background: linear-gradient(0deg, #060c11 0%, #1c344f 100%);
+      background-size: cover;
+      color: white;
+      cursor: default;
+      font-family: 'Teko';
+      font-size: 25px;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .button {
+      display: inline-block;
+      margin: 25px;
+      padding: 5px 15px;
+    }
+
+    .column {
+      float: left;
+      margin: 0;
+      max-height: 100%;
+      overflow: auto;
+      width: 400px;
+    }
+
+    #file-picker {
+      display: none;
+    }
+
+    .highlightable:hover {
+      background-color: white;
+      color: #1c344f;
+    }
+
+    #main {
+      height: 100%;
+      margin: 0 auto;
+      width: 1200px;
+    }
+
+    #player-filter {
+      display: none;
+    }
+
+    .radio-button {
+      padding: 5px 15px;
+    }
+
+    .radio-buttons {
+      margin: 0 auto 25px auto;
+      overflow: hidden;
+      width: 250px;
+    }
+
+    .round-outline {
+      box-shadow: 0 0 0 2px #1c344f,
+                  0 0 0 4px white;
+      border-radius: 25px;
+    }
+
+    .selected {
+      background-color: white;
+      color: #1c344f;
+    }
+
+    .song {
+      padding: 8px;
+    }
+
+    .song-artist {
+      font-size: 0.8em;
+    }
+
+    .song-map-author {
+      font-size: 0.8em;
+      margin-top: -3px;
+      opacity: 0.5;
+    }
+
+    .song-name {
+      margin-right: 10px;
+    }
+
+    #song-name-for-scores {
+      cursor: pointer;
+      margin: 20px 70px;
+    }
+
+    .song-top-row {
+      line-height: 28px;
+      text-overflow: ellipsis;
+    }
+
+    #sort {
+      display: none;
+      margin-top: 25px;
+    }
+
+    table {
+      margin-left: 50px;
+    }
+
+    table tr + tr {
+      border-top: 1px solid white;
+    }
+
+    td {
+      padding: 0 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="main">
+    <div class="column">
+      <div id="file-picker-container" style="text-align: center">
+        <label class="button highlightable round-outline">
+          <input type="file" id="file-picker" />
+          Locate LocalLeaderboards.dat
+        </label>
+      </div>
+      <div id="sort">
+        <div style="text-align: center">Sort by:</div>
+        <div class="round-outline radio-buttons" id="sort-options">
+          <div class="radio-button highlightable" id="sort-by-recent">
+            Date played
+          </div>
+          <div class="radio-button highlightable" id="sort-by-recent-high-score">
+            Date of high score
+          </div>
+          <div class="radio-button highlightable" id="sort-by-high-score">
+            High score
+          </div>
+          <div class="radio-button highlightable" id="sort-alphabetically">
+            Alphabetical order
+          </div>
+          <div class="radio-button highlightable" id="sort-by-play-count">
+            Play count
+          </div>
+        </div>
+      </div>
+      <div id="player-filter">
+        <div style="text-align: center">High score held by:</div>
+        <div class="round-outline radio-buttons" id="player-filter-options">
+        </div>
+      </div>
+    </div>
+    <div id="songs" class="column"></div>
+    <div class="column">
+      <div id="song-name-for-scores"></div>
+      <table id="scores" class="list"></table>
+    </div>
+  </div>
+</body>
+
+</html>
