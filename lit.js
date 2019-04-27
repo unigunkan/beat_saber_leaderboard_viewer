@@ -238,7 +238,7 @@ class ScoreTableElement extends LitElement {
   /**
    * @param {Score} score
    */
-  createScoreRow(score) {
+  createScoreRow_(score) {
     const shortDate = score.date.toDateString().substring(4, 10);
     return html`
       <tr>
@@ -257,14 +257,13 @@ class ScoreTableElement extends LitElement {
   render() {
     return html`
       ${
-        this.song ? html`<song-entry .song=${this.song} @click=${
-                        this.openBeastSaber_}></song-entry>` :
+        this.song ? html`
+              <song-entry .song=${this.song} @click=${
+                        this.openBeastSaber_}></song-entry>
+              <table>
+                ${this.song.scores.map(score => this.createScoreRow_(score))}
+              </table>` :
                     ''}
-      <table>
-        ${
-        this.song ? this.song.scores.map(score => this.createScoreRow(score)) :
-                    null}
-      </table>
     `;
   }
 }
@@ -329,7 +328,6 @@ customElements.define('song-entry', SongEntryElement);
 class SongListElement extends LitElement {
   constructor() {
     super();
-    window.s = this;
     this.playerFilter_ = 'Anyone';
     this.selectedSong = null;
     this.selectionCallback = null;
@@ -588,7 +586,6 @@ customElements.define('radio-buttons', RadioButtonsElement);
 class LeaderboardElement extends LitElement {
   constructor() {
     super();
-    window.l = this;
     this.leaderboard = null;
     this.playerFilter = 'Anyone';
     this.selectedSong = null;
