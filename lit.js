@@ -276,10 +276,11 @@ class SongEntryElement extends LitElement {
      * @type {Song}
      */
     this.song = null;
+    this.showTopPlayer = false;
   }
 
   static get properties() {
-    return {song: Song};
+    return {showTopPlayer: {type: Boolean}, song: {type: Song}};
   }
 
   static get styles() {
@@ -317,8 +318,9 @@ class SongEntryElement extends LitElement {
         <span class="song-artist">${this.song.artist}</span>
       </div>
       <div class="song-bottom-row">
-        ${this.song.mapAuthor} ${
-        this.song.stars ? ' - ' + this.song.stars : ''}
+        ${this.song.mapAuthor}
+        ${this.song.stars ? ' - ' + this.song.stars : ''}
+        ${this.showTopPlayer ? ' - ' + this.song.scores[0].player : ''}
       </div>
     `;
   }
@@ -333,7 +335,6 @@ class SongListElement extends LitElement {
     this.selectionCallback = null;
     this.songs_ = [];
     this.sort_ = SortType.DATE_PLAYED;
-    // this.sort_ = null;
   }
 
   static get properties() {
@@ -415,7 +416,9 @@ class SongListElement extends LitElement {
     return html`
       <song-entry
         class="highlightable ${isSelected ? 'selected' : ''}"
-        @click=${() => this.selectionCallback(song)} .song=${song}>
+        @click=${() => this.selectionCallback(song)}
+        .song=${song}
+        .showTopPlayer=${true}>
       </song-entry>
     `;
   }
