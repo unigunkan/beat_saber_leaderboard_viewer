@@ -72,6 +72,18 @@ class Song {
   }
 
   /**
+   * @param {number} scoreValue
+   * @returns {string}
+   */
+  getScorePercentageStr(scoreValue) {
+    if (this.noteCount) {
+      const maxScore = this.noteCount * 880 - 6930;
+      return String(scoreValue / maxScore * 100).substring(0, 4) + '%';
+    }
+    return '??%';
+  }
+
+  /**
    * @param {Map<string, Array<object>>} difficulties
    */
   getPropertiesFromDifficulties_(difficulties) {
@@ -247,7 +259,9 @@ class ScoreTableElement extends LitElement {
       <tr>
         <td>${score.player}</td>
         <td class="align-right">${score.value}</td>
-        <td class="align=right">${this.getScorePercentage_(score.value)}%</td>
+        <td class="align=right">
+          ${this.song.getScorePercentageStr(score.value)}
+        </td>
         <td class="align-right">${shortDate}</td>
       </tr>
     `;
@@ -288,11 +302,16 @@ class SongEntryElement extends LitElement {
      * @type {Song}
      */
     this.song = null;
+    this.showScorePercentage = false;
     this.showTopPlayer = false;
   }
 
   static get properties() {
-    return {showTopPlayer: {type: Boolean}, song: {type: Song}};
+    return {
+      showScorePercentage: {type: Boolean},
+      showTopPlayer: {type: Boolean},
+      song: {type: Song}
+    };
   }
 
   static get styles() {
@@ -335,6 +354,11 @@ class SongEntryElement extends LitElement {
         ${
         this.showTopPlayer ? html`<span>${this.song.scores[0].player}</span>` :
                              ''}
+        ${
+        this.showScorePercentage ? html`<span>${
+                                       this.song.getScorePercentageStr(
+                                           this.song.scores[0].value)}</span>` :
+                                   ''}
       </div>
     `;
   }
@@ -432,7 +456,8 @@ class SongListElement extends LitElement {
         class="highlightable ${isSelected ? 'selected' : ''}"
         @click=${() => this.selectionCallback(song)}
         .song=${song}
-        .showTopPlayer=${true}>
+        .showTopPlayer=${true}
+        .showScorePercentage=${true}>
       </song-entry>
     `;
   }
