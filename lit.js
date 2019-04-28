@@ -41,6 +41,8 @@ class Song {
     this.key;
     /** @type {number} */
     this.stars;
+    /** @type {number} */
+    this.noteCount;
 
     this.parseSongId_(json._leaderboardId);
     for (const score of json._scores) {
@@ -89,6 +91,7 @@ class Song {
       return;
     }
     this.stars = songDiff.Stars;
+    this.noteCount = songDiff.NoteCount;
   }
 
   /**
@@ -244,9 +247,18 @@ class ScoreTableElement extends LitElement {
       <tr>
         <td>${score.player}</td>
         <td class="align-right">${score.value}</td>
+        <td class="align=right">${this.getScorePercentage_(score.value)}%</td>
         <td class="align-right">${shortDate}</td>
       </tr>
     `;
+  }
+
+  getScorePercentage_(scoreValue) {
+    if (this.song.noteCount) {
+      const maxScore = this.song.noteCount * 880 - 6930;
+      return String(scoreValue / maxScore * 100).substring(0, 4);
+    }
+    return '??';
   }
 
   openBeastSaber_() {
@@ -640,6 +652,10 @@ class LeaderboardElement extends LitElement {
         width: 400px;
       }
 
+      #column-table {
+        width: 500px;
+      }
+
       #file-picker {
         display: none;
       }
@@ -652,7 +668,7 @@ class LeaderboardElement extends LitElement {
       #main {
         height: 100%;
         margin: 0 auto;
-        width: 1200px;
+        width: 1300px;
       }
 
       .round-outline {
@@ -740,7 +756,9 @@ class LeaderboardElement extends LitElement {
           .songs=${this.leaderboard ? this.leaderboard.songs : []}
           .sort=${this.sort}>
         </song-list>
-        <score-table class="column" .song=${this.selectedSong}></score-table>
+        <score-table
+          class="column" id="column-table" .song=${this.selectedSong}>
+        </score-table>
       </div>
     `;
   }
