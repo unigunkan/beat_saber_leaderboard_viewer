@@ -4648,7 +4648,7 @@
     "PlayedCount": 1066
 }, {
     "Key": "14799-16012",
-    "Hash": "D41D8CD98F00B204E9800998ECF8427E",
+    "Hash": "AEAE0CEAFBFC7BDD7C343BABEF621D40",
     "SongName": "No title",
     "SongSubName": "Reol",
     "AuthorName": "Psyc0pathic",
@@ -4662,7 +4662,7 @@
     "PlayedCount": 206
 }, {
     "Key": "15512-16821",
-    "Hash": "D41D8CD98F00B204E9800998ECF8427E",
+    "Hash": "6DA4980FF9EFCB51931BFED9AD7C43DC",
     "SongName": "Parting words",
     "SongSubName": "luvbird",
     "AuthorName": "TheRealZeroz",
@@ -4691,21 +4691,35 @@
     "PlayedCount": 173
 }, {
     "Key": "16048-17430",
-    "Hash": "D41D8CD98F00B204E9800998ECF8427E",
+    "Hash": "81DD85DB1D9F6DB119E1FFA153F02334",
     "SongName": "Independence",
     "SongSubName": "Elza Kanzaki starring ReoNa",
     "AuthorName": "Joetastic",
     "Diffs": [{
         "Diff": "ExpertPlus",
-        "Scores": 296,
+        "Scores": 298,
         "Stars": 0.0,
         "NoteCount": 1208
     }],
     "Bpm": 102.5,
-    "PlayedCount": 296
+    "PlayedCount": 298
+}, {
+    "Key": "288-176",
+    "Hash": "A7159E6A02B734EC6C5A4CC56EF56709",
+    "SongName": "Ugoku Ugoku",
+    "SongSubName": "",
+    "AuthorName": "InoriMinase, Yurika Kubo",
+    "Diffs": [{
+        "Diff": "Expert",
+        "Scores": 763,
+        "Stars": 2.27,
+        "NoteCount": 356
+    }],
+    "Bpm": 128,
+    "PlayedCount": 763
 }, {
     "Key": "6752-6404",
-    "Hash": "D41D8CD98F00B204E9800998ECF8427E",
+    "Hash": "96073B295A6274D3A612E51527A0CC04",
     "SongName": "I nyaned for Hours",
     "SongSubName": "(Nyan Cat Remix)",
     "AuthorName": "JackoDEJ",
@@ -4719,7 +4733,7 @@
     "PlayedCount": 590
 }, {
     "Key": "7823-7782",
-    "Hash": "D41D8CD98F00B204E9800998ECF8427E",
+    "Hash": "A2E1981F0A8986CA074D5D45B7E47AC0",
     "SongName": "Kimagure Mersey",
     "SongSubName": "Hachioji P feat. Hatsune Miku",
     "AuthorName": "Nuketime",
@@ -4732,22 +4746,8 @@
     "Bpm": 160,
     "PlayedCount": 329
 }, {
-    "Key": "288-176",
-    "Hash": "D41D8CD98F00B204E9800998ECF8427E",
-    "SongName": "Ugoku Ugoku",
-    "SongSubName": "",
-    "AuthorName": "InoriMinase, Yurika Kubo",
-    "Diffs": [{
-        "Diff": "Expert",
-        "Scores": 763,
-        "Stars": 2.27,
-        "NoteCount": 356
-    }],
-    "Bpm": 128,
-    "PlayedCount": 763
-}, {
     "Key": "9245-9636",
-    "Hash": "D41D8CD98F00B204E9800998ECF8427E",
+    "Hash": "7040661D54D013941E82D4FF7DA8E2D6",
     "SongName": "Addiction- GigaReol\uff83\u52c7VO+",
     "SongSubName": "[A]ddiction ",
     "AuthorName": "Calvinisacat",
