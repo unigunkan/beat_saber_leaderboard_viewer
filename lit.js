@@ -71,16 +71,23 @@ class Song {
     return players;
   }
 
+  getScorePercentage(scoreValue = this.scores[0].value) {
+    if (this.noteCount) {
+      const maxScore = this.noteCount * 880 - 6930;
+      return scoreValue / maxScore * 100;
+    }
+    return NaN;
+  }
+
   /**
    * @param {number} scoreValue
    * @returns {string}
    */
   getScorePercentageStr(scoreValue) {
-    if (this.noteCount) {
-      const maxScore = this.noteCount * 880 - 6930;
-      return String(scoreValue / maxScore * 100).substring(0, 4) + '%';
-    }
-    return '??%';
+    const scorePercentage = this.getScorePercentage(scoreValue);
+    return isNaN(scorePercentage) ?
+        '??%' :
+        String(scorePercentage).substring(0, 4) + '%';
   }
 
   /**
@@ -206,7 +213,8 @@ const SortType = {
   DATE_HIGH_SCORE: 'Date of high score',
   HIGH_SCORE: 'High score',
   PLAY_COUNT: 'Play count',
-  DIFFICULTY_RATING: 'Difficulty rating'
+  DIFFICULTY_RATING: 'Difficulty rating',
+  SCORE_PERCENTAGE: 'Score percentage'
 };
 
 class ScoreTableElement extends LitElement {
@@ -371,6 +379,7 @@ class SongListElement extends LitElement {
     this.playerFilter_ = 'Anyone';
     this.selectedSong = null;
     this.selectionCallback = null;
+    /** @type {Song[]} */
     this.songs_ = [];
     this.sort_ = SortType.DATE_PLAYED;
   }
@@ -517,6 +526,13 @@ class SongListElement extends LitElement {
     this.songs.sort((song1, song2) => (song2.stars || 0) - (song1.stars || 0));
   }
 
+  sortByScorePercentage_() {
+    this.songs.sort((song1, song2) => {
+      return (song2.getScorePercentage() || 0) -
+          (song1.getScorePercentage() || 0);
+    });
+  }
+
   sortSongs_() {
     switch (this.sort_) {
       case SortType.DATE_PLAYED:
@@ -536,6 +552,10 @@ class SongListElement extends LitElement {
         break;
       case SortType.DIFFICULTY_RATING:
         this.sortByDifficultyRating_();
+        break;
+      case SortType.SCORE_PERCENTAGE:
+        this.sortByScorePercentage_();
+        break;
     }
   }
 
@@ -715,7 +735,8 @@ class LeaderboardElement extends LitElement {
   getSortTypes_() {
     return [
       SortType.DATE_PLAYED, SortType.DATE_HIGH_SCORE, SortType.HIGH_SCORE,
-      SortType.ALPHABETICAL, SortType.PLAY_COUNT, SortType.DIFFICULTY_RATING
+      SortType.ALPHABETICAL, SortType.PLAY_COUNT, SortType.DIFFICULTY_RATING,
+      SortType.SCORE_PERCENTAGE
     ];
   }
 
