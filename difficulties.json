@@ -7,7 +7,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 152,
-    "Stars": 2.14
+    "Stars": 2.14,
+    "NoteCount": 320
   }],
   "Bpm": 114.08000183105469,
   "PlayedCount": 152
@@ -20,7 +21,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 2026,
-    "Stars": 1.84
+    "Stars": 1.84,
+    "NoteCount": 417
   }],
   "Bpm": 134,
   "PlayedCount": 2026
@@ -33,7 +35,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1258,
-    "Stars": 9.72
+    "Stars": 9.72,
+    "NoteCount": 2463
   }],
   "Bpm": 226,
   "PlayedCount": 1258
@@ -46,7 +49,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1058,
-    "Stars": 3.39
+    "Stars": 3.39,
+    "NoteCount": 530
   }],
   "Bpm": 161,
   "PlayedCount": 1058
@@ -59,19 +63,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 597,
-    "Stars": 1.05
+    "Stars": 1.05,
+    "NoteCount": 164
   }, {
     "Diff": "Easy",
     "Scores": 358,
-    "Stars": 0.74
+    "Stars": 0.74,
+    "NoteCount": 117
   }, {
     "Diff": "ExpertPlus",
     "Scores": 3044,
-    "Stars": 3.29
+    "Stars": 3.29,
+    "NoteCount": 541
   }, {
     "Diff": "Hard",
     "Scores": 1853,
-    "Stars": 1.64
+    "Stars": 1.64,
+    "NoteCount": 270
   }],
   "Bpm": 127,
   "PlayedCount": 5852
@@ -84,19 +92,23 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 729,
-    "Stars": 1.07
+    "Stars": 1.07,
+    "NoteCount": 215
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1087,
-    "Stars": 3.33
+    "Stars": 3.33,
+    "NoteCount": 540
   }, {
     "Diff": "Expert",
     "Scores": 1253,
-    "Stars": 2.13
+    "Stars": 2.13,
+    "NoteCount": 368
   }, {
     "Diff": "Normal",
     "Scores": 293,
-    "Stars": 0.79
+    "Stars": 0.79,
+    "NoteCount": 126
   }],
   "Bpm": 143,
   "PlayedCount": 3362
@@ -109,7 +121,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 636,
-    "Stars": 4.74
+    "Stars": 4.74,
+    "NoteCount": 1236
   }],
   "Bpm": 210.02000427246094,
   "PlayedCount": 636
@@ -122,7 +135,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 859,
-    "Stars": 4.03
+    "Stars": 4.03,
+    "NoteCount": 807
   }],
   "Bpm": 200,
   "PlayedCount": 859
@@ -135,7 +149,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 2717,
-    "Stars": 2.77
+    "Stars": 2.77,
+    "NoteCount": 919
   }],
   "Bpm": 138,
   "PlayedCount": 2717
@@ -148,19 +163,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 809,
-    "Stars": 2.62
+    "Stars": 2.62,
+    "NoteCount": 381
   }, {
     "Diff": "Normal",
     "Scores": 170,
-    "Stars": 1.33
+    "Stars": 1.33,
+    "NoteCount": 235
   }, {
     "Diff": "Hard",
     "Scores": 526,
-    "Stars": 1.82
+    "Stars": 1.82,
+    "NoteCount": 305
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1100,
-    "Stars": 3.38
+    "Stars": 3.38,
+    "NoteCount": 466
   }],
   "Bpm": 181,
   "PlayedCount": 2605
@@ -173,11 +192,13 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 21823,
-    "Stars": 2.04
+    "Stars": 2.04,
+    "NoteCount": 1374
   }, {
     "Diff": "Expert",
     "Scores": 21589,
-    "Stars": 3.38
+    "Stars": 3.38,
+    "NoteCount": 2832
   }],
   "Bpm": 200,
   "PlayedCount": 43412
@@ -190,7 +211,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1376,
-    "Stars": 5.38
+    "Stars": 5.38,
+    "NoteCount": 1419
   }],
   "Bpm": 174,
   "PlayedCount": 1376
@@ -203,7 +225,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 179,
-    "Stars": 4.25
+    "Stars": 4.25,
+    "NoteCount": 1335
   }],
   "Bpm": 175,
   "PlayedCount": 179
@@ -216,7 +239,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1108,
-    "Stars": 3.5
+    "Stars": 3.5,
+    "NoteCount": 690
   }],
   "Bpm": 150,
   "PlayedCount": 1108
@@ -229,7 +253,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1648,
-    "Stars": 1.53
+    "Stars": 1.53,
+    "NoteCount": 345
   }],
   "Bpm": 130,
   "PlayedCount": 1648
@@ -242,19 +267,23 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 408,
-    "Stars": 2.1
+    "Stars": 2.1,
+    "NoteCount": 370
   }, {
     "Diff": "Normal",
     "Scores": 205,
-    "Stars": 1.5
+    "Stars": 1.5,
+    "NoteCount": 262
   }, {
     "Diff": "Expert",
     "Scores": 954,
-    "Stars": 2.46
+    "Stars": 2.46,
+    "NoteCount": 407
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1295,
-    "Stars": 3.8
+    "Stars": 3.8,
+    "NoteCount": 561
   }],
   "Bpm": 174,
   "PlayedCount": 2862
@@ -267,15 +296,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 690,
-    "Stars": 2.86
+    "Stars": 2.86,
+    "NoteCount": 465
   }, {
     "Diff": "Hard",
     "Scores": 417,
-    "Stars": 2.01
+    "Stars": 2.01,
+    "NoteCount": 435
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1046,
-    "Stars": 3.8
+    "Stars": 3.8,
+    "NoteCount": 571
   }],
   "Bpm": 154,
   "PlayedCount": 2153
@@ -288,19 +320,23 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 156,
-    "Stars": 1.68
+    "Stars": 1.68,
+    "NoteCount": 588
   }, {
     "Diff": "Normal",
     "Scores": 70,
-    "Stars": 1.16
+    "Stars": 1.16,
+    "NoteCount": 442
   }, {
     "Diff": "Expert",
     "Scores": 496,
-    "Stars": 2.22
+    "Stars": 2.22,
+    "NoteCount": 788
   }, {
     "Diff": "Easy",
     "Scores": 26,
-    "Stars": 0.9
+    "Stars": 0.9,
+    "NoteCount": 313
   }],
   "Bpm": 174,
   "PlayedCount": 748
@@ -313,7 +349,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 31120,
-    "Stars": 1.57
+    "Stars": 1.57,
+    "NoteCount": 247
   }],
   "Bpm": 128,
   "PlayedCount": 31120
@@ -326,11 +363,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 533,
-    "Stars": 2.2
+    "Stars": 2.2,
+    "NoteCount": 560
   }, {
     "Diff": "ExpertPlus",
     "Scores": 663,
-    "Stars": 3.59
+    "Stars": 3.59,
+    "NoteCount": 886
   }],
   "Bpm": 164,
   "PlayedCount": 1196
@@ -343,15 +382,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1019,
-    "Stars": 2.93
+    "Stars": 2.93,
+    "NoteCount": 523
   }, {
     "Diff": "Hard",
     "Scores": 708,
-    "Stars": 1.77
+    "Stars": 1.77,
+    "NoteCount": 363
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1761,
-    "Stars": 3.89
+    "Stars": 3.89,
+    "NoteCount": 609
   }],
   "Bpm": 181,
   "PlayedCount": 3488
@@ -364,7 +406,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 487,
-    "Stars": 5.45
+    "Stars": 5.45,
+    "NoteCount": 1504
   }],
   "Bpm": 136,
   "PlayedCount": 487
@@ -377,23 +420,28 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 82,
-    "Stars": 0.94
+    "Stars": 0.94,
+    "NoteCount": 332
   }, {
     "Diff": "Normal",
     "Scores": 208,
-    "Stars": 1.25
+    "Stars": 1.25,
+    "NoteCount": 471
   }, {
     "Diff": "Hard",
     "Scores": 596,
-    "Stars": 1.78
+    "Stars": 1.78,
+    "NoteCount": 679
   }, {
     "Diff": "Expert",
     "Scores": 1077,
-    "Stars": 2.61
+    "Stars": 2.61,
+    "NoteCount": 954
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1525,
-    "Stars": 2.94
+    "Stars": 2.94,
+    "NoteCount": 1086
   }],
   "Bpm": 150,
   "PlayedCount": 3488
@@ -406,7 +454,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1227,
-    "Stars": 4.42
+    "Stars": 4.42,
+    "NoteCount": 1158
   }],
   "Bpm": 96,
   "PlayedCount": 1227
@@ -419,15 +468,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 606,
-    "Stars": 2.14
+    "Stars": 2.14,
+    "NoteCount": 521
   }, {
     "Diff": "Expert",
     "Scores": 936,
-    "Stars": 2.63
+    "Stars": 2.63,
+    "NoteCount": 573
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1377,
-    "Stars": 3.67
+    "Stars": 3.67,
+    "NoteCount": 692
   }],
   "Bpm": 172,
   "PlayedCount": 2919
@@ -440,7 +492,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 47,
-    "Stars": 3.13
+    "Stars": 3.13,
+    "NoteCount": 1143
   }],
   "Bpm": 130,
   "PlayedCount": 47
@@ -453,19 +506,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 135,
-    "Stars": 1.32
+    "Stars": 1.32,
+    "NoteCount": 322
   }, {
     "Diff": "Hard",
     "Scores": 304,
-    "Stars": 2.49
+    "Stars": 2.49,
+    "NoteCount": 452
   }, {
     "Diff": "Expert",
     "Scores": 600,
-    "Stars": 3.07
+    "Stars": 3.07,
+    "NoteCount": 610
   }, {
     "Diff": "ExpertPlus",
     "Scores": 965,
-    "Stars": 4.54
+    "Stars": 4.54,
+    "NoteCount": 702
   }],
   "Bpm": 132,
   "PlayedCount": 2004
@@ -478,7 +535,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 491,
-    "Stars": 10.08
+    "Stars": 10.08,
+    "NoteCount": 1944
   }],
   "Bpm": 254.9199981689453,
   "PlayedCount": 491
@@ -491,19 +549,23 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 620,
-    "Stars": 1.24
+    "Stars": 1.24,
+    "NoteCount": 297
   }, {
     "Diff": "Normal",
     "Scores": 1401,
-    "Stars": 1.39
+    "Stars": 1.39,
+    "NoteCount": 343
   }, {
     "Diff": "Expert",
     "Scores": 3652,
-    "Stars": 2.84
+    "Stars": 2.84,
+    "NoteCount": 695
   }, {
     "Diff": "Hard",
     "Scores": 2153,
-    "Stars": 2.21
+    "Stars": 2.21,
+    "NoteCount": 524
   }],
   "Bpm": 128,
   "PlayedCount": 7826
@@ -516,15 +578,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 407,
-    "Stars": 2.22
+    "Stars": 2.22,
+    "NoteCount": 975
   }, {
     "Diff": "Expert",
     "Scores": 342,
-    "Stars": 4.13
+    "Stars": 4.13,
+    "NoteCount": 1724
   }, {
     "Diff": "ExpertPlus",
     "Scores": 467,
-    "Stars": 4.59
+    "Stars": 4.59,
+    "NoteCount": 1600
   }],
   "Bpm": 165,
   "PlayedCount": 1216
@@ -537,7 +602,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 184,
-    "Stars": 2.25
+    "Stars": 2.25,
+    "NoteCount": 840
   }],
   "Bpm": 92,
   "PlayedCount": 184
@@ -550,19 +616,23 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 239,
-    "Stars": 1.06
+    "Stars": 1.06,
+    "NoteCount": 247
   }, {
     "Diff": "Normal",
     "Scores": 743,
-    "Stars": 1.39
+    "Stars": 1.39,
+    "NoteCount": 332
   }, {
     "Diff": "Hard",
     "Scores": 1303,
-    "Stars": 2.03
+    "Stars": 2.03,
+    "NoteCount": 518
   }, {
     "Diff": "Expert",
     "Scores": 2141,
-    "Stars": 2.66
+    "Stars": 2.66,
+    "NoteCount": 701
   }],
   "Bpm": 152,
   "PlayedCount": 4426
@@ -575,7 +645,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 635,
-    "Stars": 2.63
+    "Stars": 2.63,
+    "NoteCount": 865
   }],
   "Bpm": 123,
   "PlayedCount": 635
@@ -588,7 +659,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 263,
-    "Stars": 5.08
+    "Stars": 5.08,
+    "NoteCount": 558
   }],
   "Bpm": 132,
   "PlayedCount": 263
@@ -601,23 +673,28 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 457,
-    "Stars": 1.09
+    "Stars": 1.09,
+    "NoteCount": 387
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1457,
-    "Stars": 3.74
+    "Stars": 3.74,
+    "NoteCount": 1207
   }, {
     "Diff": "Hard",
     "Scores": 1921,
-    "Stars": 1.71
+    "Stars": 1.71,
+    "NoteCount": 617
   }, {
     "Diff": "Normal",
     "Scores": 1096,
-    "Stars": 1.46
+    "Stars": 1.46,
+    "NoteCount": 503
   }, {
     "Diff": "Expert",
     "Scores": 1694,
-    "Stars": 2.98
+    "Stars": 2.98,
+    "NoteCount": 1006
   }],
   "Bpm": 87,
   "PlayedCount": 6625
@@ -630,7 +707,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 276,
-    "Stars": 4.64
+    "Stars": 4.64,
+    "NoteCount": 1232
   }],
   "Bpm": 145,
   "PlayedCount": 276
@@ -643,7 +721,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1289,
-    "Stars": 3.62
+    "Stars": 3.62,
+    "NoteCount": 1252
   }],
   "Bpm": 155,
   "PlayedCount": 1289
@@ -656,7 +735,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1763,
-    "Stars": 2.05
+    "Stars": 2.05,
+    "NoteCount": 689
   }],
   "Bpm": 138,
   "PlayedCount": 1763
@@ -669,15 +749,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 854,
-    "Stars": 2.29
+    "Stars": 2.29,
+    "NoteCount": 367
   }, {
     "Diff": "Hard",
     "Scores": 422,
-    "Stars": 1.84
+    "Stars": 1.84,
+    "NoteCount": 323
   }, {
     "Diff": "ExpertPlus",
     "Scores": 777,
-    "Stars": 3.46
+    "Stars": 3.46,
+    "NoteCount": 529
   }],
   "Bpm": 185,
   "PlayedCount": 2053
@@ -690,19 +773,23 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 798,
-    "Stars": 1.7
+    "Stars": 1.7,
+    "NoteCount": 541
   }, {
     "Diff": "Expert",
     "Scores": 1110,
-    "Stars": 2.71
+    "Stars": 2.71,
+    "NoteCount": 793
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1249,
-    "Stars": 3.63
+    "Stars": 3.63,
+    "NoteCount": 783
   }, {
     "Diff": "Normal",
     "Scores": 544,
-    "Stars": 1.49
+    "Stars": 1.49,
+    "NoteCount": 386
   }],
   "Bpm": 128,
   "PlayedCount": 3701
@@ -715,11 +802,13 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 469,
-    "Stars": 4.91
+    "Stars": 4.91,
+    "NoteCount": 650
   }, {
     "Diff": "Hard",
     "Scores": 1208,
-    "Stars": 2.05
+    "Stars": 2.05,
+    "NoteCount": 390
   }],
   "Bpm": 178,
   "PlayedCount": 1677
@@ -732,7 +821,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 518,
-    "Stars": 3.58
+    "Stars": 3.58,
+    "NoteCount": 1153
   }],
   "Bpm": 224,
   "PlayedCount": 518
@@ -745,7 +835,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1287,
-    "Stars": 1.51
+    "Stars": 1.51,
+    "NoteCount": 240
   }],
   "Bpm": 180,
   "PlayedCount": 1287
@@ -758,15 +849,18 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 732,
-    "Stars": 4.1
+    "Stars": 4.1,
+    "NoteCount": 1205
   }, {
     "Diff": "Expert",
     "Scores": 298,
-    "Stars": 2.85
+    "Stars": 2.85,
+    "NoteCount": 932
   }, {
     "Diff": "Hard",
     "Scores": 124,
-    "Stars": 2.21
+    "Stars": 2.21,
+    "NoteCount": 790
   }],
   "Bpm": 182,
   "PlayedCount": 1154
@@ -779,7 +873,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 697,
-    "Stars": 8.58
+    "Stars": 8.58,
+    "NoteCount": 844
   }],
   "Bpm": 260,
   "PlayedCount": 697
@@ -792,11 +887,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 351,
-    "Stars": 3.39
+    "Stars": 3.39,
+    "NoteCount": 901
   }, {
     "Diff": "ExpertPlus",
     "Scores": 649,
-    "Stars": 4.16
+    "Stars": 4.16,
+    "NoteCount": 1062
   }],
   "Bpm": 164,
   "PlayedCount": 1000
@@ -809,7 +906,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 395,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 900
   }],
   "Bpm": 134,
   "PlayedCount": 395
@@ -822,7 +920,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 319,
-    "Stars": 1.84
+    "Stars": 1.84,
+    "NoteCount": 636
   }],
   "Bpm": 87,
   "PlayedCount": 319
@@ -835,7 +934,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 3,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 542
   }],
   "Bpm": 143,
   "PlayedCount": 3
@@ -848,15 +948,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 298,
-    "Stars": 1.76
+    "Stars": 1.76,
+    "NoteCount": 268
   }, {
     "Diff": "ExpertPlus",
     "Scores": 981,
-    "Stars": 3.25
+    "Stars": 3.25,
+    "NoteCount": 514
   }, {
     "Diff": "Expert",
     "Scores": 529,
-    "Stars": 2.43
+    "Stars": 2.43,
+    "NoteCount": 393
   }],
   "Bpm": 185,
   "PlayedCount": 1808
@@ -869,19 +972,23 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 132,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1054
   }, {
     "Diff": "Normal",
     "Scores": 121,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 494
   }, {
     "Diff": "Expert",
     "Scores": 205,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1257
   }, {
     "Diff": "ExpertPlus",
     "Scores": 175,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1295
   }],
   "Bpm": 152,
   "PlayedCount": 633
@@ -894,7 +1001,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 186,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1117
   }],
   "Bpm": 185,
   "PlayedCount": 186
@@ -907,23 +1015,28 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 83,
-    "Stars": 2.14
+    "Stars": 2.14,
+    "NoteCount": 708
   }, {
     "Diff": "Easy",
     "Scores": 37,
-    "Stars": 1.66
+    "Stars": 1.66,
+    "NoteCount": 396
   }, {
     "Diff": "Expert",
     "Scores": 298,
-    "Stars": 3.15
+    "Stars": 3.15,
+    "NoteCount": 1036
   }, {
     "Diff": "Hard",
     "Scores": 125,
-    "Stars": 2.53
+    "Stars": 2.53,
+    "NoteCount": 839
   }, {
     "Diff": "ExpertPlus",
     "Scores": 432,
-    "Stars": 3.62
+    "Stars": 3.62,
+    "NoteCount": 1140
   }],
   "Bpm": 180,
   "PlayedCount": 975
@@ -936,7 +1049,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 987,
-    "Stars": 4.18
+    "Stars": 4.18,
+    "NoteCount": 502
   }],
   "Bpm": 140,
   "PlayedCount": 987
@@ -958,7 +1072,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 10,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 916
   }],
   "Bpm": 87,
   "PlayedCount": 10
@@ -971,7 +1086,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1033,
-    "Stars": 3.23
+    "Stars": 3.23,
+    "NoteCount": 1013
   }],
   "Bpm": 135,
   "PlayedCount": 1033
@@ -984,15 +1100,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 26324,
-    "Stars": 2.05
+    "Stars": 2.05,
+    "NoteCount": 747
   }, {
     "Diff": "Expert",
     "Scores": 42435,
-    "Stars": 3.2
+    "Stars": 3.2,
+    "NoteCount": 1049
   }, {
     "Diff": "Normal",
     "Scores": 20528,
-    "Stars": 1.23
+    "Stars": 1.23,
+    "NoteCount": 474
   }],
   "Bpm": 167,
   "PlayedCount": 89287
@@ -1005,15 +1124,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1696,
-    "Stars": 2.73
+    "Stars": 2.73,
+    "NoteCount": 444
   }, {
     "Diff": "Hard",
     "Scores": 1452,
-    "Stars": 3.61
+    "Stars": 3.61,
+    "NoteCount": 408
   }, {
     "Diff": "Normal",
     "Scores": 1490,
-    "Stars": 1.55
+    "Stars": 1.55,
+    "NoteCount": 239
   }],
   "Bpm": 170,
   "PlayedCount": 4638
@@ -1026,7 +1148,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 118,
-    "Stars": 2.96
+    "Stars": 2.96,
+    "NoteCount": 490
   }],
   "Bpm": 133,
   "PlayedCount": 118
@@ -1039,19 +1162,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 70,
-    "Stars": 1.27
+    "Stars": 1.27,
+    "NoteCount": 646
   }, {
     "Diff": "Hard",
     "Scores": 160,
-    "Stars": 1.88
+    "Stars": 1.88,
+    "NoteCount": 958
   }, {
     "Diff": "Expert",
     "Scores": 342,
-    "Stars": 2.73
+    "Stars": 2.73,
+    "NoteCount": 1235
   }, {
     "Diff": "ExpertPlus",
     "Scores": 504,
-    "Stars": 4.78
+    "Stars": 4.78,
+    "NoteCount": 1703
   }],
   "Bpm": 175,
   "PlayedCount": 1076
@@ -1064,15 +1191,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 174,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 225
   }, {
     "Diff": "Expert",
     "Scores": 330,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 385
   }, {
     "Diff": "ExpertPlus",
     "Scores": 255,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 630
   }],
   "Bpm": 178,
   "PlayedCount": 759
@@ -1085,7 +1215,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 64,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1050
   }],
   "Bpm": 105,
   "PlayedCount": 64
@@ -1098,7 +1229,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 188,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1024
   }],
   "Bpm": 150,
   "PlayedCount": 188
@@ -1111,23 +1243,28 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 21,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 381
   }, {
     "Diff": "Expert",
     "Scores": 70,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1989
   }, {
     "Diff": "Normal",
     "Scores": 63,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 652
   }, {
     "Diff": "Hard",
     "Scores": 122,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1182
   }, {
     "Diff": "ExpertPlus",
     "Scores": 146,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 2194
   }],
   "Bpm": 184,
   "PlayedCount": 422
@@ -1140,19 +1277,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 53,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 454
   }, {
     "Diff": "Hard",
     "Scores": 119,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 635
   }, {
     "Diff": "Expert",
     "Scores": 161,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 831
   }, {
     "Diff": "ExpertPlus",
     "Scores": 129,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1056
   }],
   "Bpm": 178,
   "PlayedCount": 462
@@ -1165,15 +1306,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 87,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 563
   }, {
     "Diff": "Expert",
     "Scores": 183,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 854
   }, {
     "Diff": "ExpertPlus",
     "Scores": 185,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1064
   }],
   "Bpm": 160,
   "PlayedCount": 455
@@ -1186,7 +1330,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 176,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1254
   }],
   "Bpm": 150,
   "PlayedCount": 176
@@ -1199,11 +1344,13 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 133,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 749
   }, {
     "Diff": "Expert",
     "Scores": 457,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1245
   }],
   "Bpm": 153,
   "PlayedCount": 590
@@ -1216,7 +1363,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 587,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 219
   }],
   "Bpm": 114.72000122070312,
   "PlayedCount": 587
@@ -1229,7 +1377,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 690,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 3858
   }],
   "Bpm": 120,
   "PlayedCount": 690
@@ -1242,7 +1391,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 240,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 703
   }],
   "Bpm": 174,
   "PlayedCount": 240
@@ -1255,19 +1405,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 97,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 175
   }, {
     "Diff": "Hard",
     "Scores": 185,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 274
   }, {
     "Diff": "Expert",
     "Scores": 268,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 376
   }, {
     "Diff": "ExpertPlus",
     "Scores": 375,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 482
   }],
   "Bpm": 168,
   "PlayedCount": 925
@@ -1280,7 +1434,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 156,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 908
   }],
   "Bpm": 140,
   "PlayedCount": 156
@@ -1293,23 +1448,28 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 25,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 167
   }, {
     "Diff": "Normal",
     "Scores": 70,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 236
   }, {
     "Diff": "Hard",
     "Scores": 206,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 320
   }, {
     "Diff": "ExpertPlus",
     "Scores": 679,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 546
   }, {
     "Diff": "Expert",
     "Scores": 371,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 414
   }],
   "Bpm": 180,
   "PlayedCount": 1351
@@ -1322,7 +1482,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 3413,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 774
   }],
   "Bpm": 165,
   "PlayedCount": 3413
@@ -1335,7 +1496,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1057,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1082
   }],
   "Bpm": 129,
   "PlayedCount": 1057
@@ -1348,7 +1510,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 419,
-    "Stars": 2.58
+    "Stars": 2.58,
+    "NoteCount": 372
   }],
   "Bpm": 136,
   "PlayedCount": 419
@@ -1361,7 +1524,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 680,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 443
   }],
   "Bpm": 154,
   "PlayedCount": 680
@@ -1374,23 +1538,28 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 32,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 150
   }, {
     "Diff": "Normal",
     "Scores": 94,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 262
   }, {
     "Diff": "Hard",
     "Scores": 92,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 460
   }, {
     "Diff": "ExpertPlus",
     "Scores": 547,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 659
   }, {
     "Diff": "Expert",
     "Scores": 530,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 460
   }],
   "Bpm": 180,
   "PlayedCount": 1295
@@ -1403,23 +1572,28 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 32,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 199
   }, {
     "Diff": "Hard",
     "Scores": 243,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 337
   }, {
     "Diff": "Normal",
     "Scores": 102,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 222
   }, {
     "Diff": "Expert",
     "Scores": 449,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 450
   }, {
     "Diff": "ExpertPlus",
     "Scores": 647,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 605
   }],
   "Bpm": 132,
   "PlayedCount": 1473
@@ -1432,7 +1606,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 158,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 480
   }],
   "Bpm": 128,
   "PlayedCount": 158
@@ -1454,11 +1629,13 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 216,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1107
   }, {
     "Diff": "Expert",
     "Scores": 92,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1029
   }],
   "Bpm": 178,
   "PlayedCount": 308
@@ -1471,7 +1648,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 109,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1428
   }],
   "Bpm": 178,
   "PlayedCount": 109
@@ -1484,7 +1662,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 92,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1077
   }],
   "Bpm": 194,
   "PlayedCount": 92
@@ -1497,23 +1676,28 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 2,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 394
   }, {
     "Diff": "Hard",
     "Scores": 30,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 954
   }, {
     "Diff": "ExpertPlus",
     "Scores": 31,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1709
   }, {
     "Diff": "Normal",
     "Scores": 13,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 546
   }, {
     "Diff": "Expert",
     "Scores": 75,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1188
   }],
   "Bpm": 195,
   "PlayedCount": 151
@@ -1526,15 +1710,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 1887,
-    "Stars": 1.37
+    "Stars": 1.37,
+    "NoteCount": 200
   }, {
     "Diff": "Hard",
     "Scores": 3122,
-    "Stars": 1.72
+    "Stars": 1.72,
+    "NoteCount": 312
   }, {
     "Diff": "Expert",
     "Scores": 5247,
-    "Stars": 2.19
+    "Stars": 2.19,
+    "NoteCount": 378
   }],
   "Bpm": 130,
   "PlayedCount": 10256
@@ -1547,15 +1734,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 4429,
-    "Stars": 1.74
+    "Stars": 1.74,
+    "NoteCount": 571
   }, {
     "Diff": "Expert",
     "Scores": 10405,
-    "Stars": 2.16
+    "Stars": 2.16,
+    "NoteCount": 704
   }, {
     "Diff": "Hard",
     "Scores": 4210,
-    "Stars": 2.09
+    "Stars": 2.09,
+    "NoteCount": 669
   }],
   "Bpm": 85,
   "PlayedCount": 19044
@@ -1568,7 +1758,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 303,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 844
   }],
   "Bpm": 80,
   "PlayedCount": 303
@@ -1581,19 +1772,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1347,
-    "Stars": 2.81
+    "Stars": 2.81,
+    "NoteCount": 1494
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1926,
-    "Stars": 4.02
+    "Stars": 4.02,
+    "NoteCount": 1780
   }, {
     "Diff": "Hard",
     "Scores": 880,
-    "Stars": 1.86
+    "Stars": 1.86,
+    "NoteCount": 1039
   }, {
     "Diff": "Normal",
     "Scores": 966,
-    "Stars": 1.09
+    "Stars": 1.09,
+    "NoteCount": 667
   }],
   "Bpm": 284,
   "PlayedCount": 5119
@@ -1606,7 +1801,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 77,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1018
   }],
   "Bpm": 154,
   "PlayedCount": 77
@@ -1619,7 +1815,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 358,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 728
   }],
   "Bpm": 130,
   "PlayedCount": 358
@@ -1632,7 +1829,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 97,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1530
   }],
   "Bpm": 125,
   "PlayedCount": 97
@@ -1645,19 +1843,23 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 32,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 734
   }, {
     "Diff": "Normal",
     "Scores": 13,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 514
   }, {
     "Diff": "ExpertPlus",
     "Scores": 154,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1120
   }, {
     "Diff": "Expert",
     "Scores": 69,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1013
   }],
   "Bpm": 160,
   "PlayedCount": 268
@@ -1670,15 +1872,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 23817,
-    "Stars": 1.43
+    "Stars": 1.43,
+    "NoteCount": 291
   }, {
     "Diff": "Hard",
     "Scores": 32003,
-    "Stars": 1.66
+    "Stars": 1.66,
+    "NoteCount": 367
   }, {
     "Diff": "Expert",
     "Scores": 53828,
-    "Stars": 1.89
+    "Stars": 1.89,
+    "NoteCount": 409
   }],
   "Bpm": 126,
   "PlayedCount": 109648
@@ -1691,7 +1896,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 329,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1264
   }],
   "Bpm": 143,
   "PlayedCount": 329
@@ -1704,19 +1910,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 75,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 291
   }, {
     "Diff": "Hard",
     "Scores": 171,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 459
   }, {
     "Diff": "Expert",
     "Scores": 296,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 691
   }, {
     "Diff": "ExpertPlus",
     "Scores": 308,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 815
   }],
   "Bpm": 132,
   "PlayedCount": 850
@@ -1729,11 +1939,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 47,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 2066
   }, {
     "Diff": "ExpertPlus",
     "Scores": 128,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 2066
   }],
   "Bpm": 148,
   "PlayedCount": 175
@@ -1755,19 +1967,23 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 4,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 419
   }, {
     "Diff": "Normal",
     "Scores": 16,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 524
   }, {
     "Diff": "Hard",
     "Scores": 32,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 767
   }, {
     "Diff": "Expert",
     "Scores": 177,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1115
   }],
   "Bpm": 200,
   "PlayedCount": 229
@@ -1780,19 +1996,23 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 9441,
-    "Stars": 1.63
+    "Stars": 1.63,
+    "NoteCount": 618
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1049
   }, {
     "Diff": "Hard",
     "Scores": 12158,
-    "Stars": 2.13
+    "Stars": 2.13,
+    "NoteCount": 875
   }, {
     "Diff": "Expert",
     "Scores": 13094,
-    "Stars": 2.64
+    "Stars": 2.64,
+    "NoteCount": 1009
   }],
   "Bpm": 148,
   "PlayedCount": 34694
@@ -1805,7 +2025,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1433,
-    "Stars": 2.13
+    "Stars": 2.13,
+    "NoteCount": 760
   }],
   "Bpm": 128,
   "PlayedCount": 1433
@@ -1818,7 +2039,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 6227,
-    "Stars": 2.27
+    "Stars": 2.27,
+    "NoteCount": 861
   }],
   "Bpm": 188,
   "PlayedCount": 6227
@@ -1831,19 +2053,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 202,
-    "Stars": 1.07
+    "Stars": 1.07,
+    "NoteCount": 165
   }, {
     "Diff": "Easy",
     "Scores": 151,
-    "Stars": 0.72
+    "Stars": 0.72,
+    "NoteCount": 101
   }, {
     "Diff": "Hard",
     "Scores": 887,
-    "Stars": 1.5
+    "Stars": 1.5,
+    "NoteCount": 212
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1154,
-    "Stars": 2.81
+    "Stars": 2.81,
+    "NoteCount": 424
   }],
   "Bpm": 170,
   "PlayedCount": 2394
@@ -1856,7 +2082,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 336
   }],
   "Bpm": 179,
   "PlayedCount": 1
@@ -1878,7 +2105,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 263,
-    "Stars": 2.53
+    "Stars": 2.53,
+    "NoteCount": 1328
   }],
   "Bpm": 174,
   "PlayedCount": 263
@@ -1891,15 +2119,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 36920,
-    "Stars": 3.06
+    "Stars": 3.06,
+    "NoteCount": 835
   }, {
     "Diff": "Hard",
     "Scores": 23546,
-    "Stars": 1.67
+    "Stars": 1.67,
+    "NoteCount": 553
   }, {
     "Diff": "Normal",
     "Scores": 22517,
-    "Stars": 0.91
+    "Stars": 0.91,
+    "NoteCount": 344
   }],
   "Bpm": 186,
   "PlayedCount": 82983
@@ -1912,11 +2143,13 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 20425,
-    "Stars": 1.63
+    "Stars": 1.63,
+    "NoteCount": 618
   }, {
     "Diff": "Expert",
     "Scores": 25576,
-    "Stars": 0.09
+    "Stars": 0.09,
+    "NoteCount": 616
   }],
   "Bpm": 100,
   "PlayedCount": 46001
@@ -1929,7 +2162,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 28401,
-    "Stars": 2.52
+    "Stars": 2.52,
+    "NoteCount": 429
   }],
   "Bpm": 120,
   "PlayedCount": 28401
@@ -1942,7 +2176,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 2564,
-    "Stars": 2.23
+    "Stars": 2.23,
+    "NoteCount": 348
   }],
   "Bpm": 99,
   "PlayedCount": 2564
@@ -1955,7 +2190,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 3487,
-    "Stars": 2.67
+    "Stars": 2.67,
+    "NoteCount": 700
   }],
   "Bpm": 159.9499969482422,
   "PlayedCount": 3487
@@ -1968,7 +2204,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 22568,
-    "Stars": 2.34
+    "Stars": 2.34,
+    "NoteCount": 698
   }],
   "Bpm": 127,
   "PlayedCount": 22568
@@ -1981,7 +2218,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 10285,
-    "Stars": 1.7
+    "Stars": 1.7,
+    "NoteCount": 545
   }],
   "Bpm": 120,
   "PlayedCount": 10285
@@ -1994,7 +2232,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2267,
-    "Stars": 2.25
+    "Stars": 2.25,
+    "NoteCount": 846
   }],
   "Bpm": 95,
   "PlayedCount": 2267
@@ -2007,7 +2246,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 3587,
-    "Stars": 2.06
+    "Stars": 2.06,
+    "NoteCount": 352
   }],
   "Bpm": 161,
   "PlayedCount": 3587
@@ -2020,7 +2260,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 289,
-    "Stars": 1.65
+    "Stars": 1.65,
+    "NoteCount": 488
   }],
   "Bpm": 280,
   "PlayedCount": 289
@@ -2033,15 +2274,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 19135,
-    "Stars": 2.59
+    "Stars": 2.59,
+    "NoteCount": 899
   }, {
     "Diff": "Normal",
     "Scores": 19675,
-    "Stars": 0.93
+    "Stars": 0.93,
+    "NoteCount": 367
   }, {
     "Diff": "Hard",
     "Scores": 17082,
-    "Stars": 1.86
+    "Stars": 1.86,
+    "NoteCount": 653
   }],
   "Bpm": 110.03500366210938,
   "PlayedCount": 55892
@@ -2054,7 +2298,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 2847,
-    "Stars": 2.88
+    "Stars": 2.88,
+    "NoteCount": 757
   }],
   "Bpm": 126,
   "PlayedCount": 2847
@@ -2067,7 +2312,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 2417,
-    "Stars": 1.65
+    "Stars": 1.65,
+    "NoteCount": 273
   }],
   "Bpm": 172,
   "PlayedCount": 2417
@@ -2080,15 +2326,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 3905,
-    "Stars": 2.74
+    "Stars": 2.74,
+    "NoteCount": 1179
   }, {
     "Diff": "Hard",
     "Scores": 1952,
-    "Stars": 1.82
+    "Stars": 1.82,
+    "NoteCount": 862
   }, {
     "Diff": "Normal",
     "Scores": 1780,
-    "Stars": 0.93
+    "Stars": 0.93,
+    "NoteCount": 495
   }],
   "Bpm": 105,
   "PlayedCount": 7637
@@ -2101,7 +2350,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 4690,
-    "Stars": 7.72
+    "Stars": 7.72,
+    "NoteCount": 2444
   }],
   "Bpm": 222.22,
   "PlayedCount": 4690
@@ -2114,7 +2364,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 138556,
-    "Stars": 1.44
+    "Stars": 1.44,
+    "NoteCount": 546
   }],
   "Bpm": 125,
   "PlayedCount": 138556
@@ -2140,11 +2391,13 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 375,
-    "Stars": 1.79
+    "Stars": 1.79,
+    "NoteCount": 349
   }, {
     "Diff": "Expert",
     "Scores": 1122,
-    "Stars": 1.9
+    "Stars": 1.9,
+    "NoteCount": 357
   }],
   "Bpm": 101,
   "PlayedCount": 1497
@@ -2157,7 +2410,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 640,
-    "Stars": 4.01
+    "Stars": 4.01,
+    "NoteCount": 1037
   }],
   "Bpm": 200,
   "PlayedCount": 640
@@ -2170,11 +2424,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 542,
-    "Stars": 2.67
+    "Stars": 2.67,
+    "NoteCount": 942
   }, {
     "Diff": "ExpertPlus",
     "Scores": 696,
-    "Stars": 2.69
+    "Stars": 2.69,
+    "NoteCount": 961
   }],
   "Bpm": 106,
   "PlayedCount": 1238
@@ -2187,7 +2443,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 625,
-    "Stars": 2.87
+    "Stars": 2.87,
+    "NoteCount": 851
   }],
   "Bpm": 117,
   "PlayedCount": 625
@@ -2200,19 +2457,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 7373,
-    "Stars": 3.02
+    "Stars": 3.02,
+    "NoteCount": 873
   }, {
     "Diff": "Normal",
     "Scores": 2271,
-    "Stars": 1.88
+    "Stars": 1.88,
+    "NoteCount": 629
   }, {
     "Diff": "Hard",
     "Scores": 2998,
-    "Stars": 2.89
+    "Stars": 2.89,
+    "NoteCount": 853
   }, {
     "Diff": "Easy",
     "Scores": 764,
-    "Stars": 1.35
+    "Stars": 1.35,
+    "NoteCount": 440
   }],
   "Bpm": 240,
   "PlayedCount": 13406
@@ -2225,7 +2486,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1789,
-    "Stars": 2.67
+    "Stars": 2.67,
+    "NoteCount": 926
   }],
   "Bpm": 210,
   "PlayedCount": 1789
@@ -2238,7 +2500,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 483,
-    "Stars": 2.58
+    "Stars": 2.58,
+    "NoteCount": 802
   }],
   "Bpm": 190,
   "PlayedCount": 483
@@ -2251,7 +2514,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1416
   }],
   "Bpm": 138,
   "PlayedCount": 1
@@ -2264,7 +2528,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 18551,
-    "Stars": 1.41
+    "Stars": 1.41,
+    "NoteCount": 500
   }],
   "Bpm": 128,
   "PlayedCount": 18551
@@ -2277,11 +2542,13 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 473,
-    "Stars": 1.66
+    "Stars": 1.66,
+    "NoteCount": 530
   }, {
     "Diff": "Expert",
     "Scores": 942,
-    "Stars": 2.66
+    "Stars": 2.66,
+    "NoteCount": 637
   }],
   "Bpm": 143.6999969482422,
   "PlayedCount": 1415
@@ -2294,7 +2561,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 11882,
-    "Stars": 2.04
+    "Stars": 2.04,
+    "NoteCount": 493
   }],
   "Bpm": 180,
   "PlayedCount": 11882
@@ -2307,7 +2575,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 1121,
-    "Stars": 1.61
+    "Stars": 1.61,
+    "NoteCount": 300
   }],
   "Bpm": 130,
   "PlayedCount": 1121
@@ -2320,7 +2589,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 13636,
-    "Stars": 2.32
+    "Stars": 2.32,
+    "NoteCount": 763
   }],
   "Bpm": 123,
   "PlayedCount": 13636
@@ -2333,7 +2603,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1541,
-    "Stars": 2.67
+    "Stars": 2.67,
+    "NoteCount": 987
   }],
   "Bpm": 95,
   "PlayedCount": 1541
@@ -2346,7 +2617,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 3816,
-    "Stars": 7.36
+    "Stars": 7.36,
+    "NoteCount": 1597
   }],
   "Bpm": 182,
   "PlayedCount": 3816
@@ -2359,11 +2631,13 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 5552,
-    "Stars": 1.16
+    "Stars": 1.16,
+    "NoteCount": 453
   }, {
     "Diff": "Expert",
     "Scores": 6299,
-    "Stars": 2.05
+    "Stars": 2.05,
+    "NoteCount": 1509
   }],
   "Bpm": 118,
   "PlayedCount": 11851
@@ -2376,7 +2650,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 5249,
-    "Stars": 2.86
+    "Stars": 2.86,
+    "NoteCount": 815
   }],
   "Bpm": 200,
   "PlayedCount": 5249
@@ -2389,19 +2664,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 3653,
-    "Stars": 1.04
+    "Stars": 1.04,
+    "NoteCount": 321
   }, {
     "Diff": "ExpertPlus",
     "Scores": 9446,
-    "Stars": 2.92
+    "Stars": 2.92,
+    "NoteCount": 810
   }, {
     "Diff": "Expert",
     "Scores": 9275,
-    "Stars": 2.28
+    "Stars": 2.28,
+    "NoteCount": 680
   }, {
     "Diff": "Hard",
     "Scores": 6111,
-    "Stars": 1.31
+    "Stars": 1.31,
+    "NoteCount": 432
   }],
   "Bpm": 108.5,
   "PlayedCount": 28485
@@ -2414,15 +2693,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 747,
-    "Stars": 2.21
+    "Stars": 2.21,
+    "NoteCount": 263
   }, {
     "Diff": "Hard",
     "Scores": 1070,
-    "Stars": 2.86
+    "Stars": 2.86,
+    "NoteCount": 417
   }, {
     "Diff": "Expert",
     "Scores": 2048,
-    "Stars": 3.31
+    "Stars": 3.31,
+    "NoteCount": 481
   }],
   "Bpm": 200,
   "PlayedCount": 3865
@@ -2435,7 +2717,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1681,
-    "Stars": 2.72
+    "Stars": 2.72,
+    "NoteCount": 440
   }],
   "Bpm": 175,
   "PlayedCount": 1681
@@ -2448,15 +2731,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 191,
-    "Stars": 1.56
+    "Stars": 1.56,
+    "NoteCount": 611
   }, {
     "Diff": "Hard",
     "Scores": 281,
-    "Stars": 2.05
+    "Stars": 2.05,
+    "NoteCount": 851
   }, {
     "Diff": "Expert",
     "Scores": 623,
-    "Stars": 2.37
+    "Stars": 2.37,
+    "NoteCount": 1020
   }],
   "Bpm": 204,
   "PlayedCount": 1095
@@ -2469,7 +2755,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 783,
-    "Stars": 2.95
+    "Stars": 2.95,
+    "NoteCount": 692
   }],
   "Bpm": 180,
   "PlayedCount": 783
@@ -2482,7 +2769,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 999,
-    "Stars": 2.76
+    "Stars": 2.76,
+    "NoteCount": 476
   }],
   "Bpm": 178,
   "PlayedCount": 999
@@ -2495,11 +2783,13 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1640,
-    "Stars": 2.7
+    "Stars": 2.7,
+    "NoteCount": 849
   }, {
     "Diff": "Hard",
     "Scores": 999,
-    "Stars": 1.88
+    "Stars": 1.88,
+    "NoteCount": 620
   }],
   "Bpm": 128,
   "PlayedCount": 2639
@@ -2512,15 +2802,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 158,
-    "Stars": 1.12
+    "Stars": 1.12,
+    "NoteCount": 262
   }, {
     "Diff": "Hard",
     "Scores": 343,
-    "Stars": 1.63
+    "Stars": 1.63,
+    "NoteCount": 439
   }, {
     "Diff": "Expert",
     "Scores": 671,
-    "Stars": 3.18
+    "Stars": 3.18,
+    "NoteCount": 662
   }],
   "Bpm": 175,
   "PlayedCount": 1172
@@ -2533,7 +2826,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 3255,
-    "Stars": 5.46
+    "Stars": 5.46,
+    "NoteCount": 960
   }],
   "Bpm": 150,
   "PlayedCount": 3255
@@ -2546,7 +2840,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 2404
   }],
   "Bpm": 360,
   "PlayedCount": 1
@@ -2559,7 +2854,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1734,
-    "Stars": 5.85
+    "Stars": 5.85,
+    "NoteCount": 1170
   }],
   "Bpm": 180,
   "PlayedCount": 1734
@@ -2572,11 +2868,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 11267,
-    "Stars": 3.65
+    "Stars": 3.65,
+    "NoteCount": 1087
   }, {
     "Diff": "Hard",
     "Scores": 4122,
-    "Stars": 2.9
+    "Stars": 2.9,
+    "NoteCount": 969
   }],
   "Bpm": 160,
   "PlayedCount": 15389
@@ -2589,7 +2887,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 242,
-    "Stars": 3.32
+    "Stars": 3.32,
+    "NoteCount": 1681
   }],
   "Bpm": 150.08999633789062,
   "PlayedCount": 242
@@ -2602,11 +2901,13 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 521,
-    "Stars": 1.24
+    "Stars": 1.24,
+    "NoteCount": 137
   }, {
     "Diff": "Expert",
     "Scores": 1304,
-    "Stars": 1.81
+    "Stars": 1.81,
+    "NoteCount": 256
   }],
   "Bpm": 152,
   "PlayedCount": 1825
@@ -2619,7 +2920,8 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 192,
-    "Stars": 1.72
+    "Stars": 1.72,
+    "NoteCount": 275
   }],
   "Bpm": 60,
   "PlayedCount": 192
@@ -2632,7 +2934,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 484,
-    "Stars": 3.97
+    "Stars": 3.97,
+    "NoteCount": 1063
   }],
   "Bpm": 172,
   "PlayedCount": 484
@@ -2645,11 +2948,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 8102,
-    "Stars": 2.73
+    "Stars": 2.73,
+    "NoteCount": 401
   }, {
     "Diff": "Hard",
     "Scores": 5157,
-    "Stars": 2.51
+    "Stars": 2.51,
+    "NoteCount": 353
   }],
   "Bpm": 181,
   "PlayedCount": 13259
@@ -2662,11 +2967,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 8637,
-    "Stars": 2.69
+    "Stars": 2.69,
+    "NoteCount": 976
   }, {
     "Diff": "Hard",
     "Scores": 5971,
-    "Stars": 1.93
+    "Stars": 1.93,
+    "NoteCount": 636
   }],
   "Bpm": 132,
   "PlayedCount": 14608
@@ -2679,11 +2986,13 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 1811,
-    "Stars": 1.45
+    "Stars": 1.45,
+    "NoteCount": 496
   }, {
     "Diff": "Expert",
     "Scores": 3856,
-    "Stars": 2.41
+    "Stars": 2.41,
+    "NoteCount": 730
   }],
   "Bpm": 118,
   "PlayedCount": 0
@@ -2696,19 +3005,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 4474,
-    "Stars": 2.86
+    "Stars": 2.86,
+    "NoteCount": 515
   }, {
     "Diff": "Normal",
     "Scores": 2117,
-    "Stars": 1.55
+    "Stars": 1.55,
+    "NoteCount": 310
   }, {
     "Diff": "Easy",
     "Scores": 868,
-    "Stars": 1.13
+    "Stars": 1.13,
+    "NoteCount": 248
   }, {
     "Diff": "Hard",
     "Scores": 2975,
-    "Stars": 2.08
+    "Stars": 2.08,
+    "NoteCount": 412
   }],
   "Bpm": 138,
   "PlayedCount": 10434
@@ -2721,19 +3034,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1714,
-    "Stars": 2.91
+    "Stars": 2.91,
+    "NoteCount": 758
   }, {
     "Diff": "Normal",
     "Scores": 507,
-    "Stars": 0.79
+    "Stars": 0.79,
+    "NoteCount": 230
   }, {
     "Diff": "Hard",
     "Scores": 1176,
-    "Stars": 1.39
+    "Stars": 1.39,
+    "NoteCount": 419
   }, {
     "Diff": "ExpertPlus",
     "Scores": 2480,
-    "Stars": 6.38
+    "Stars": 6.38,
+    "NoteCount": 1226
   }],
   "Bpm": 318,
   "PlayedCount": 5877
@@ -2746,19 +3063,23 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 452,
-    "Stars": 1.21
+    "Stars": 1.21,
+    "NoteCount": 362
   }, {
     "Diff": "Expert",
     "Scores": 678,
-    "Stars": 2.93
+    "Stars": 2.93,
+    "NoteCount": 850
   }, {
     "Diff": "Hard",
     "Scores": 938,
-    "Stars": 1.73
+    "Stars": 1.73,
+    "NoteCount": 536
   }, {
     "Diff": "ExpertPlus",
     "Scores": 752,
-    "Stars": 3.1
+    "Stars": 3.1,
+    "NoteCount": 866
   }],
   "Bpm": 195,
   "PlayedCount": 2820
@@ -2771,15 +3092,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1265,
-    "Stars": 1.91
+    "Stars": 1.91,
+    "NoteCount": 645
   }, {
     "Diff": "Normal",
     "Scores": 319,
-    "Stars": 0.92
+    "Stars": 0.92,
+    "NoteCount": 210
   }, {
     "Diff": "Hard",
     "Scores": 657,
-    "Stars": 1.45
+    "Stars": 1.45,
+    "NoteCount": 525
   }],
   "Bpm": 102,
   "PlayedCount": 2241
@@ -2792,15 +3116,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 2009,
-    "Stars": 0.99
+    "Stars": 0.99,
+    "NoteCount": 264
   }, {
     "Diff": "Hard",
     "Scores": 2793,
-    "Stars": 1.96
+    "Stars": 1.96,
+    "NoteCount": 442
   }, {
     "Diff": "Expert",
     "Scores": 4493,
-    "Stars": 2.71
+    "Stars": 2.71,
+    "NoteCount": 609
   }],
   "Bpm": 98,
   "PlayedCount": 9295
@@ -2813,15 +3140,18 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 1711,
-    "Stars": 1.11
+    "Stars": 1.11,
+    "NoteCount": 477
   }, {
     "Diff": "Hard",
     "Scores": 2372,
-    "Stars": 2.2
+    "Stars": 2.2,
+    "NoteCount": 857
   }, {
     "Diff": "Expert",
     "Scores": 3357,
-    "Stars": 3.25
+    "Stars": 3.25,
+    "NoteCount": 1089
   }],
   "Bpm": 146.47999572753906,
   "PlayedCount": 7440
@@ -2834,15 +3164,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 3,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 459
   }, {
     "Diff": "Normal",
     "Scores": 2,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 357
   }, {
     "Diff": "Expert",
     "Scores": 7,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 536
   }],
   "Bpm": 128,
   "PlayedCount": 12
@@ -2855,7 +3188,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 248,
-    "Stars": 4.69
+    "Stars": 4.69,
+    "NoteCount": 609
   }],
   "Bpm": 274,
   "PlayedCount": 248
@@ -2868,11 +3202,13 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 1543,
-    "Stars": 2.39
+    "Stars": 2.39,
+    "NoteCount": 394
   }, {
     "Diff": "Expert",
     "Scores": 3957,
-    "Stars": 3.33
+    "Stars": 3.33,
+    "NoteCount": 481
   }],
   "Bpm": 165,
   "PlayedCount": 5500
@@ -2885,11 +3221,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 545,
-    "Stars": 3.51
+    "Stars": 3.51,
+    "NoteCount": 943
   }, {
     "Diff": "ExpertPlus",
     "Scores": 118,
-    "Stars": 4.69
+    "Stars": 4.69,
+    "NoteCount": 1142
   }],
   "Bpm": 210,
   "PlayedCount": 663
@@ -2902,15 +3240,18 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 3092,
-    "Stars": 6.72
+    "Stars": 6.72,
+    "NoteCount": 1277
   }, {
     "Diff": "Expert",
     "Scores": 2014,
-    "Stars": 4.11
+    "Stars": 4.11,
+    "NoteCount": 1129
   }, {
     "Diff": "Hard",
     "Scores": 1580,
-    "Stars": 2.35
+    "Stars": 2.35,
+    "NoteCount": 709
   }],
   "Bpm": 173,
   "PlayedCount": 6686
@@ -2923,15 +3264,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 514,
-    "Stars": 1.83
+    "Stars": 1.83,
+    "NoteCount": 275
   }, {
     "Diff": "Expert",
     "Scores": 395,
-    "Stars": 2.55
+    "Stars": 2.55,
+    "NoteCount": 333
   }, {
     "Diff": "ExpertPlus",
     "Scores": 3263,
-    "Stars": 4.54
+    "Stars": 4.54,
+    "NoteCount": 504
   }],
   "Bpm": 160,
   "PlayedCount": 4172
@@ -2944,11 +3288,13 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 26452,
-    "Stars": 1.68
+    "Stars": 1.68,
+    "NoteCount": 318
   }, {
     "Diff": "Expert",
     "Scores": 41954,
-    "Stars": 2.07
+    "Stars": 2.07,
+    "NoteCount": 402
   }],
   "Bpm": 120,
   "PlayedCount": 68406
@@ -2961,11 +3307,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 63,
-    "Stars": 5.02
+    "Stars": 5.02,
+    "NoteCount": 1124
   }, {
     "Diff": "ExpertPlus",
     "Scores": 102,
-    "Stars": 5.15
+    "Stars": 5.15,
+    "NoteCount": 1204
   }],
   "Bpm": 162,
   "PlayedCount": 165
@@ -2978,7 +3326,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 3521,
-    "Stars": 8.49
+    "Stars": 8.49,
+    "NoteCount": 3369
   }],
   "Bpm": 180,
   "PlayedCount": 3521
@@ -2991,7 +3340,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 950,
-    "Stars": 4.44
+    "Stars": 4.44,
+    "NoteCount": 1184
   }],
   "Bpm": 180,
   "PlayedCount": 950
@@ -3004,11 +3354,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1898,
-    "Stars": 3.15
+    "Stars": 3.15,
+    "NoteCount": 926
   }, {
     "Diff": "Hard",
     "Scores": 988,
-    "Stars": 1.93
+    "Stars": 1.93,
+    "NoteCount": 810
   }],
   "Bpm": 274,
   "PlayedCount": 0
@@ -3021,19 +3373,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 4198,
-    "Stars": 2.77
+    "Stars": 2.77,
+    "NoteCount": 1047
   }, {
     "Diff": "Easy",
     "Scores": 566,
-    "Stars": 2.3
+    "Stars": 2.3,
+    "NoteCount": 1022
   }, {
     "Diff": "Normal",
     "Scores": 1043,
-    "Stars": 2.43
+    "Stars": 2.43,
+    "NoteCount": 1024
   }, {
     "Diff": "Hard",
     "Scores": 1861,
-    "Stars": 2.66
+    "Stars": 2.66,
+    "NoteCount": 1039
   }],
   "Bpm": 86,
   "PlayedCount": 7668
@@ -3046,19 +3402,23 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2260,
-    "Stars": 7.36
+    "Stars": 7.36,
+    "NoteCount": 1926
   }, {
     "Diff": "Hard",
     "Scores": 1380,
-    "Stars": 3.15
+    "Stars": 3.15,
+    "NoteCount": 1083
   }, {
     "Diff": "Expert",
     "Scores": 2205,
-    "Stars": 4.5
+    "Stars": 4.5,
+    "NoteCount": 1494
   }, {
     "Diff": "Normal",
     "Scores": 737,
-    "Stars": 1.39
+    "Stars": 1.39,
+    "NoteCount": 591
   }],
   "Bpm": 198,
   "PlayedCount": 6582
@@ -3071,15 +3431,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 1999,
-    "Stars": 1.75
+    "Stars": 1.75,
+    "NoteCount": 515
   }, {
     "Diff": "Normal",
     "Scores": 1374,
-    "Stars": 1.34
+    "Stars": 1.34,
+    "NoteCount": 381
   }, {
     "Diff": "Expert",
     "Scores": 3102,
-    "Stars": 2.42
+    "Stars": 2.42,
+    "NoteCount": 722
   }],
   "Bpm": 128,
   "PlayedCount": 6475
@@ -3092,7 +3455,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2788,
-    "Stars": 3.79
+    "Stars": 3.79,
+    "NoteCount": 878
   }],
   "Bpm": 170,
   "PlayedCount": 2788
@@ -3105,19 +3469,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 67327,
-    "Stars": 2.73
+    "Stars": 2.73,
+    "NoteCount": 669
   }, {
     "Diff": "Hard",
     "Scores": 80228,
-    "Stars": 1.7
+    "Stars": 1.7,
+    "NoteCount": 428
   }, {
     "Diff": "Normal",
     "Scores": 62090,
-    "Stars": 0.64
+    "Stars": 0.64,
+    "NoteCount": 259
   }, {
     "Diff": "Easy",
     "Scores": 37893,
-    "Stars": 0.39
+    "Stars": 0.39,
+    "NoteCount": 188
   }],
   "Bpm": 139,
   "PlayedCount": 247538
@@ -3130,19 +3498,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 9185,
-    "Stars": 2.28
+    "Stars": 2.28,
+    "NoteCount": 687
   }, {
     "Diff": "Hard",
     "Scores": 3400,
-    "Stars": 1.82
+    "Stars": 1.82,
+    "NoteCount": 496
   }, {
     "Diff": "Normal",
     "Scores": 1540,
-    "Stars": 1.37
+    "Stars": 1.37,
+    "NoteCount": 362
   }, {
     "Diff": "Easy",
     "Scores": 924,
-    "Stars": 1.1
+    "Stars": 1.1,
+    "NoteCount": 264
   }],
   "Bpm": 128,
   "PlayedCount": 15049
@@ -3155,7 +3527,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 2254,
-    "Stars": 3.59
+    "Stars": 3.59,
+    "NoteCount": 945
   }],
   "Bpm": 128,
   "PlayedCount": 2254
@@ -3168,7 +3541,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1507,
-    "Stars": 2.96
+    "Stars": 2.96,
+    "NoteCount": 878
   }],
   "Bpm": 136,
   "PlayedCount": 1507
@@ -3181,11 +3555,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 134,
-    "Stars": 3.31
+    "Stars": 3.31,
+    "NoteCount": 1053
   }, {
     "Diff": "ExpertPlus",
     "Scores": 158,
-    "Stars": 3.79
+    "Stars": 3.79,
+    "NoteCount": 1128
   }],
   "Bpm": 165,
   "PlayedCount": 292
@@ -3198,7 +3574,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 866,
-    "Stars": 7.49
+    "Stars": 7.49,
+    "NoteCount": 2218
   }],
   "Bpm": 180,
   "PlayedCount": 866
@@ -3211,23 +3588,28 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1102,
-    "Stars": 3.84
+    "Stars": 3.84,
+    "NoteCount": 1248
   }, {
     "Diff": "Easy",
     "Scores": 107,
-    "Stars": 1.0
+    "Stars": 1.0,
+    "NoteCount": 359
   }, {
     "Diff": "Hard",
     "Scores": 752,
-    "Stars": 1.8
+    "Stars": 1.8,
+    "NoteCount": 703
   }, {
     "Diff": "Normal",
     "Scores": 284,
-    "Stars": 1.29
+    "Stars": 1.29,
+    "NoteCount": 506
   }, {
     "Diff": "Expert",
     "Scores": 1318,
-    "Stars": 2.72
+    "Stars": 2.72,
+    "NoteCount": 1002
   }],
   "Bpm": 140,
   "PlayedCount": 3563
@@ -3240,7 +3622,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 899,
-    "Stars": 8.9
+    "Stars": 8.9,
+    "NoteCount": 921
   }],
   "Bpm": 250,
   "PlayedCount": 899
@@ -3253,7 +3636,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 907,
-    "Stars": 2.45
+    "Stars": 2.45,
+    "NoteCount": 422
   }],
   "Bpm": 88.55000305175781,
   "PlayedCount": 907
@@ -3266,7 +3650,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 12340,
-    "Stars": 2.06
+    "Stars": 2.06,
+    "NoteCount": 862
   }],
   "Bpm": 150,
   "PlayedCount": 12340
@@ -3279,7 +3664,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1179,
-    "Stars": 2.12
+    "Stars": 2.12,
+    "NoteCount": 531
   }],
   "Bpm": 110,
   "PlayedCount": 1179
@@ -3292,19 +3678,23 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 138,
-    "Stars": 1.02
+    "Stars": 1.02,
+    "NoteCount": 339
   }, {
     "Diff": "Normal",
     "Scores": 300,
-    "Stars": 1.36
+    "Stars": 1.36,
+    "NoteCount": 477
   }, {
     "Diff": "Hard",
     "Scores": 570,
-    "Stars": 1.95
+    "Stars": 1.95,
+    "NoteCount": 689
   }, {
     "Diff": "Expert",
     "Scores": 2169,
-    "Stars": 2.64
+    "Stars": 2.64,
+    "NoteCount": 873
   }],
   "Bpm": 160,
   "PlayedCount": 3177
@@ -3317,19 +3707,23 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 567,
-    "Stars": 0.86
+    "Stars": 0.86,
+    "NoteCount": 235
   }, {
     "Diff": "Normal",
     "Scores": 1264,
-    "Stars": 1.25
+    "Stars": 1.25,
+    "NoteCount": 378
   }, {
     "Diff": "Hard",
     "Scores": 1920,
-    "Stars": 1.62
+    "Stars": 1.62,
+    "NoteCount": 495
   }, {
     "Diff": "Expert",
     "Scores": 2022,
-    "Stars": 2.56
+    "Stars": 2.56,
+    "NoteCount": 760
   }],
   "Bpm": 114.5,
   "PlayedCount": 5773
@@ -3342,7 +3736,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 745,
-    "Stars": 2.7
+    "Stars": 2.7,
+    "NoteCount": 679
   }],
   "Bpm": 130,
   "PlayedCount": 745
@@ -3355,11 +3750,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 385,
-    "Stars": 2.57
+    "Stars": 2.57,
+    "NoteCount": 847
   }, {
     "Diff": "ExpertPlus",
     "Scores": 516,
-    "Stars": 3.98
+    "Stars": 3.98,
+    "NoteCount": 1275
   }],
   "Bpm": 120,
   "PlayedCount": 901
@@ -3372,15 +3769,18 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1928,
-    "Stars": 4.41
+    "Stars": 4.41,
+    "NoteCount": 656
   }, {
     "Diff": "Hard",
     "Scores": 716,
-    "Stars": 3.07
+    "Stars": 3.07,
+    "NoteCount": 498
   }, {
     "Diff": "Expert",
     "Scores": 1156,
-    "Stars": 3.41
+    "Stars": 3.41,
+    "NoteCount": 546
   }],
   "Bpm": 186,
   "PlayedCount": 3800
@@ -3393,7 +3793,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 641,
-    "Stars": 7.06
+    "Stars": 7.06,
+    "NoteCount": 2095
   }],
   "Bpm": 147,
   "PlayedCount": 641
@@ -3406,19 +3807,23 @@
   "Diffs": [{
     "Diff": "Easy",
     "Scores": 85,
-    "Stars": 0.93
+    "Stars": 0.93,
+    "NoteCount": 213
   }, {
     "Diff": "Hard",
     "Scores": 423,
-    "Stars": 1.97
+    "Stars": 1.97,
+    "NoteCount": 552
   }, {
     "Diff": "Normal",
     "Scores": 180,
-    "Stars": 1.27
+    "Stars": 1.27,
+    "NoteCount": 330
   }, {
     "Diff": "Expert",
     "Scores": 1173,
-    "Stars": 2.55
+    "Stars": 2.55,
+    "NoteCount": 709
   }],
   "Bpm": 160,
   "PlayedCount": 1861
@@ -3431,11 +3836,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 2354,
-    "Stars": 4.36
+    "Stars": 4.36,
+    "NoteCount": 1334
   }, {
     "Diff": "ExpertPlus",
     "Scores": 2931,
-    "Stars": 7.67
+    "Stars": 7.67,
+    "NoteCount": 1680
   }],
   "Bpm": 176,
   "PlayedCount": 5285
@@ -3448,7 +3855,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 61,
-    "Stars": 6.34
+    "Stars": 6.34,
+    "NoteCount": 1080
   }],
   "Bpm": 150,
   "PlayedCount": 61
@@ -3461,7 +3869,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 274,
-    "Stars": 4.8
+    "Stars": 4.8,
+    "NoteCount": 1106
   }],
   "Bpm": 190,
   "PlayedCount": 274
@@ -3474,7 +3883,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 3130,
-    "Stars": 3.98
+    "Stars": 3.98,
+    "NoteCount": 1325
   }],
   "Bpm": 196,
   "PlayedCount": 0
@@ -3487,7 +3897,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 14182,
-    "Stars": 2.99
+    "Stars": 2.99,
+    "NoteCount": 885
   }],
   "Bpm": 128,
   "PlayedCount": 14182
@@ -3500,15 +3911,18 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 199,
-    "Stars": 3.6
+    "Stars": 3.6,
+    "NoteCount": 478
   }, {
     "Diff": "Expert",
     "Scores": 1180,
-    "Stars": 4.1
+    "Stars": 4.1,
+    "NoteCount": 478
   }, {
     "Diff": "ExpertPlus",
     "Scores": 2521,
-    "Stars": 5.49
+    "Stars": 5.49,
+    "NoteCount": 479
   }],
   "Bpm": 175,
   "PlayedCount": 3900
@@ -3521,7 +3935,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1215,
-    "Stars": 7.05
+    "Stars": 7.05,
+    "NoteCount": 1725
   }],
   "Bpm": 185,
   "PlayedCount": 1215
@@ -3534,7 +3949,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 150,
-    "Stars": 9.87
+    "Stars": 9.87,
+    "NoteCount": 1600
   }],
   "Bpm": 160,
   "PlayedCount": 150
@@ -3547,7 +3963,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2682,
-    "Stars": 5.06
+    "Stars": 5.06,
+    "NoteCount": 615
   }],
   "Bpm": 180,
   "PlayedCount": 2682
@@ -3560,7 +3977,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 1179,
-    "Stars": 3.75
+    "Stars": 3.75,
+    "NoteCount": 472
   }],
   "Bpm": 190,
   "PlayedCount": 1179
@@ -3591,19 +4009,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 11654,
-    "Stars": 3.07
+    "Stars": 3.07,
+    "NoteCount": 825
   }, {
     "Diff": "Hard",
     "Scores": 6605,
-    "Stars": 2.26
+    "Stars": 2.26,
+    "NoteCount": 636
   }, {
     "Diff": "Normal",
     "Scores": 19562,
-    "Stars": 1.25
+    "Stars": 1.25,
+    "NoteCount": 389
   }, {
     "Diff": "Easy",
     "Scores": 14960,
-    "Stars": 0.49
+    "Stars": 0.49,
+    "NoteCount": 325
   }],
   "Bpm": 120,
   "PlayedCount": 52781
@@ -3616,7 +4038,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 417,
-    "Stars": 2.64
+    "Stars": 2.64,
+    "NoteCount": 492
   }],
   "Bpm": 150,
   "PlayedCount": 417
@@ -3629,7 +4052,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1552,
-    "Stars": 6.78
+    "Stars": 6.78,
+    "NoteCount": 821
   }],
   "Bpm": 178,
   "PlayedCount": 1552
@@ -3642,7 +4066,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1471,
-    "Stars": 7.53
+    "Stars": 7.53,
+    "NoteCount": 2524
   }],
   "Bpm": 200,
   "PlayedCount": 1471
@@ -3664,7 +4089,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 934,
-    "Stars": 7.79
+    "Stars": 7.79,
+    "NoteCount": 1673
   }],
   "Bpm": 170,
   "PlayedCount": 934
@@ -3677,7 +4103,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 866,
-    "Stars": 7.88
+    "Stars": 7.88,
+    "NoteCount": 1071
   }],
   "Bpm": 180,
   "PlayedCount": 866
@@ -3690,7 +4117,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 669,
-    "Stars": 6.54
+    "Stars": 6.54,
+    "NoteCount": 880
   }],
   "Bpm": 151,
   "PlayedCount": 669
@@ -3703,7 +4131,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 959,
-    "Stars": 6.02
+    "Stars": 6.02,
+    "NoteCount": 960
   }],
   "Bpm": 200,
   "PlayedCount": 959
@@ -3716,11 +4145,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 16,
-    "Stars": 7.09
+    "Stars": 7.09,
+    "NoteCount": 1084
   }, {
     "Diff": "ExpertPlus",
     "Scores": 139,
-    "Stars": 7.53
+    "Stars": 7.53,
+    "NoteCount": 1166
   }],
   "Bpm": 220,
   "PlayedCount": 155
@@ -3733,7 +4164,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 257,
-    "Stars": 6.95
+    "Stars": 6.95,
+    "NoteCount": 1568
   }],
   "Bpm": 230,
   "PlayedCount": 257
@@ -3746,7 +4178,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 241,
-    "Stars": 6.13
+    "Stars": 6.13,
+    "NoteCount": 1521
   }],
   "Bpm": 200,
   "PlayedCount": 241
@@ -3759,7 +4192,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 288,
-    "Stars": 8.23
+    "Stars": 8.23,
+    "NoteCount": 1941
   }],
   "Bpm": 140,
   "PlayedCount": 288
@@ -3772,7 +4206,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 198,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 1205
   }],
   "Bpm": 129,
   "PlayedCount": 198
@@ -3785,15 +4220,18 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 176,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 389
   }, {
     "Diff": "Hard",
     "Scores": 77,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 286
   }, {
     "Diff": "ExpertPlus",
     "Scores": 307,
-    "Stars": 0.0
+    "Stars": 0.0,
+    "NoteCount": 486
   }],
   "Bpm": 189,
   "PlayedCount": 560
@@ -3815,23 +4253,28 @@
   "Diffs": [{
     "Diff": "Normal",
     "Scores": 74,
-    "Stars": 2.4
+    "Stars": 2.4,
+    "NoteCount": 714
   }, {
     "Diff": "Easy",
     "Scores": 61,
-    "Stars": 1.11
+    "Stars": 1.11,
+    "NoteCount": 340
   }, {
     "Diff": "Hard",
     "Scores": 196,
-    "Stars": 3.64
+    "Stars": 3.64,
+    "NoteCount": 934
   }, {
     "Diff": "Expert",
     "Scores": 198,
-    "Stars": 6.09
+    "Stars": 6.09,
+    "NoteCount": 1203
   }, {
     "Diff": "ExpertPlus",
     "Scores": 258,
-    "Stars": 5.74
+    "Stars": 5.74,
+    "NoteCount": 1166
   }],
   "Bpm": 193,
   "PlayedCount": 787
@@ -3844,19 +4287,23 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 214,
-    "Stars": 5.02
+    "Stars": 5.02,
+    "NoteCount": 1136
   }, {
     "Diff": "Normal",
     "Scores": 55,
-    "Stars": 2.82
+    "Stars": 2.82,
+    "NoteCount": 850
   }, {
     "Diff": "Hard",
     "Scores": 111,
-    "Stars": 3.55
+    "Stars": 3.55,
+    "NoteCount": 967
   }, {
     "Diff": "ExpertPlus",
     "Scores": 296,
-    "Stars": 7.7
+    "Stars": 7.7,
+    "NoteCount": 1279
   }],
   "Bpm": 164,
   "PlayedCount": 676
@@ -3869,7 +4316,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1806,
-    "Stars": 7.55
+    "Stars": 7.55,
+    "NoteCount": 2560
   }],
   "Bpm": 200,
   "PlayedCount": 1806
@@ -3882,7 +4330,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1902,
-    "Stars": 6.62
+    "Stars": 6.62,
+    "NoteCount": 2211
   }],
   "Bpm": 185,
   "PlayedCount": 1902
@@ -3895,11 +4344,13 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2163,
-    "Stars": 9.09
+    "Stars": 9.09,
+    "NoteCount": 2048
   }, {
     "Diff": "Expert",
     "Scores": 265,
-    "Stars": 9.03
+    "Stars": 9.03,
+    "NoteCount": 2048
   }],
   "Bpm": 215,
   "PlayedCount": 2428
@@ -3912,7 +4363,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 966,
-    "Stars": 7.03
+    "Stars": 7.03,
+    "NoteCount": 2061
   }],
   "Bpm": 100,
   "PlayedCount": 966
@@ -3925,7 +4377,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 3127,
-    "Stars": 6.89
+    "Stars": 6.89,
+    "NoteCount": 1400
   }],
   "Bpm": 170,
   "PlayedCount": 3127
@@ -3938,7 +4391,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 4405,
-    "Stars": 7.12
+    "Stars": 7.12,
+    "NoteCount": 958
   }],
   "Bpm": 175,
   "PlayedCount": 4405
@@ -3951,11 +4405,13 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2106,
-    "Stars": 7.21
+    "Stars": 7.21,
+    "NoteCount": 2850
   }, {
     "Diff": "Expert",
     "Scores": 1405,
-    "Stars": 5.43
+    "Stars": 5.43,
+    "NoteCount": 2438
   }],
   "Bpm": 185,
   "PlayedCount": 3511
@@ -3968,11 +4424,13 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1791,
-    "Stars": 7.65
+    "Stars": 7.65,
+    "NoteCount": 2040
   }, {
     "Diff": "Expert",
     "Scores": 1729,
-    "Stars": 7.2
+    "Stars": 7.2,
+    "NoteCount": 2039
   }],
   "Bpm": 200,
   "PlayedCount": 3520
@@ -3985,7 +4443,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2650,
-    "Stars": 7.51
+    "Stars": 7.51,
+    "NoteCount": 820
   }],
   "Bpm": 175,
   "PlayedCount": 2650
@@ -3998,7 +4457,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1870,
-    "Stars": 6.42
+    "Stars": 6.42,
+    "NoteCount": 739
   }],
   "Bpm": 150,
   "PlayedCount": 1870
@@ -4011,7 +4471,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 3089,
-    "Stars": 6.59
+    "Stars": 6.59,
+    "NoteCount": 908
   }],
   "Bpm": 170,
   "PlayedCount": 3089
@@ -4024,7 +4485,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 3567,
-    "Stars": 6.95
+    "Stars": 6.95,
+    "NoteCount": 1951
   }],
   "Bpm": 174,
   "PlayedCount": 3567
@@ -4037,11 +4499,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 2527,
-    "Stars": 3.26
+    "Stars": 3.26,
+    "NoteCount": 917
   }, {
     "Diff": "ExpertPlus",
     "Scores": 2900,
-    "Stars": 6.62
+    "Stars": 6.62,
+    "NoteCount": 1537
   }],
   "Bpm": 95,
   "PlayedCount": 5427
@@ -4054,7 +4518,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 6022,
-    "Stars": 8.14
+    "Stars": 8.14,
+    "NoteCount": 1920
   }],
   "Bpm": 174,
   "PlayedCount": 6022
@@ -4067,11 +4532,13 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 149,
-    "Stars": 6.82
+    "Stars": 6.82,
+    "NoteCount": 1496
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1880,
-    "Stars": 6.82
+    "Stars": 6.82,
+    "NoteCount": 1496
   }],
   "Bpm": 182,
   "PlayedCount": 2029
@@ -4084,7 +4551,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2120,
-    "Stars": 6.38
+    "Stars": 6.38,
+    "NoteCount": 1023
   }],
   "Bpm": 153,
   "PlayedCount": 2120
@@ -4097,7 +4565,8 @@
   "Diffs": [{
     "Diff": "Expert",
     "Scores": 2518,
-    "Stars": 7.25
+    "Stars": 7.25,
+    "NoteCount": 655
   }],
   "Bpm": 170,
   "PlayedCount": 2518
@@ -4110,23 +4579,28 @@
   "Diffs": [{
     "Diff": "Hard",
     "Scores": 844,
-    "Stars": 3.88
+    "Stars": 3.88,
+    "NoteCount": 1155
   }, {
     "Diff": "Normal",
     "Scores": 496,
-    "Stars": 2.39
+    "Stars": 2.39,
+    "NoteCount": 820
   }, {
     "Diff": "Easy",
     "Scores": 263,
-    "Stars": 1.48
+    "Stars": 1.48,
+    "NoteCount": 522
   }, {
     "Diff": "Expert",
     "Scores": 1285,
-    "Stars": 5.01
+    "Stars": 5.01,
+    "NoteCount": 1332
   }, {
     "Diff": "ExpertPlus",
     "Scores": 1720,
-    "Stars": 5.75
+    "Stars": 5.75,
+    "NoteCount": 1417
   }],
   "Bpm": 160,
   "PlayedCount": 4608
@@ -4139,7 +4613,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 2225,
-    "Stars": 6.48
+    "Stars": 6.48,
+    "NoteCount": 925
   }],
   "Bpm": 158,
   "PlayedCount": 2225
@@ -4152,7 +4627,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 758,
-    "Stars": 6.6
+    "Stars": 6.6,
+    "NoteCount": 938
   }],
   "Bpm": 160,
   "PlayedCount": 758
@@ -4165,7 +4641,8 @@
   "Diffs": [{
     "Diff": "ExpertPlus",
     "Scores": 1066,
-    "Stars": 9.38
+    "Stars": 9.38,
+    "NoteCount": 1960
   }],
   "Bpm": 199,
   "PlayedCount": 1066
